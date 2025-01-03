@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lifting and moving things",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,14 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85b919e07be4c83e",
+  "active": "7a8a90e68986c0eb",
   "lastOpenFiles": [
-    "Damage.md",
-    "Bookmarks.md",
     "Foundry/Data/GURPS 4th - Lite.pdf",
     "GURPS - Ruleset/GURPS Lite/The Basics/Injury, Illness, and Fatigue.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Physical Feats.md",
     "GURPS - Ruleset/GURPS Lite/Characters/Basic Attributes.md",
+    "Damage.md",
+    "Bookmarks.md",
     "GURPSSoloAdventures/DragonsDemise-GURPS.pdf",
     "README.md",
     "GURPSSoloAdventures/The Cold Bounty.pdf",
