@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cc5b8a4e6eec6ce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GURPSSoloAdventures/DragonsDemise-GURPS.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DragonsDemise-GURPS"
-            }
-          },
-          {
             "id": "b1ee7b473b2d38dd",
             "type": "leaf",
             "state": {
@@ -82,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lifting and moving things",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,22 +207,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cc5b8a4e6eec6ce",
+  "active": "7a8a90e68986c0eb",
   "lastOpenFiles": [
+    "Foundry/Data/GURPS 4th - Lite.pdf",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Injury, Illness, and Fatigue.md",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Physical Feats.md",
+    "GURPS - Ruleset/GURPS Lite/Characters/Basic Attributes.md",
+    "Damage.md",
+    "Bookmarks.md",
+    "GURPSSoloAdventures/DragonsDemise-GURPS.pdf",
     "README.md",
     "GURPSSoloAdventures/The Cold Bounty.pdf",
     "GURPSSoloAdventures/The Cold Bounty.pdf.crdownload",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Injury, Illness, and Fatigue.md",
     "GCS General/GURPS Solo Adventures/Beyond The Vale of Madness/safe1242734191534298882",
-    "Foundry/Data/GURPS 4th - Lite.pdf",
     "GURPS - Ruleset/GURPS Lite/The Basics/Mental Feats.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Physical Feats.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Reaction Rolls.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Success Rolls.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Resources.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Combat.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Damage Rolls.md",
-    "GURPSSoloAdventures/DragonsDemise-GURPS.pdf",
     "GURPSSoloAdventures/Beyond-the-Vale-of-Madness-GURPS.pdf",
     "GCS General/GURPS Solo Adventures/Dragons Demise",
     "GURPSSoloAdventures/DragonsDemise-GURPS.pdf.crdownload",
@@ -262,10 +254,6 @@
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Industry Certifications - SFA.md",
     "Foundry/Data/modules/gm-notes/patchnotes.md",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Protecting End Devices - SFA.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Challenges of Securing IoT devices - SFA.md",
-    "Foundry/Data/modules/gm-notes/README.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/A refusal of individuality..md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Mathematical Statements.md",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Private - Do Not Touch/Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
