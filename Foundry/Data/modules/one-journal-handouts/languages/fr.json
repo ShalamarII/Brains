@@ -1,0 +1,15 @@
+{
+  "one-journal-handouts": {
+    "settings": {
+      "gm-journal-name": "Journal contenant les aides de jeu (monde)",
+      "gm-journal-hint": "Journal dans lequel se trouve toutes les aides de jeu à partager aux joueurs. ⚠️ Ne partagez pas ce journal avec les joueurs.",
+      "players-journal-name": "Journal des joueurs (monde)",
+      "players-journal-hint": "Journal dans lequel les joueurs peuvent visualiser toutes les aides de jeux partagées par le GM. ⚠️ N'oubliez pas de partager ce journal avec les joueurs.",
+      "open-page-name": "Ouvrir la page au GM (monde)",
+      "open-page-hint": "Lorsqu'une aide de jeu est partagée avec les joueurs, si ce paramètre est activé, la page nouvellement créée sera également ouverte au MJ."
+    },
+    "share-with-players": "Partager la page actuelle",
+    "no-players-journal": "Le journal des joueurs n'existe pas.",
+    "successful": "Page du journal partagée avec succès aux joueurs."
+  }
+}

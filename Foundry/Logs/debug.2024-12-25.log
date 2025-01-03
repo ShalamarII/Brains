@@ -1,0 +1,14 @@
+{"level":"info","message":"Running on Node.js - Version 20.9.0","timestamp":"2024-12-25 14:45:58"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 12 Build 331","timestamp":"2024-12-25 14:45:58"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ADMIN/Documents/Our Vault/Foundry\"","timestamp":"2024-12-25 14:45:58"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"adminPassword\": null,\n  \"noBackups\": false\n}","timestamp":"2024-12-25 14:45:59"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2024-12-25 14:45:59"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2024-12-25 14:45:59"}
+{"level":"info","message":"Running Electron application with version 29.4.0 using Chromium 122.0.6261.156","timestamp":"2024-12-25 14:45:59"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2024-12-25 14:45:59"}
+{"level":"info","message":"Created client session 901cda6987e9fca7a5dccb22","timestamp":"2024-12-25 14:46:02"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-12-25 14:46:03"}
+{"level":"info","message":"Uninstalled module fxmaster","timestamp":"2024-12-25 14:46:20"}
+{"level":"info","message":"Uninstalled module dnd5e-scriptlets","timestamp":"2024-12-25 14:56:33"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-12-25 15:38:01"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-12-25 15:38:01"}

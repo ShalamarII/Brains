@@ -1,0 +1,33 @@
+{
+  "id": "monks-enhanced-journal-objectives-styles",
+  "title": "Monk's Enhanced Journal Objectives styles",
+  "version": "1.0.3",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Kai Nashi",
+      "discord": "kai_nashi"
+    }
+  ],
+  "styles": [
+    "styles/monks-enhanced-journal-objectives-styles.css"
+  ],
+  "description": "Fix styles for objectives list.",
+  "url": "https://github.com/kai_nashi/monks-enhanced-journal-objectives-styles",
+  "download": "https://github.com/kai-nashi/monks-enhanced-journal-objectives-styles/archive/1.0.3.zip",
+  "manifest": "https://github.com/kai-nashi/monks-enhanced-journal-objectives-styles/releases/latest/download/module.json",
+  "bugs": "https://github.com/kai-nashi/monks-enhanced-journal-objectives-styles/issues",
+  "allowBugReporter": true
+}

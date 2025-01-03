@@ -1,0 +1,10 @@
+{
+  "enabledCssSnippets": [
+    "GURPS_Formatting"
+  ],
+  "accentColor": "",
+  "baseFontSize": 15,
+  "theme": "system",
+  "cssTheme": "",
+  "nativeMenus": false
+}

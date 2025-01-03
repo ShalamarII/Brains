@@ -1,0 +1,244 @@
+{
+  "title": "Yadora, A Land Fallen",
+  "id": "yadora-a-land-fallen",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "systemVersion": "4.0.2",
+  "lastPlayed": "Sat Sep 21 2024 19:06:03 GMT-0400 (Eastern Daylight Time)",
+  "playtime": 141965,
+  "packs": [
+    {
+      "label": "Classes",
+      "type": "Item",
+      "name": "classes",
+      "path": "packs/classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Races",
+      "type": "Item",
+      "name": "races",
+      "path": "packs/races",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "AcquisitionsIncorporated-rollTable",
+      "label": "AcquisitionsIncorporated-rollTable",
+      "type": "RollTable",
+      "path": "packs/AcquisitionsIncorporated-rollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "EberronRising-rollTable",
+      "label": "EberronRising-rollTable",
+      "type": "RollTable",
+      "path": "packs/EberronRising-rollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "AdventuresLeague-rollTable",
+      "label": "AdventuresLeague-rollTable",
+      "type": "RollTable",
+      "path": "packs/AdventuresLeague-rollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "BaldursGateDescentIntoAvernus-rollTable",
+      "label": "BaldursGateDescentIntoAvernus-rollTable",
+      "type": "RollTable",
+      "path": "packs/BaldursGateDescentIntoAvernus-rollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "CurseOfStrahd-rollTable",
+      "label": "CurseOfStrahd-rollTable",
+      "type": "RollTable",
+      "path": "packs/CurseOfStrahd-rollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "ExplorersGuideWildemount-rollTable",
+      "label": "ExplorersGuideWildemount-rollTable",
+      "type": "RollTable",
+      "path": "packs/ExplorersGuideWildemount-rollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Universal-backgrounds",
+      "label": "Universal-backgrounds",
+      "type": "Item",
+      "path": "packs/Universal-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Universal-rollTable",
+      "label": "Universal-rollTable",
+      "type": "RollTable",
+      "path": "packs/Universal-rollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Universal-monsters",
+      "label": "Universal-monsters",
+      "type": "Actor",
+      "path": "packs/Universal-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Universal-items",
+      "label": "Universal-items",
+      "type": "Item",
+      "path": "packs/Universal-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Universal-race",
+      "label": "Universal-race",
+      "type": "Item",
+      "path": "packs/Universal-race",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Universal-spells",
+      "label": "Universal-spells",
+      "type": "Item",
+      "path": "packs/Universal-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "Universal-feats",
+      "label": "Universal-feats",
+      "type": "Item",
+      "path": "packs/Universal-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Languages",
+      "type": "Item",
+      "name": "languages",
+      "path": "packs/languages",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Class Features",
+      "type": "Item",
+      "name": "class-features",
+      "path": "packs/class-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "xml-race",
+      "label": "xml-race",
+      "type": "Item",
+      "path": "packs/xml-race",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Backgrounds",
+      "type": "Item",
+      "name": "backgrounds",
+      "path": "packs/backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}

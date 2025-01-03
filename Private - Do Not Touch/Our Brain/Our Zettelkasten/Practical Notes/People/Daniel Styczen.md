@@ -1,0 +1,69 @@
+#### Likes:
+- Gaming
+	- Metal Gear series
+	- Resident Evil series
+	- Games with building in it
+	- Helldivers 2
+	- Guilty Gear
+	- Persona series
+- Anime
+	- Full Metal Alchemist: Brotherhood
+	- Code: Geass
+	- Re:Zero
+		- (HE WANTS NO FIGURINES OF RE:ZERO)
+	- Jujutsu Kaisen
+	- Romcoms (ex. Nisekoi, Love is War)
+- Makowiec (poppy seed danish)
+- Cheesecake
+- Cordless Vacuums (only if strong)
+	- Strong vacuums
+- Cleaning (when in mood)
+- Pineapple on pizza
+- Cereal (comfort food)
+- Chocolate milk (comfort drink)
+- Music (Jazz)
+- Good movies
+	- Favourite; Indiana Jones series
+- Oversized clothes
+- Tamiya models (thinks they're cool)
+- Honey on toast
+- Bakeries
+- Cinnamon buns
+- Meandering (w/ friends or alone)
+- Anything on a pizza (but avocado)
+- Pompadours (and maybe mullets)
+- Hiking
+- Zet's
+- Asian markets (cool variety)
+- L-shaped desks
+- IKEA food
+- Chilling
+	- As in, listening to chill music and relaxing
+- Comfy beds
+- Avatar (the show)
+- (Learning about) History
+- "Pillars of Justice" characters
+	- Rengoku
+	- Guts (?)
+	- Mumen Rider
+	- L
+- Charismatic strategist/leader characters
+	- Zero (Code: Geass)
+	- Roy Mustang
+
+#### Dislikes
+- Horror
+- Avocados
+- Tzatziki sauce
+- When people vape
+- "Tiny crusty white girl dogs"
+- People who don't take driving seriously
+
+#### Gift Ideas
+- Anime stickers that go hard
+- Clothes
+- Manga
+- Posters (that go hard)
+- (Money for models)
+- Cool/Nice mousepad (for full desk)
+

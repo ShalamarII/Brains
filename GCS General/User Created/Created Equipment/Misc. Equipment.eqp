@@ -1,0 +1,111 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "e5ly2zmLIkVk9TWtU",
+			"description": "Glassblowing Tube",
+			"tech_level": "2",
+			"legality_class": "4",
+			"tags": [
+				"created-items"
+			],
+			"value": 0.4,
+			"weight": "1 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0.4,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "eP7oF1ScBF1wuL72u",
+			"description": "Glass Jar",
+			"tech_level": "2",
+			"legality_class": "4",
+			"tags": [
+				"created-items"
+			],
+			"value": 1,
+			"weight": "1 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 1,
+				"extended_weight": "1 lb"
+			}
+		},
+		{
+			"id": "eDSIS8rl-JmD2Ec9P",
+			"description": "Crushed Oyster Shells",
+			"legality_class": "4",
+			"tags": [
+				"created-items"
+			],
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "edAoJfTp-wFM3tQmI",
+			"description": "Bucket",
+			"legality_class": "4",
+			"tags": [
+				"created-items"
+			],
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "e7_kVp3JlmQmM0MVn",
+			"description": "Grave dirt, 1 bag",
+			"legality_class": "4",
+			"tags": [
+				"created-items"
+			],
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "egMT6Zk2klcPaN4AL",
+			"description": "Gold and Emerald Ring",
+			"legality_class": "4",
+			"tags": [
+				"created-items"
+			],
+			"value": 300,
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 300,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "eB0IZ71m1ZW2pqjgw",
+			"description": "Bottle of Ice Wine",
+			"legality_class": "4",
+			"tags": [
+				"created-items"
+			],
+			"value": 5,
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 5,
+				"extended_weight": "0 lb"
+			}
+		}
+	]
+}

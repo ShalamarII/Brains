@@ -1,0 +1,7 @@
+2024/06/18-21:16:20.552 3b84 Recovering log #114
+2024/06/18-21:16:20.555 3b84 Delete type=0 #114
+2024/06/18-21:16:20.555 3b84 Delete type=3 #112
+2024/06/18-21:16:45.135 2bf0 Level-0 table #119: started
+2024/06/18-21:16:45.135 2bf0 Level-0 table #119: 0 bytes OK
+2024/06/18-21:16:45.136 2bf0 Delete type=0 #117
+2024/06/18-21:16:45.137 2bf0 Manual compaction at level-0 from '!messages!01939EeY5hLAI7SP' @ 72057594037927935 : 1 .. '!messages!zw0zrQ16KS67SMtF' @ 0 : 0; will stop at (end)

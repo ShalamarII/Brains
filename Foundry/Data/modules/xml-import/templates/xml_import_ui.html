@@ -1,0 +1,37 @@
+<div>
+    <div class = "form-group-import">
+        <h2>Import XML from somewhere</h2>
+
+        <p>Input will be the prefix for the compendiums created</p>
+        <input  id="compendium-input" name="compendium-input" value="xml"></input>
+        <p>Will create a compendium named <i>input</i>-spells and <i>input</i>-monsters</p>
+
+        <h2>Paste the XML or URL to an XML into the box below and click "Import".</h2>
+
+        <textarea id="all-xml" name="all-xml" rows="10" cols="50"></textarea><br>
+        <input class="update-checkbox" type="checkbox" value="0" name="featsButton" checked>
+        <label for="featsButton">Add Feats?</label><br>
+        <input class="update-checkbox" type="checkbox" value="0" name="backgroundsButton" checked>
+        <label for="backgroundsButton">Add Backgrounds?</label><br>
+        <input class="update-checkbox" type="checkbox" value="0" name="raceButton" checked>
+        <label for="raceButton">Add Race?</label><br>
+        <input class="update-checkbox" type="checkbox" value="0" name="itemsButton" checked>
+        <label for="featsButton">Add Items?</label><br>
+        <input class="update-checkbox" type="checkbox" value="0" name="featuresButton" checked>
+        <label for="featuresButton">Add Class Features?</label><br>
+        <input class="update-checkbox" type="checkbox" value="0" name="subclassButton" checked>
+        <label for="subclassButton">Add Subclasses?</label><br>
+        <input class="update-checkbox" type="checkbox" value="0" name="classButton" checked>
+        <label for="classButton">Add Classes?</label><br>
+        <input class="update-checkbox" type="checkbox" value="0" name="spellsButton" checked>
+        <label for="spellsButton">Add Spells?</label><br>
+        <input class="update-checkbox" type="checkbox" value="0" name="creatureButton" checked>
+        <label for="creatureButton">Add Monsters?</label><br>
+        <!-- <input class="update-checkbox" type="checkbox" value="1" name="journalButton" checked>
+        <label for="journalButton">Add Journals?</label> -->
+        <div class="flexrow">
+            <input type="submit" class="import-xml" value="Import">
+            <input type="submit" class="order-comp-button" value="Order Compendiums">
+        </div>
+    </div>
+</div>

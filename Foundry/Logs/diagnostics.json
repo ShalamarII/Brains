@@ -1,0 +1,215 @@
+{
+  "timestamp": 1735709512315,
+  "os": {
+    "platform": "win32",
+    "version": "10.0.22000",
+    "node": "20.9.0",
+    "electron": "29.4.0"
+  },
+  "foundry": {
+    "generation": 12,
+    "build": 331,
+    "channel": "stable",
+    "hosting": null
+  },
+  "modules": {
+    "chat-notifications": {
+      "version": "1.2.6"
+    },
+    "colorsettings": {
+      "version": "3.0.3"
+    },
+    "combat-tracker-dock": {
+      "version": "3.1.6"
+    },
+    "combat-utility-belt": {
+      "version": "1.10.4"
+    },
+    "condition-lab-triggler": {
+      "version": "2.0.3"
+    },
+    "dae": {
+      "version": "11.3.68"
+    },
+    "dd-import": {
+      "version": "4.0.0"
+    },
+    "dfreds-chat-pins": {
+      "version": "4.0.1"
+    },
+    "dfreds-droppables": {
+      "version": "4.0.1"
+    },
+    "dfreds-effects-panel": {
+      "version": "4.0.3"
+    },
+    "dice-calculator": {
+      "version": "2.2.5"
+    },
+    "dice-so-nice": {
+      "version": "5.1.4"
+    },
+    "EEEG-Importer": {
+      "version": "1.1.8"
+    },
+    "effectmacro": {
+      "version": "12.1.1"
+    },
+    "gm-notes": {
+      "version": "10.0"
+    },
+    "gm-screen": {
+      "version": "4.0.4"
+    },
+    "lib-wrapper": {
+      "version": "1.13.2.0"
+    },
+    "magicitems": {
+      "version": "4.2.5"
+    },
+    "mergewalls": {
+      "version": "12.0.1"
+    },
+    "midi-item-showcase-community": {
+      "version": "1.3.7"
+    },
+    "midi-qol": {
+      "version": "11.6.29"
+    },
+    "mkah-compendium-importer": {
+      "version": "2.3.0"
+    },
+    "module-credits": {
+      "version": "2.2.3"
+    },
+    "monks-active-tiles": {
+      "version": "12.02"
+    },
+    "monks-bloodsplats": {
+      "version": "12.01"
+    },
+    "monks-chat-timer": {
+      "version": "12.01"
+    },
+    "monks-combat-details": {
+      "version": "12.02"
+    },
+    "monks-combat-marker": {
+      "version": "12.01"
+    },
+    "monks-common-display": {
+      "version": "12.01"
+    },
+    "monks-enhanced-journal": {
+      "version": "12.02"
+    },
+    "monks-enhanced-journal-objectives-styles": {
+      "version": "1.0.3"
+    },
+    "monks-hotbar-expansion": {
+      "version": "11.01"
+    },
+    "monks-little-details": {
+      "version": "12.04"
+    },
+    "monks-player-settings": {
+      "version": "12.01"
+    },
+    "monks-scene-navigation": {
+      "version": "12.01"
+    },
+    "monks-shops": {
+      "version": "1.0.2"
+    },
+    "monks-tokenbar": {
+      "version": "12.04"
+    },
+    "monks-wall-enhancement": {
+      "version": "12.02"
+    },
+    "one-journal-handouts": {
+      "version": "1.2.1"
+    },
+    "perceptive": {
+      "version": "4.2.1"
+    },
+    "pf2e-rpg-numbers": {
+      "version": "12.6.10"
+    },
+    "popout": {
+      "version": "2.18"
+    },
+    "quick-grid-align": {
+      "version": "1.3"
+    },
+    "rest-recovery": {
+      "version": "2.3.0"
+    },
+    "scaleGrid": {
+      "version": "1.4.5"
+    },
+    "sequencer": {
+      "version": "3.4.7"
+    },
+    "simple-worldbuilding-plus": {
+      "version": "1.2.1"
+    },
+    "socketlib": {
+      "version": "1.1.0"
+    },
+    "tagger": {
+      "version": "1.5.1"
+    },
+    "times-up": {
+      "version": "11.3.19"
+    },
+    "token-action-hud-core": {
+      "version": "2.0.10"
+    },
+    "token-action-hud-dnd5e": {
+      "version": "2.0.2"
+    },
+    "token-tooltip-alt": {
+      "version": "3.3.2"
+    },
+    "tokenmagic": {
+      "version": "0.6.9"
+    },
+    "torch": {
+      "version": "2.16.0"
+    },
+    "touch-vtt": {
+      "version": "2.2.15"
+    },
+    "universal-animations": {
+      "version": "0.3.5"
+    },
+    "vtta-tokenizer": {
+      "version": "4.3.16"
+    },
+    "warpgate": {
+      "version": "1.18.3"
+    },
+    "xml-import": {
+      "version": "0.9.1"
+    },
+    "_CodeMirror": {
+      "version": "5.58.3-fvtt5"
+    }
+  },
+  "systems": {
+    "dnd5e": {
+      "version": "4.1.2",
+      "playtime": 164891
+    },
+    "gurps": {
+      "version": "0.17.16",
+      "playtime": 408
+    }
+  },
+  "worlds": {},
+  "playtime": {
+    "total": 165299,
+    "max": 141965
+  }
+}

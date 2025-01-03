@@ -1,0 +1,46 @@
+
+## Chapter 1
+##### A Good Man's Qualities
+- Government of Temper
+- Modesty
+- Piety
+- Abstinence from Evil Thoughts
+- Have mentors
+- Be not political.
+- Endurance of Labor.
+- Want Little.
+- Meddle not in others affairs.
+- Do not give yourself up passionately to earthly things.
+- Do not be lead astray.
+- Be humble.
+- Write Clearly, Speak Clearly
+- Read carefully.
+- Understand thoroughly your knowledge.
+- Look to reason.
+- Be the same through pain.
+- Be resolute and yielding.
+- Be assertive.
+- Look carefully after the interests of friends.
+- Organize the principles necessary from life.
+- Posses knowledge without ostentation.
+- Observe what envy, duplicity, and hypocrisy are.
+- Do not complain of your work.
+- Do not skip out on work.
+- Do not be indifferent when a friend find fault.
+- Always be ready to speak well of teachers.
+- Love your children truly.
+- Love truth
+- Love justice.
+- Love your Kin.
+- Power should respect the freedom of the powerless.
+- Be consistent
+- Give readily
+- Cherish good hopes
+- Be plain with your speak, so as to not be misunderstood.
+- Do not be mislead by any.
+- Do not be in a hurry.
+- Do not procrastinate.
+- Be ready to forgive.
+- Be free from all falsehood.
+- Be humorous in an agreeable way (Do not be Coarse, Uninviting, or Prejudiced.)
+  

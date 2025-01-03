@@ -1,0 +1,4 @@
+- Mages keep a vial of True-Blood (Their Original Blood), so when training they have a reference.
+- A family that will teach anyone magic for a price
+- An underground society of Ersatz, where magic is studied.
+- Families make their own vials, giving them the ability to augment

@@ -1,0 +1,55 @@
+/* EDIT MODE */ 
+.HyperMD-header.HyperMD-header {
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+} 
+
+/* PREVIEW MODE */ 
+.markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.markdown-reading-view table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* Center tables on the page */
+.markdown-preview-view table h1,h2,h3,h4,h5 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.inline-title {
+    text-align: center;
+}
+
+* {
+    text-align: center;
+
+}
+
+p {
+    text-align: left;
+}
+
+.callout-title {
+display: inline-block;
+margin-top: 0px;
+padding-top: 0px;
+}
+
+.callout-icon {
+    visibility: visible;
+    display:none;
+}
+
+.callout-title-inner {
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}

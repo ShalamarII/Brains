@@ -1,0 +1,7 @@
+The last few years have given us improvements in the speed and availability of internet services, as well as advances in cloud computing and sensor technology. These technical gains, together with recent developments in automation and artificial intelligence, have created a highly digitized world. Digitization currently impacts every aspect of our daily lives. Digitization continues to provide new opportunities for professionals who are trained to develop and support the technology that is used to deliver the IoT.
+
+The IoT provides an immeasurable amount of information that is readily available for consumption. This information can be quickly analyzed and used to automate many processes that were previously considered impossible to turn over to machines. For example, just a few years ago self-driving cars existed only in our imaginations and now they are a reality. Think about what else has changed in your life because of the IoT.
+
+The IoT is also freeing humans from the drudgery of routine and repetitive tasks such as restocking shelves and order fulfillment. We may now have more time for higher intellectual pursuits and the chance to explore all the IoT has to offer.
+
+We are at a point in time in which opportunities are limited only by our imagination. We now have the ability to embrace all of the benefits that the IoT has to offer and to help shape the future. How will you use the IoT to help improve the future?

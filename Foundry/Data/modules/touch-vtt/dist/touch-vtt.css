@@ -1,0 +1,106 @@
+#token-hud .status-effects {
+    width: 160px;
+    grid-template-columns: repeat(4, 40px);
+}
+
+#token-hud .status-effects .effect-control {
+    padding: 3px;
+    width: 34px;
+    height: 34px;
+}
+
+.directional-arrow {
+    position: absolute;
+}
+
+.directional-arrow.directional-arrow-0 { top: -16px; transform: translate(0, -100%); }
+
+.directional-arrow.directional-arrow-45 { top: 0; right: 0; transform: translate(100%, -100%); }
+.directional-arrow.directional-arrow-45 > i { transform: rotate(45deg); }
+
+.directional-arrow.directional-arrow-90 { right: 0; transform: translate(100%, 0); }
+.directional-arrow.directional-arrow-90 > i { transform: rotate(90deg); }
+
+.directional-arrow.directional-arrow-135 { bottom: 0; right: 0; transform: translate(100%, 100%); }
+.directional-arrow.directional-arrow-135 > i { transform: rotate(135deg); }
+
+.directional-arrow.directional-arrow-180 { bottom: -16px; transform: translate(0, 100%); }
+.directional-arrow.directional-arrow-180 > i { transform: rotate(180deg); }
+
+.directional-arrow.directional-arrow-225 { bottom: 0; left: 0; transform: translate(-100%, 100%); }
+.directional-arrow.directional-arrow-225 > i { transform: rotate(225deg); }
+
+.directional-arrow.directional-arrow-270 { left: 0; transform: translate(-100%, 0); }
+.directional-arrow.directional-arrow-270 > i { transform: rotate(270deg); }
+
+.directional-arrow.directional-arrow-315 { top: 0; left: 0; transform: translate(-100%, -100%); }
+.directional-arrow.directional-arrow-315 > i { transform: rotate(315deg); }
+
+#touch-measurement-hud, #touch-measured-template-hud {
+    z-index: 99;
+    display: flex;
+    position: fixed;
+    width: 200px;
+}
+
+#touch-measured-template-hud {
+    height: 80px;
+}
+
+#touch-measurement-hud .move {
+    transform: rotate(-90deg);
+}
+
+#touch-measurement-hud .control-icon, #touch-measured-template-hud .control-icon {
+    width: 60px;
+    flex-basis: 60px;
+    line-height: 60px;
+}
+
+#touch-measurement-hud.touch-measurement-hud-left {
+
+}
+
+#controls ol.control-tools {
+    margin-top: 30px;
+}
+
+#touch-vtt-controls {
+    pointer-events: all;
+    display: flex;
+    position: absolute;
+    width: 100%;
+}
+
+#touch-vtt-controls.hidden {
+    display: none;
+}
+
+#touch-vtt-controls button {
+    line-height: 18px;
+    font-size: var(--font-size-10);
+    max-width: 110px;
+    height: 20px;
+}
+
+#touch-vtt-gesture-calibration-form {
+    mix-blend-mode: hard-light;
+}
+
+#touch-vtt-gesture-calibration-form .window-content {
+    background: white;
+}
+
+#touch-vtt-gesture-calibration-form .window-content form.flexcol > *{
+    flex: 0;
+}
+
+#touch-vtt-calibration {
+    flex: 1 !important;
+    background: gray;
+}
+
+#touch-vtt-calibration canvas {
+    width: 100%;
+    height: 100%;
+}

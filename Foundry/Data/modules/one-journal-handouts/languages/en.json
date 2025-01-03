@@ -1,0 +1,15 @@
+{
+  "one-journal-handouts": {
+    "settings": {
+      "gm-journal-name": "Handouts journal entry (world)",
+      "gm-journal-hint": "Journal entry holding all handouts to be shared with players. ⚠️ Don't share this journal entry with players.",
+      "players-journal-name": "Players Journal entry (world)",
+      "players-journal-hint": "Journal entry where players can view all handouts shared by the GM. ⚠️ Don't forget to share this journal entry with players.",
+      "open-page-name": "Open page to GM (world)",
+      "open-page-hint": "When a handout is shared to players, if this setting is enabled, the newly created page will also be opened to the GM."
+    },
+    "share-with-players": "Share current page",
+    "no-players-journal": "Players journal entry does not exist.",
+    "successful": "Journal entry page successfully shared with players."
+  }
+}

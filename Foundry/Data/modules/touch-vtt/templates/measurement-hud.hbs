@@ -1,0 +1,15 @@
+<div
+    id="{{id}}" style="top: {{top}}px; left: {{left}}px; transform: translate({{offsetX}}, calc(-100% - 20px))"
+    class="placeable-hud touch-measurement-hud-{{position}}"
+>
+    {{#if showMove}}
+        <div class="control-icon move">
+            <i class="fas fa-shoe-prints"></i>
+        </div>
+    {{/if}}
+    {{#if showRuler}}
+        <div class="control-icon waypoint">
+            <i class="fas fa-flag"></i>
+        </div>
+    {{/if}}
+</div>

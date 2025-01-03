@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "5f6d2cc21a5e9321",
+    "type": "split",
+    "children": [
+      {
+        "id": "64727f6ffc8a091a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc5b8a4e6eec6ce",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GURPSSoloAdventures/DragonsDemise-GURPS.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DragonsDemise-GURPS"
+            }
+          },
+          {
+            "id": "b1ee7b473b2d38dd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Foundry/Data/GURPS 4th - Lite.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GURPS 4th - Lite"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1b121b7fcd653eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a8a90e68986c0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GURPS - Ruleset/GURPS Lite/The Basics/Injury, Illness, and Fatigue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Injury, Illness, and Fatigue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf30b7b36acc05a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f32e42289980418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3436e19352a3bc19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "85b919e07be4c83e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dda162f9549d2595",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 552.5
+  },
+  "right": {
+    "id": "e50e1315194d6c29",
+    "type": "split",
+    "children": [
+      {
+        "id": "98bcc05102205506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a6c24e9159ec6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Our Brain/Our Zettelkasten/A refusal of individuality..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for A refusal of individuality."
+            }
+          },
+          {
+            "id": "7f50549fde345665",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Our Brain/Our Zettelkasten/A refusal of individuality..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from A refusal of individuality."
+            }
+          },
+          {
+            "id": "ab3ec8420431bb2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e03ac1780c5e677",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Our Brain/Our Zettelkasten/A refusal of individuality..md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of A refusal of individuality."
+            }
+          },
+          {
+            "id": "351f3df598d43c3e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "337e512c4a568003",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2cc5b8a4e6eec6ce",
+  "lastOpenFiles": [
+    "README.md",
+    "GURPSSoloAdventures/The Cold Bounty.pdf",
+    "GURPSSoloAdventures/The Cold Bounty.pdf.crdownload",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Injury, Illness, and Fatigue.md",
+    "GCS General/GURPS Solo Adventures/Beyond The Vale of Madness/safe1242734191534298882",
+    "Foundry/Data/GURPS 4th - Lite.pdf",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Mental Feats.md",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Physical Feats.md",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Reaction Rolls.md",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Success Rolls.md",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Resources.md",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Combat.md",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Damage Rolls.md",
+    "GURPSSoloAdventures/DragonsDemise-GURPS.pdf",
+    "GURPSSoloAdventures/Beyond-the-Vale-of-Madness-GURPS.pdf",
+    "GCS General/GURPS Solo Adventures/Dragons Demise",
+    "GURPSSoloAdventures/DragonsDemise-GURPS.pdf.crdownload",
+    "GCS General/GURPS Solo Adventures/Beyond The Vale of Madness/safe7075164151870137545",
+    "GCS General/User Created/Created Unused Characters/Beyond The Vale of Madness/King Coppertong.gcs",
+    "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-alpine.webp",
+    "Foundry/Data/systems/dnd5e/tokens/dragon/RedDragonAncient.webp",
+    "Foundry/Data/systems/dnd5e/tokens/dragon/YoungBrassDragon.webp",
+    "Foundry/Data/systems/dnd5e/tokens/dragon/BlueDragonAncient.webp",
+    "Foundry/Data/systems/dnd5e/tokens/dragon/YoungCopperDragon.webp",
+    "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-pine.webp",
+    "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-cottage-pine.webp",
+    "Foundry/Data/systems/dnd5e/tokens/monstrosity/Androsphinx.webp",
+    "Foundry/Data/systems/dnd5e/tokens/dragon/YoungBlueDragon.webp",
+    "Foundry/Data/systems/dnd5e/tokens/celestial/SolarBow.webp",
+    "Foundry/Data/modules/_CodeMirror/CHANGELOG.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Workout/Bodyweight Recommended (Reddit).md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Safe Wi-Fi Usage - SFA.md",
+    "Private - Do Not Touch/Marriage Document/Beliefs.md",
+    "Foundry/Data/modules/_CodeMirror/README.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/The Almanack of Naval Ravikant/The Almanack of Naval Ravikant.md",
+    "Foundry/Data/modules/_CodeMirror/CONTRIBUTING.md",
+    "Private - Do Not Touch/Marriage Document/How we treat each other.md",
+    "Private - Do Not Touch/Marriage Document/How we resolve problems.md",
+    "Private - Do Not Touch/Our Brain/D&D/Alchemist - By Shalamar.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Industry Certifications - SFA.md",
+    "Foundry/Data/modules/gm-notes/patchnotes.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Protecting End Devices - SFA.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Challenges of Securing IoT devices - SFA.md",
+    "Foundry/Data/modules/gm-notes/README.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/A refusal of individuality..md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Mathematical Statements.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
+    "Private - Do Not Touch/Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
+    "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
+    "Rodrico's Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas"
+  ]
+}

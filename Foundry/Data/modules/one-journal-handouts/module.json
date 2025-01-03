@@ -1,0 +1,61 @@
+{
+    "id": "one-journal-handouts",
+    "title": "One Journal Handouts",
+    "description": "One Journal Handouts: an easy way to manage and share handouts.",
+    "version": "1.2.1",
+    "library": "false",
+    "compatibility": {
+        "minimum": 12,
+        "verified": "12.324"
+    },
+    "authors": [
+        {
+            "name": "Maxime",
+            "url": "https://github.com/mech-tools",
+            "discord": "Maxime#1562"
+        }
+    ],
+    "relationships": {},
+    "socket": true,
+    "scripts": [],
+    "esmodules": [
+        "./build/one-journal-handouts.js"
+    ],
+    "styles": [
+        "./build/one-journal-handouts.css"
+    ],
+    "flags": {
+        "hotReload": {
+            "extensions": [
+                "css",
+                "json",
+                "hbs"
+            ],
+            "paths": [
+                "build/one-journal-handouts.css",
+                "templates/*.hbs",
+                "languages/*.json"
+            ]
+        }
+    },
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        },
+        {
+            "lang": "fr",
+            "name": "Français",
+            "path": "languages/fr.json"
+        }
+    ],
+    "url": "https://github.com/mech-tools/one-journal-handouts",
+    "bugs": "https://github.com/mech-tools/one-journal-handouts/issues",
+    "changelog": "https://github.com/mech-tools/one-journal-handouts/releases",
+    "manifest": "https://github.com/mech-tools/one-journal-handouts/releases/latest/download/module.json",
+    "download": "https://github.com/mech-tools/one-journal-handouts/releases/download/1.2.1/module.zip",
+    "license": "https://github.com/mech-tools/one-journal-handouts/raw/main/LICENSE",
+    "readme": "https://github.com/mech-tools/one-journal-handouts/raw/main/README.md",
+    "media": []
+}

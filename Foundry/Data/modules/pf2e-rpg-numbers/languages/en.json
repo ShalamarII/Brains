@@ -1,0 +1,656 @@
+{
+    "I18N.LANGUAGE": "English",
+    "pf2e-rpg-numbers": {
+        "controls": {
+            "finishing-move": {
+                "name": "Show Finishing Moves",
+                "toolclip": {
+                    "heading": "Finishing Move",
+                    "items": {
+                        "description": {
+                            "paragraph": "Activate to have Finishing Move text appear when you send an action or attack to chat"
+                        }
+                    }
+                }
+            }
+        },
+        "module-settings": {
+            "enabled": {
+                "name": "Enable Module",
+                "hint": "Enables functionality of module"
+            },
+            "headers": {
+                "dmg-numbers": "Damage Numbers",
+                "check-animations": "Checks & Attack Animations",
+                "screen-shake": "Shake on Damaged",
+                "token-dmg-shake": {
+                    "title": "Token Damage Shake",
+                    "scaling": "Token Damage Shake - Scaling"
+                },
+                "shake-on-attack": "Shake on Attack",
+                "rotate-on-attack": "Rotate on Attack",
+                "finishing-move": {
+                    "title": "Finishing Moves"
+                },
+                "plus-one": "Every +1 Matters",
+                "critical": "Critical Hit",
+                "fromSoftware": {
+                    "title": "From Software",
+                    "elden-ring": {
+                        "title": "Elden Ring Pop Ups",
+                        "noun-verbed": "Noun Verbed",
+                        "death": "You Died"
+                    }
+                },
+                "debug": "Debug"
+            },
+            "dmg-numbers": {
+                "enabled": {
+                    "name": "Enable Damage Numbers",
+                    "hint": "Show damage numbers"
+                },
+                "on-apply-or-roll": {
+                    "name": "When to show damage numbers",
+                    "hint": "[NOTE] If you set on apply, this module will both reveal the resistance/weakness amt as players see the final number, and will only let you see 1 number for your damage roll",
+                    "choices": {
+                        "apply": "On Apply",
+                        "roll": "On Roll"
+                    }
+                },
+                "font-size": {
+                    "name": "Font Size",
+                    "hint": "Default size of the damage font"
+                },
+                "max-font-scale": {
+                    "name": "Maximum Font Scale",
+                    "hint": "Maximum Size to scale the damage font to"
+                },
+                "top-offset": {
+                    "name": "% offset from top of token",
+                    "hint": "Offset percentage from top of token for the damage, input as whole number (IE. 70 is 70%)"
+                },
+                "jitter": {
+                    "name": "Jitter",
+                    "hint": "How much the damage text will move around its spawn point (0 = doesn't move, 1 is it could spawn on the edges of the token)"
+                },
+                "number-scale-type": {
+                    "name": "Number Scale Type",
+                    "hint": "Scaling type for the size of the damage RPG Numbers",
+                    "choices": {
+                        "percentRemainingHealth": "% of Remaining HP",
+                        "percentMaxHealth": "% of Max HP",
+                        "none": "None"
+                    }
+                },
+                "damage-split": {
+                    "name": "Damage Split",
+                    "hint": "How to split damage numbers from roll (None: total only, By Type: By damage type, All: Splits all terms)",
+                    "choices": {
+                        "none": "None",
+                        "by-damage-type": "By Damage Type",
+                        "all": "All"
+                    }
+                },
+                "duration": {
+                    "name": "Text Duration",
+                    "hint": "How long until  the damage text despawns in seconds"
+                },
+                "wait-time-between-numbers": {
+                    "name": "Wait Time between numbers (ms)",
+                    "hint": "How long in between each damage number should the game wait before spawning the next, in milliseconds."
+                },
+                "show-only-GM": {
+                    "name": "Show numbers only for GM",
+                    "hint": "Show  the damage numbers only for the game if you like them, but not that much"
+                },
+                "animation-scale": {
+                    "name": "Animation Scale",
+                    "hint": "How far out from the token should  the damage numbers move"
+                },
+                "show-total": {
+                    "name": "Show Total",
+                    "hint": "Show total as a number in the center of the token in addition to other damage numbers"
+                }
+            },
+            "check-animations": {
+                "enabled": {
+                    "name": "Enable RPG Checks & Attacks",
+                    "hint": "Show number pop ups when attempting checks & attacks"
+                },
+                "duration": {
+                    "name": "Check Duration",
+                    "hint": "Time for check number pop up to show"
+                },
+                "font-size": {
+                    "name": "Check Font Size",
+                    "hint": "Size of Check Font"
+                },
+                "outcome-result": {
+                    "name": "Choose what to show for d20 check rolls",
+                    "hint": "Numbers shows the d20 + mods result, outcome shows crit success, success etc., and outcome w/o combat crits shows the outcome without combat critical misses and hits meant as compatibility with pf2e animations.",
+                    "choices": {
+                        "numbers": "Numbers",
+                        "outcome-except-combat-crits": "Outcome w/o Combat crits",
+                        "outcome": "Outcome"
+                    }
+                },
+                "color-scheme": {
+                    "name": "Select check theme",
+                    "hint": "(Changes coloration of checks) Currently have a default theme, and a dark mode theme, will add more visibility etc. for it later",
+                    "choices": {
+                        "default": "Default",
+                        "dark": "Dark Theme"
+                    }
+                },
+                "sfx": {
+                    "enabled": {
+                        "name": "Check SFX",
+                        "hint": "Select whether to play sfx on check results"
+                    },
+                    "check-or-attack": {
+                        "name": "Check SFX for Attack Rolls",
+                        "hint": "Select whether to play sfx for Attack Rolls, checks only, or both",
+                        "choices": {
+                            "both": "Both",
+                            "attacks": "Attacks Only",
+                            "checks": "Checks Only"
+                        }
+                    },
+                    "options": {
+                        "name": "Check SFX Option",
+                        "hint": "Select what SFX to play and when. (none - no sfx, Success or Fail - Play success sound effect on any success and fail sfx on any fail, Crits Only - Play on critical Success or Fail only, ",
+                        "choices": {
+                            "none": "None",
+                            "all": "All",
+                            "success-or-fail": "Success or Fail",
+                            "crits-only": "Crits Only"
+                        }
+                    },
+                    "volume": {
+                        "name": "Check SFX Volume",
+                        "hint": "How Loud SFX are"
+                    },
+                    "file": {
+                        "criticalSuccess": {
+                            "name": "Check SFX: Crit. Success",
+                            "hint": "Select SFX (not this does nothing on the 'Success or Failure' Setting)"
+                        },
+                        "success": {
+                            "name": "Check SFX: Success",
+                            "hint": "Select SFX (used as Success in the 'Success or Failure' Setting)"
+                        },
+                        "failure": {
+                            "name": "Check SFX: Failure",
+                            "hint": "Select SFX (used as Failure in the 'Success or Failure' Setting)"
+                        },
+                        "criticalFailure": {
+                            "name": "Check SFX: Crit. Failure",
+                            "hint": "Select SFX (not this does nothing on the 'Success or Failure' Setting)"
+                        }
+                    }
+                }
+            },
+            "shake-on-attack": {
+                "enabled": {
+                    "name": "Enable Shake on Attack",
+                    "hint": "Shakes the screen when you attack, shakes more when you crit"
+                },
+                "type": {
+                    "name": "Shake on Attack Enabled for?",
+                    "hint": "Choose who shake on attack is enabled for",
+                    "choices": {
+                        "both": "Both",
+                        "gm": "GM Only",
+                        "players": "Players Only"
+                    }
+                }
+            },
+            "screen-shake": {
+                "enabled": {
+                    "name": "Enable Damage Shake",
+                    "hint": "Shakes the screen when you apply damage using pf2e's apply damage button"
+                },
+                "duration": {
+                    "name": "Duration",
+                    "hint": "How long in to shake the screen in MS"
+                },
+                "intensity-max": {
+                    "name": "Intensity",
+                    "hint": "How hard to shake the screen in pixels (recommended between 10 and 35)"
+                },
+                "intensity-type": {
+                    "name": "Intensity Scaling",
+                    "hint": "How should screen shake intensity scale. None - just uses max value, % Current HP - scales off current HP, % Max HP - Scales off Max HP",
+                    "choices": {
+                        "max": "None",
+                        "%-current-hp": "% Current HP",
+                        "%-max-hp": "% Max HP"
+                    }
+                },
+                "intensity-include-temp-hp": {
+                    "name": "Should scaling include Temp HP",
+                    "hint": "If you picked an intensity that scales off hp, toggling this on causes it to include temp hp"
+                },
+                "gm-enabled": {
+                    "name": "Enable shaking for GM",
+                    "hint": "Causes GM to experience screen shake for any actors and their tokens that don't have a player owner"
+                }
+            },
+            "token-dmg-shake": {
+                "enabled": {
+                    "name": "Enable Token shaking on damage",
+                    "hint": "When you apply damage to a token cause it to shake"
+                },
+                "distance": {
+                    "name": "Token shaking distance",
+                    "hint": "Distance as % of width of Token"
+                },
+                "shakes": {
+                    "name": "Number of times token shakes",
+                    "hint": "Number of time token shakes"
+                },
+                "duration": {
+                    "name": "Duration of Shake",
+                    "hint": "Amt of time (ms) that token shakes"
+                },
+                "only-temp-hp-disable-shake": {
+                    "name": "Temporary HP Absorbs Shakes?",
+                    "hint": "Toggle this on if you want the token not to shake if all the damage dealt is only to temporary HP"
+                },
+                "scaling": {
+                    "type": {
+                        "name": "Token Shaking Scaling",
+                        "hint": "What to scale the shaking off of",
+                        "choices": {
+                            "no": "Nothing",
+                            "%-current-hp": "% Current HP",
+                            "%-max-hp": "% Max HP"
+                        }
+                    },
+                    "distance": {
+                        "name": "Scale distance of shakes",
+                        "hint": "Scales the distance of the shakes (no = no scaling, max = treat setting for this as maximum, mid = treat setting for this as the middle value)",
+                        "choices": {
+                            "no": "No",
+                            "max": "Max",
+                            "mid": "Middle"
+                        }
+                    },
+                    "shakes": {
+                        "name": "Scale number of shakes",
+                        "hint": "Scale how many times they shake (no = no scaling, max = treat setting for this as maximum, mid = treat setting for this as the middle value)",
+                        "choices": {
+                            "no": "No",
+                            "max": "Max",
+                            "mid": "Middle"
+                        }
+                    },
+                    "duration": {
+                        "name": "Scale duration",
+                        "hint": "Scale duration of shakes (no = no scaling, max = treat setting for this as maximum, mid = treat setting for this as the middle value)",
+                        "choices": {
+                            "no": "No",
+                            "max": "Max",
+                            "mid": "Middle"
+                        }
+                    }
+                }
+            },
+            "rotate-on-attack": {
+                "enabled": {
+                    "name": "Enable Token rotating on attacking",
+                    "hint": "When you attack the token turns towards who it attacks, then turns back to its original rotation. You can set the rotation offset to determine where the token faces."
+                },
+                "duration": {
+                    "name": "Token Rotation Duration",
+                    "hint": "How long it takes the token to turn towards the enemy in seconds (Default is 0.5 s, overall time to turn and turn back is 1.5 x the time here)"
+                },
+                "scale-on-size": {
+                    "name": "Enable Token Rotation Duration Size Scaling",
+                    "hint": "Allow Rotation to take longer based on the size of the attacker (scales on the number of squares it takes up)"
+                }
+            },
+            "critical": {
+                "enabled": {
+                    "name": "Enable Critical Animations",
+                    "hint": "Enable cool animations to show for critical hits. (note tokens have options to have alternative image)"
+                },
+                "player-enabled": {
+                    "name": "Enable Critical Animations - For You",
+                    "hint": "Enable cool animations to show for critical hits for yourself. (note tokens have options to have alternative image)"
+                },
+                "sound": {
+                    "name": "Critical Animation Sound",
+                    "hint": "Sound to use for critical animation"
+                },
+                "volume": {
+                    "name": "Critical Animation Volume",
+                    "hint": "% of sound volume for critical animation"
+                },
+                "duration": {
+                    "name": "Critical Animation Duration",
+                    "hint": "Duration of the sound and effect"
+                },
+                "type": {
+                    "name": "Critical Animation Type",
+                    "hint": "Choose type for critical animation",
+                    "choices": {
+                        "persona": "Persona",
+                        "fire-emblem": "Fire Emblem"
+                    }
+                },
+                "show-on": {
+                    "name": "Show Critical Animation On",
+                    "hint": "Choose whether to show critical animation on attacks, checks, or both",
+                    "choices": {
+                        "attacks": "Attacks",
+                        "checks": "Checks",
+                        "both": "Both"
+                    }
+                },
+                "show-on-token-type": {
+                    "name": "Show Critical Animation For",
+                    "hint": "Choose to show critical animations for PCs, NPCS, or Both",
+                    "choices": {
+                        "pc": "PCs",
+                        "npc": "NPCs",
+                        "pc+npc": "PCs & NPCs"
+                    }
+                },
+                "default-img": {
+                    "name": "Default Image",
+                    "hint": "Choose which to have the default image",
+                    "choices": {
+                        "pc-tok-npc-tok": "PCs: Token | NPCs: Token",
+                        "pc-act-npc-act": "PCs: Actor | NPCs: Actor",
+                        "pc-tok-npc-act": "PCs: Token | NPCs: Actor",
+                        "pc-act-npc-tok": "PCs: Actor | NPCs: Token"
+                    }
+                },
+                "delay": {
+                    "name": "Delay",
+                    "hint": "How long to delay when the critical animation shows up in seconds"
+                }
+            },
+            "finishing-move": {
+                "enabled": {
+                    "name": "Enable Finishing Moves",
+                    "hint": "When you use an action and have the HUD Element toggled on it gives you a cool readout of the action."
+                },
+                "enabled-players": {
+                    "name": "Enable Finishing Moves Option for Players",
+                    "hint": "Allow players to use finishing move feature (Reloads Foundry)"
+                },
+                "keep-on": {
+                    "name": "Keep Finishing Moves On",
+                    "hint": "No longer turns off finishing move after you make a finishing move effect"
+                },
+                "use-player-color": {
+                    "name": "Use Player Color",
+                    "hint": "Use Player Color for finishing move surrounding glow"
+                },
+                "quality": {
+                    "name": "Text Quality",
+                    "hint": "Set Quality of Finishing Move text (1 - lowest, 5 - highest)"
+                },
+                "mode": {
+                    "name": "When to show moves",
+                    "hint": "Doesn't Require HUD toggle",
+                    "choices": {
+                        "toggled": "Always Show on Toggle",
+                        "always": "Always Show",
+                        "always-if-seen": "👀 Msg",
+                        "if-seen-or-toggle": "👀 Msg OR Toggled",
+                        "if-seen-and-toggle": "👀 Msg AND Toggled"
+                    }
+                },
+                "show-for": {
+                    "pcs": {
+                        "name": "Show for PCs",
+                        "hint": "Show finishing move visual for PCs"
+                    },
+                    "npcs": {
+                        "name": "Show for NPCs",
+                        "hint": "Show finishing move visual for NPCs"
+                    }
+                },
+                "show-on": {
+                    "actions": {
+                        "name": "On Any type of Action",
+                        "hint": "Show on any type of actions (AKa not spells or attacks)",
+                        "one": {
+                            "name": "[Actions] Show 1 Action",
+                            "hint": "Show one action"
+                        },
+                        "two": {
+                            "name": "[Actions] Show 2 Action",
+                            "hint": "Show two action"
+                        },
+                        "three": {
+                            "name": "[Actions] Show 3 Action",
+                            "hint": "Show three action"
+                        },
+                        "reaction": {
+                            "name": "[Actions] Show Reactions",
+                            "hint": "Show reactions"
+                        },
+                        "free": {
+                            "name": "[Actions] Show Free Action",
+                            "hint": "Show free action"
+                        }
+                    },
+                    "spells": {
+                        "name": "On Spells",
+                        "hint": "Show on spells",
+                        "ranked": {
+                            "name": "On Ranked Spells",
+                            "hint": "Show on spells that take up spell slots"
+                        },
+                        "cantrips": {
+                            "name": "On Cantrips",
+                            "hint": "Show on cantrips"
+                        }
+                    },
+                    "attacks": {
+                        "name": "On Attacks",
+                        "hint": "Show on attacks"
+                    }
+                },
+                "duration": {
+                    "end": {
+                        "name": "End Duration",
+                        "hint": "Duration to show all text on screen at the end in ms"
+                    },
+                    "word": {
+                        "name": "Word Duration",
+                        "hint": "How long to Wait before showing next word in ms"
+                    }
+                },
+                "sound-effect": {
+                    "name": "Finishing Move SFX",
+                    "hint": "Sound Effect to play for each Word that appears",
+                    "volume": {
+                        "name": "Finishing Move SFX Volume",
+                        "hint": "Sound Effect Volume to play for each Word that appears"
+                    }
+                }
+            },
+            "from-software": {
+                "noun-verbed": {
+                    "enabled": {
+                        "name": "Show on End of Encounter?",
+                        "hint": "Show 'Enemy Felled' or whatever text you've added at end of encounter"
+                    },
+                    "type": {
+                        "name": "Type of Effect",
+                        "hint": "Choose type of the effect to play",
+                        "choices": {
+                            "elden-ring": "Elden Ring",
+                            "sekiro": "Sekiro"
+                        }
+                    },
+                    "xp-threshold": {
+                        "name": "End of Encounter XP Threshold",
+                        "hint": "XP Threshold of the encounter to have the End of Encounter text to show (set to 0 to always show). [Trivial: <= 40, Low: 60, Moderate: 80, Severe: 120, Extreme: 160]"
+                    },
+                    "font-size": {
+                        "name": "Noun Verbed Font Size",
+                        "hint": "Font size of the pop-up"
+                    },
+                    "sound-effect": {
+                        "name": "Noun Verbed SFX",
+                        "hint": "Sound effect to play for 'Noun Verbed'",
+                        "volume": {
+                            "name": "Noun Verbed SFX Volume",
+                            "hint": "Volume to play sound effect for 'Noun Verbed'"
+                        }
+                    },
+                    "duration": {
+                        "name": "Noun Verbed Duration",
+                        "hint": "How long to display the pop up in seconds"
+                    },
+                    "text": {
+                        "name": "Noun Verbed Text",
+                        "hint": "Text to display for Noun Verbed",
+                        "default": "Enemy Felled"
+                    }
+                },
+                "death": {
+                    "enabled": {
+                        "name": "Show when owned character Dies",
+                        "hint": "Show this message to a PC when their character assigned to their user died."
+                    },
+                    "type": {
+                        "name": "Type of Effect",
+                        "hint": "Choose type of the effect to play",
+                        "choices": {
+                            "elden-ring": "Elden Ring",
+                            "sekiro": "Sekiro"
+                        }
+                    },
+                    "font-size": {
+                        "name": "You Died Font Size",
+                        "hint": "Font size of the pop-up"
+                    },
+                    "sound-effect": {
+                        "name": "You Died SFX",
+                        "hint": "Sound effect to play for 'You Died'",
+                        "volume": {
+                            "name": "You Died SFX Volume",
+                            "hint": "Volume to play sound effect for 'You Died'"
+                        }
+                    },
+                    "duration": {
+                        "name": "You Died Duration",
+                        "hint": "How long to display the pop up in seconds"
+                    },
+                    "text": {
+                        "name": "You Died Text",
+                        "hint": "Text to display for 'You Died'",
+                        "default": "You Died"
+                    }
+                }
+            },
+            "plus-one": {
+                "enabled": {
+                    "name": "Enabled Every +1 Matters Features",
+                    "hint": "Adds features related to modifiers matters. Requires modifiers matters to be installed, as well as PF2e Animations IIRC."
+                }
+            },
+            "debug-mode": {
+                "name": "Debug Mode",
+                "hint": "Have the console receive messages for different stuff"
+            }
+        },
+        "menu": {
+            "settings": {
+                "title": "Pf2e RPG #s Config Menu",
+                "buttons": {
+                    "export": "Export Settings",
+                    "import": "Import Settings",
+                    "footer": {
+                        "save": "Save",
+                        "submit": "Submit",
+                        "cancel": "Cancel"
+                    }
+                },
+                "notification": {
+                    "save": "Settings saved successfully!",
+                    "submit": "Settings submitted successfully!",
+                    "cancel": "Settings menu closed without saving"
+                },
+                "tabs": {
+                    "home": "Home",
+                    "rolls": "Rolls",
+                    "token": "Token",
+                    "critical": "Critical",
+                    "text": "Text",
+                    "misc": "Misc"
+                }
+            },
+            "import": {
+                "title": "PF2e RPG Settings Import",
+                "content": "Upload Settings JSON",
+                "buttons": {
+                    "import": "Import",
+                    "cancel": "Cancel"
+                },
+                "notification": {
+                    "success": "Pf2e RPG Settings Imported!",
+                    "failure": "PF2e RPG Settings failed to import :("
+                }
+            }
+        },
+        "display-text": {
+            "outcomes": {
+                "criticalFailure": "Critical Failure",
+                "failure": "Failure",
+                "success": "Success",
+                "criticalSuccess": "Critical Success"
+            }
+        },
+        "token-options": {
+            "tab-label": "PF2e RPG #s",
+            "rotation-offset": {
+                "name": "Turn On Attack - Rotation Offset",
+                "hint": "Sets how much to offset the turn on attack rotation by. Down ⬇ 0, Right ➡ 90, Up ⬆ 180, Left ⬅ 270"
+            },
+            "fire-emblem-img": {
+                "name": "Fire Emblem Critical Pic",
+                "hint": "Image to show for critical hits for token when 'Fire Emblem' is selected"
+            },
+            "persona-img": {
+                "name": "Persona Critical Pic",
+                "hint": "Image to show for critical hits for token when 'Persona' is selected"
+            },
+            "crit": {
+                "offset-x": {
+                    "name": "Crit X Offset",
+                    "hint": "This is as a %, so 100, would move it to the right one full image length"
+                },
+                "offset-y": {
+                    "name": "Crit Y Offset",
+                    "hint": "This is as a %, so 100, would move it down one full image length"
+                },
+                "scale": {
+                    "name": "Crit Scale",
+                    "hint": "Size of critical hit image to scale in %"
+                },
+                "rotation": {
+                    "name": "Crit Rotation",
+                    "hint": "How much to rotate the critical hit effect"
+                },
+                "sfx": {
+                    "name": "Crit SFX",
+                    "hint": "Set this to override the default crit sound with custom one."
+                }
+            }
+        },
+        "keybinds": {
+            "activate-finishing-move": {
+                "name": "Activate Finishing Move",
+                "hint": "Activates finishing move if you have it enabled"
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+The IoT provides many benefits but at the same time it presents many challenges. Because the IoT is a transformational technology, we are now faced with an ever expanding collection of new technology that we must master. The IoT is changing every aspect of our lives.
+
+This is not the first time we have experienced a technological development that has such an impact. Mechanization on the farm allowed increased productivity of available farmland and started the migration of the population from rural to urban areas. The development of the automobile allowed for greater mobility of the workforce and increased recreational activities. The personal computer allowed the automation of many routine tasks with improved accuracy and efficiency. The internet started to break down geographic barriers and improve equality between people on a global scale. These are only a few of the transformational technologies that we have experienced in recent history.
+
+Every one of these technologies presented major changes to an established society and was met with initial fear and apprehension. After the initial fear of the unknown was overcome and the technology was embraced, the inherent benefits became obvious. Each perceived challenge opens up many new opportunities.
+
+Can you imagine how your life would be without a car, personal computer, or access to the internet?
