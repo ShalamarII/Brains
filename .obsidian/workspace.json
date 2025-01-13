@@ -13,30 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Foundry/Data/GURPS 4th - Lite.pdf"
+                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology - Sorcery.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "GURPS 4th - Lite"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1b121b7fcd653eb3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a8a90e68986c0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GURPS - Ruleset/GURPS Lite/The Basics/Injury, Illness, and Fatigue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Injury, Illness, and Fatigue"
+              "title": "GURPS 4th - Thaumatology - Sorcery"
             }
           }
         ]
@@ -70,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lifting and moving things",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,12 +71,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 414.5
   },
   "right": {
     "id": "e50e1315194d6c29",
@@ -187,14 +166,33 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "b5485ca67ad995a8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "5b64fb688963e34b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 566.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,33 +202,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7a8a90e68986c0eb",
+  "active": "b1ee7b473b2d38dd",
   "lastOpenFiles": [
-    "Foundry/Data/GURPS 4th - Lite.pdf",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Injury, Illness, and Fatigue.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Physical Feats.md",
-    "GURPS - Ruleset/GURPS Lite/Characters/Basic Attributes.md",
-    "Damage.md",
-    "Bookmarks.md",
-    "GURPSSoloAdventures/DragonsDemise-GURPS.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology - Sorcery.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Powers.pdf",
+    "Alrathion - The End's Fall/Magic's Core/Magic's Outline.md",
+    "Alrathion - The End's Fall/Magic's Core/Magic.md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Passive/Boar Hut Fern.md",
+    "Storytelling/Magic System Ideas.md",
+    "Storytelling",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Plant Generation.md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Campaigns.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Aggresive/Homepage.md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPSPDFs.zip",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 6 Quirks.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 3 Talents.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 4 Enchancements.pdf",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Passive/Mellow Valley Blossom.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Passive/Homepage.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Neutral/Cheese Monger.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Neutral/Soup Fork.md",
+    "Templates/Flora Template.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Neutral/Homepage.md",
+    "Templates/General Template.md",
+    "Templates/Game Journal Template.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora/Responsive/Homepage.md",
+    "Alrathion - The End's Fall/Magic's Core/Aimasturgy/Composition of Blood.md",
+    "Alrathion - The End's Fall/Magic's Core/Aimasturgy/Homepage.md",
+    "Alrathion - The End's Fall/Magic's Core/Aimasturgy/The Rules of Aimasturgy.md",
+    "Alrathion - The End's Fall/A World of Magic/Magical Terminology.md",
+    "GURPS - Current/Homepage.md",
     "README.md",
-    "GURPSSoloAdventures/The Cold Bounty.pdf",
-    "GURPSSoloAdventures/The Cold Bounty.pdf.crdownload",
-    "GCS General/GURPS Solo Adventures/Beyond The Vale of Madness/safe1242734191534298882",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Mental Feats.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Reaction Rolls.md",
+    "GURPS - Ruleset/GURPS Lite/Homepage.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Success Rolls.md",
     "GURPS - Ruleset/GURPS Lite/The Basics/Resources.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Combat.md",
-    "GURPS - Ruleset/GURPS Lite/The Basics/Damage Rolls.md",
-    "GURPSSoloAdventures/Beyond-the-Vale-of-Madness-GURPS.pdf",
-    "GCS General/GURPS Solo Adventures/Dragons Demise",
-    "GURPSSoloAdventures/DragonsDemise-GURPS.pdf.crdownload",
-    "GCS General/GURPS Solo Adventures/Beyond The Vale of Madness/safe7075164151870137545",
-    "GCS General/User Created/Created Unused Characters/Beyond The Vale of Madness/King Coppertong.gcs",
+    "GURPS - Ruleset/GURPS Lite/The Basics/Reaction Rolls.md",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-alpine.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/RedDragonAncient.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/YoungBrassDragon.webp",
@@ -241,19 +253,6 @@
     "Foundry/Data/systems/dnd5e/tokens/monstrosity/Androsphinx.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/YoungBlueDragon.webp",
     "Foundry/Data/systems/dnd5e/tokens/celestial/SolarBow.webp",
-    "Foundry/Data/modules/_CodeMirror/CHANGELOG.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Workout/Bodyweight Recommended (Reddit).md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Safe Wi-Fi Usage - SFA.md",
-    "Private - Do Not Touch/Marriage Document/Beliefs.md",
-    "Foundry/Data/modules/_CodeMirror/README.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/The Almanack of Naval Ravikant/The Almanack of Naval Ravikant.md",
-    "Foundry/Data/modules/_CodeMirror/CONTRIBUTING.md",
-    "Private - Do Not Touch/Marriage Document/How we treat each other.md",
-    "Private - Do Not Touch/Marriage Document/How we resolve problems.md",
-    "Private - Do Not Touch/Our Brain/D&D/Alchemist - By Shalamar.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Industry Certifications - SFA.md",
-    "Foundry/Data/modules/gm-notes/patchnotes.md",
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Protecting End Devices - SFA.md",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Private - Do Not Touch/Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",

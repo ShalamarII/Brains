@@ -1,3 +1,0 @@
-- Magic is alchemical at its core, using various foliage, metals, and elements to augment blood for use.
-- Magic has at least two parts, a catalyst, and a regent. A spell can have multiple regents, but blood is always the catalyst (Except in select cases, which are deemed evil)
-- Magic is “cast” by superheating the vials of blood, causing a contained explosion inside the glass (Does not shatter). This usually requires a tool to propel the blood, similar to a hose combined with a caulk gun)

@@ -1,1 +1,0 @@
-F7 - 53 yr old Female Lightfoot Halfling with silky dark brown hair, with painted nails is looting corpses.
