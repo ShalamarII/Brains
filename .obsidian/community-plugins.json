@@ -1,4 +1,9 @@
 [
-  "pdf-plus",
-  "templater-obsidian"
+  "obsidian-git",
+  "templater-obsidian",
+  "font-size",
+  "dataview",
+  "google-calendar",
+  "obsidian-dice-roller",
+  "pdf-plus"
 ]
