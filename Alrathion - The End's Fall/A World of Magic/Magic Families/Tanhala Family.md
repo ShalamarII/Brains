@@ -6,6 +6,10 @@ This family has a parasite given to them at the age of 4 that feeds off their nu
 
 This parasite slowly contaminates the user’s Blood, requiring bloodletting to keep the blood pure. This is done by simply taking vials and refilling them. Utility-wise, they are able to refill their vials about twice a day, but they must blood-let at least once a week. As the family has progressed they have evolved to have quicker blood creation and flow.
 
+# Parasite Abilities
+### Limited Telepathy
+User's of the parasite have limited telepathy within 30 feet (10 Yards) of one another.
+
 # Mineral's Effects
 
 ### Healing

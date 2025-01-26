@@ -17,3 +17,12 @@ It takes much for a kathali to abandon their family, to the point where humans s
 ##### Balance
 
 The kathali believe that balance is important. To exemplify this, they make sure to justify their own beliefs in a way not unlike humans.  This justification is not inherently more factual than human's own. Part of balance is history for the kathali. Their parents teach them their history much more intentionally than the human's generally do, and as such, kathali may be aware of even 5-10 generations back.
+
+
+### Kathali Types
+
+- Wolf
+- Bear
+- Cat
+- Bird
+- Reptiles

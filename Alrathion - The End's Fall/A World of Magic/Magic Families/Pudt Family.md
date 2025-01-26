@@ -6,10 +6,3 @@ This family evolved to more easily bend their joints and contort their bodies, a
 
 ### Pressure Module
 Using a module to pressurize blood separates its formulation, de-aerating it, artificially making it blue on use, but red after a given period of time. The bodies of the Pudt Family naturally pressurizes itself, with an inbuilt mechanical system. One vestibule is completed every minute, granted that they have been used. Each person can have up to 5 vestibules, with more possible due to further modification (Though extremely dangerous). This means the choice of vestibule is very important.
-
-### Vestibule Augmentation
-- Poison
-- Pain Killers
-- Drugs (Relaxants, Hallucinogens, Stimulants, etc.)
-- Rage-Inducing
-- 

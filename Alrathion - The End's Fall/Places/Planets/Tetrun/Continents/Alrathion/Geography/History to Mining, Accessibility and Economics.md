@@ -20,7 +20,7 @@ Aimasturgy is discovered by the inhabitants of Illinea. These use this to quickl
 Many civilization begin trying to conquer large areas, with better armor, stronger tools, and better infra structure. Many of these civilizations have primitive versions of Aimasturgy.
 Illinea does this as well, gradually assimilating more and more cultures into their own. They become the dominant force of the Thaddelonia Continent.
 
-This continues until the Great War, in which 90% of the population was eradicated, after the Troi supported Illinea. The last bastions of these people moved into the continent of Alrathion
+This continues until the Great War, in which 90% of the population was eradicated, after the Troi supported Illinea. The last bastions of these people moved into the continent of Alrathion.
 # Mithril Age - 0 AD
 Mithril is finally able to be processed, though expensive to do so. Mithril is a similar hardness to tempered iron (steel). People do not yet understand its usefulness, and so it is relegated to serve mainly a decorative purpose. Players will notice mithril as a vessel for vraul, with the ability to hold its shape. They will be the pioneers of wands, staffs, etc. that are capable of holding spells for longer than one use.
 

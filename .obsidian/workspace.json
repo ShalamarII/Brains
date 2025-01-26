@@ -8,30 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1ee7b473b2d38dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alrathion - The End's Fall/A World of Magic/Magic Families/Tira Family.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tira Family"
-            }
-          },
-          {
             "id": "0a43fc8b8baac1b3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Spell Charts.pdf",
-                "page": 10,
-                "left": -9,
-                "top": 670,
-                "zoom": 1.7315662641131717
+                "page": 29,
+                "left": -217,
+                "top": 724,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "GURPS 4th - Spell Charts"
@@ -43,10 +29,54 @@
             "state": {
               "type": "pdf",
               "state": {
+                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
+                "page": 172,
+                "left": -2,
+                "top": 403,
+                "zoom": 1.5938755020080324
+              },
+              "icon": "lucide-file-text",
+              "title": "GURPS 4th - Basic Set - Characters"
+            }
+          },
+          {
+            "id": "3ae3c9f26b8a4b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alrathion - The End's Fall/Magic's Core/Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic"
+            }
+          },
+          {
+            "id": "c6b935c21ee5ef13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alrathion - The End's Fall/A World of Magic/Magic Families/Tanhala Family.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tanhala Family"
+            }
+          },
+          {
+            "id": "abeca9d573c5ed4e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
                 "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
-                "page": 190,
+                "page": 31,
                 "left": -10,
-                "top": 771,
+                "top": 636,
                 "zoom": 1.5563725490196083
               },
               "icon": "lucide-file-text",
@@ -54,39 +84,7 @@
             }
           },
           {
-            "id": "57ab9deb11140ee0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
-                "page": 7,
-                "left": -10,
-                "top": 312,
-                "zoom": 1.5563725490196079
-              },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Magic"
-            }
-          },
-          {
-            "id": "031d81448fa94547",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology - Sorcery.pdf",
-                "page": 34,
-                "left": -9,
-                "top": 255,
-                "zoom": 1.5796019900497515
-              },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Thaumatology - Sorcery"
-            }
-          },
-          {
-            "id": "e4025486e6a4ceed",
+            "id": "f061cc6544a79f86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,37 +98,23 @@
             }
           },
           {
-            "id": "c6b935c21ee5ef13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alrathion - The End's Fall/Banned Advantages and Disadvantages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Banned Advantages and Disadvantages"
-            }
-          },
-          {
-            "id": "abeca9d573c5ed4e",
+            "id": "05ad160a48bfd93e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
-                "page": 190,
-                "left": -9,
-                "top": 779,
-                "zoom": 1.7279411764705883
+                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
+                "page": 11,
+                "left": -10,
+                "top": 786,
+                "zoom": 1.5563725490196083
               },
               "icon": "lucide-file-text",
-              "title": "GURPS 4th - Thaumatology"
+              "title": "GURPS 4th - Magic"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -321,44 +305,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4025486e6a4ceed",
+  "active": "a4e47e70f1337ad2",
   "lastOpenFiles": [
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/Hierarchy.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/The Great Council.md",
+    "Alrathion - The End's Fall/Magic's Core/Magic.md",
     "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Cultures/Religion.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Cultures/Food.md",
-    "Alrathion - The End's Fall/Banned Advantages and Disadvantages.md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/Yorda School of Magic.md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/Tira Family.md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/Tanhala Family.md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/Pudt Family.md",
-    "Alrathion - The End's Fall/A World of Magic/How Magic Affects the World.md",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology - Sorcery.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
     "Alrathion - The End's Fall/Maps/World Maps/WorldMap.kra-autosave.kra",
+    "Alrathion - The End's Fall/Maps/Alrathion/Alrathion.png",
+    "Alrathion - The End's Fall/Maps/Alrathion/AlrathionMap.png",
+    "Alrathion - The End's Fall/Player Profiency.md",
+    "Alrathion - The End's Fall/A World of Magic/Magic Families/Tanhala Family.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/The Great Council.md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Muldrath.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Kandri.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Waltasa.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Talar.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Dalthea.md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Races/Kathali.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/Hierarchy.md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Spell Charts.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Fantasy.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/History to Mining, Accessibility and Economics.md",
+    "Stone Plows.md",
+    "Alrathion - The End's Fall/A World of Magic/How Magic Affects the World.md",
     "Alrathion - The End's Fall/A World of Magic/Magical Terminology.md",
     "Alrathion - The End's Fall/A World of Magic/Magical Tools/General Ideas.md",
-    "Alrathion - The End's Fall/Magic's Core/Magic.md",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Spell Charts.pdf",
-    "Alrathion - The End's Fall/Magic's Core/Aimasturgy/The Rules of Aimasturgy.md",
-    "Alrathion - The End's Fall/Magic's Core/Aimasturgy/Homepage.md",
-    "Alrathion - The End's Fall/Magic's Core/Aimasturgy/Composition of Blood.md",
-    "Alrathion - The End's Fall/Magic's Core/Magic's Vocabulary.md",
-    "Alrathion - The End's Fall/Generational Evolution.md",
-    "Alrathion - The End's Fall/Magic vs. Science.md",
-    "Alrathion - The End's Fall/Quick Ideas.md",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
+    "Alrathion - The End's Fall/A World of Magic/Magic Families/Yorda School of Magic.md",
+    "Alrathion - The End's Fall/A World of Magic/Magic Families/Tira Family.md",
+    "Alrathion - The End's Fall/A World of Magic/Magic Families/Pudt Family.md",
+    "Alrathion - The End's Fall/A World of Magic/Magic Families/General Similarities/The Feldermans' (Summit).md",
+    "Alrathion - The End's Fall/A World of Magic/Magic Families/General Similarities/Recruitment.md",
     "Alrathion - The End's Fall/Campaign Story/A New Frontier.md",
-    "Elliot Clarren.md",
-    "Stone Plows.md",
-    "Simple vs. Extended Realms.md",
-    "Marriage Document/3 Year Financial Plan.md",
-    "Marriage Document/Bucket List.md",
+    "Alrathion - The End's Fall/Banned Advantages and Disadvantages.md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology - Sorcery.pdf",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Cultures/Food.md",
     "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Pyramid - 3_120.pdf",
     "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Pyramid - 3_44.pdf",
     "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Powers.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Foundry Aid Guide.pdf",
     "Alrathion - The End's Fall/Maps/World Maps/WorldMap.png",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-alpine.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/RedDragonAncient.webp",
@@ -367,8 +352,6 @@
     "Foundry/Data/systems/dnd5e/tokens/dragon/YoungCopperDragon.webp",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-pine.webp",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-cottage-pine.webp",
-    "Foundry/Data/systems/dnd5e/tokens/monstrosity/Androsphinx.webp",
-    "Foundry/Data/systems/dnd5e/tokens/dragon/YoungBlueDragon.webp",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Private - Do Not Touch/Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",

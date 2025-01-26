@@ -22,5 +22,6 @@ Congregation Size: 1k
 This goddess is neither benevolent or evil, but she found a method of her followers harvesting Vraul organically, though they know not what they do.
 
 ### Undel - God of Death
+Congregation Size >500
 Another uncaring god, he reigns over, and controls death. His congregation is obsessed with death, seeming more like fanatics than followers.
 

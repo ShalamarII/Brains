@@ -5,9 +5,6 @@
 
 - Blood Reaver - Gun that takes the user’s blood and compacts it into pellets on the spot to be used as a spell.
 
-## Hierarchy
-
-
 ### Blood Channels
  They have special channels built into veins in their body, specifically in the hands, feet, wrists, and chest.
 
