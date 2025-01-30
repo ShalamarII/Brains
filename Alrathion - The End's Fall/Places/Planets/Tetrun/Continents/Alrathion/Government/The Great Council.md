@@ -18,3 +18,9 @@ A human/kathali hybrid man known for his Bold, Loud, and Virtuous personality. H
 
 >[!GormGreatCouncil] Gorn Bobsnarp
 Gorm is a short human man, commonly studying, researching, and writing. He talks with a scholarly nature, quick to give advice (when he isn't distracted.) Gorm adores books, keeping his own personal library, many of which are written by him.
+
+---
+
+>[!EralionGreatCouncil] Eralion Sputtertooth
+>
+

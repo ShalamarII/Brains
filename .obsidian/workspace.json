@@ -8,52 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a43fc8b8baac1b3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Spell Charts.pdf",
-                "page": 29,
-                "left": -217,
-                "top": 724,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Spell Charts"
-            }
-          },
-          {
-            "id": "c6b935c21ee5ef13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alrathion - The End's Fall/A World of Magic/Magic Families/Tanhala Family.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tanhala Family"
-            }
-          },
-          {
-            "id": "abeca9d573c5ed4e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
-                "page": 31,
-                "left": -10,
-                "top": 636,
-                "zoom": 1.5563725490196083
-              },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Thaumatology"
-            }
-          },
-          {
             "id": "f061cc6544a79f86",
             "type": "leaf",
             "state": {
@@ -68,55 +22,111 @@
             }
           },
           {
-            "id": "05ad160a48bfd93e",
+            "id": "a8bff2d0e65792ee",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
-                "page": 11,
-                "left": -10,
-                "top": 786,
-                "zoom": 1.5563725490196083
+                "page": 76,
+                "left": -9,
+                "top": 148,
+                "zoom": 1.7279411764705883
               },
               "icon": "lucide-file-text",
               "title": "GURPS 4th - Magic"
             }
           },
           {
-            "id": "370881fc7d24302f",
+            "id": "9831a2570ce0444c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Fantasy.pdf",
-                "page": 134,
-                "left": -10,
-                "top": 746,
-                "zoom": 1.5563725490196083
+                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 1 Imbuements.pdf",
+                "page": 5,
+                "left": -9,
+                "top": 674,
+                "zoom": 1.7279411764705883
               },
               "icon": "lucide-file-text",
-              "title": "GURPS 4th - Fantasy"
+              "title": "GURPS 4th - Power Ups 1 Imbuements"
+            }
+          },
+          {
+            "id": "a33da9b460be308f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
+                "page": 63,
+                "left": -1,
+                "top": 702,
+                "zoom": 1.7695783132530123
+              },
+              "icon": "lucide-file-text",
+              "title": "GURPS 4th - Basic Set - Characters"
+            }
+          },
+          {
+            "id": "edaaef159203d453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alrathion - The End's Fall/Magic's Core/Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic"
             }
           },
           {
             "id": "7158bfe854f4d600",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
-                "page": 130,
-                "left": -2,
-                "top": 616,
-                "zoom": 1.5938755020080326
+                "file": "Alrathion - The End's Fall/Player Specific/Chez (Amadeus).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Basic Set - Characters"
+              "icon": "lucide-file",
+              "title": "Chez (Amadeus)"
+            }
+          },
+          {
+            "id": "b57c8e5f52b6a388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alrathion - The End's Fall/Player Specific/Veronica (Mirana).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Veronica (Mirana)"
+            }
+          },
+          {
+            "id": "eebb7aaae8007b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do (Tiddlywiki).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do (Tiddlywiki)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -270,8 +280,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -280,8 +290,18 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4cab73f52d19c906",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -294,9 +314,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -304,30 +321,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c6b935c21ee5ef13",
+  "active": "7158bfe854f4d600",
   "lastOpenFiles": [
+    "Alrathion - The End's Fall/Magic's Core/Magic.md",
+    "Alrathion - The End's Fall/Player Specific/Chez (Amadeus).md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 1 Imbuements.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
+    "To Do (Tiddlywiki).md",
+    "Alrathion - The End's Fall/Player Specific/Veronica (Mirana).md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/The Great Council.md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Spell Charts.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Powers.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Fantasy.pdf",
+    "Simple vs. Extended Realms.md",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Campaigns.pdf",
+    "Alrathion - The End's Fall/Player Specific",
+    "Alrathion - The End's Fall/A World of Magic/Magic Families/Tanhala Family.md",
     "Private - Do Not Touch/Our Brain/Diary/Saturday, August 19th, 2023.md",
     "Private - Do Not Touch/Our Brain/Diary/Monday, September 25th, 2023.md",
     "Private - Do Not Touch/Our Brain/Diary/Friday, August 18th, 2023.md",
     "Alrathion - The End's Fall/A World of Magic/Magic Families/Pudt Family.md",
     "Private - Do Not Touch/Our Brain/Diary/Untitled.md",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 1 Imbuements.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
     "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS For Dummies.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Bio Tech.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Monsters 1.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Campaigns.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS - Religion.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Monsters 3.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Monsters 2 - Icky Goo.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Low Tech.pdf",
     "Alrathion - The End's Fall/Player Profiency.md",
-    "Alrathion - The End's Fall/Magic's Core/Magic.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/The Great Council.md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/Tanhala Family.md",
     "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Cultures/Religion.md",
     "Alrathion - The End's Fall/Maps/Alrathion/Alrathion.png",
     "Alrathion - The End's Fall/Maps/Alrathion/AlrathionMap.png",
@@ -342,11 +366,6 @@
     "Stone Plows.md",
     "Alrathion - The End's Fall/A World of Magic/How Magic Affects the World.md",
     "Alrathion - The End's Fall/A World of Magic/Magical Terminology.md",
-    "Alrathion - The End's Fall/A World of Magic/Magical Tools/General Ideas.md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/Yorda School of Magic.md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/Tira Family.md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/General Similarities/The Feldermans' (Summit).md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/General Similarities/Recruitment.md",
     "Alrathion - The End's Fall/Maps/World Maps/WorldMap.png",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-alpine.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/RedDragonAncient.webp",

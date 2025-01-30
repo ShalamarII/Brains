@@ -38,52 +38,51 @@ Level 6: Transcend Limitations. This is a legendary level of power over the Real
 ### Impulses (Verbs)
 Impulses are the blocks, or principles that the universe uses to shape Vraul. I will use elements as examples, because though often closely related, they are not directly bound to them.  Some things are more easily communicated to the universe, such as Destruction. 
 
-[[Simple vs. Extended Realms]]
-
-| Word           | Energy Cost | Realm Level/FP Cost |
-| -------------- | ----------- | ------------------- |
-| Communicate    | 1           | 2                   |
-| Control        | 2           | 2                   |
-| Create/Destroy | 2           | 3                   |
-| Dominate       | 3           | 4                   |
-| Heal           | 1           | 3                   |
-| Protect        | 1           | 2                   |
-| Reveal/Conceal | 2           | 3                   |
-| Sense          | 2           | 1                   |
-| Strengthen     | 1           | 3                   |
-| Sustain        | 1           | 1                   |
-| Summon         | 2           | 3                   |
-| Transform      | 3           | 4                   |
-| Weaken         | 1           | 2                   |
+| Word           | Turns Taken                     | Energy Cost | Realm Level/FP Cost |
+| -------------- | ------------------------------- | ----------- | ------------------- |
+| Communicate    | 2                               | 1           | 2                   |
+| Control        | 1                               | 2           | 2                   |
+| Create/Destroy | 1                               | 2           | 3                   |
+| Dominate       | 2                               | 3           | 4                   |
+| Heal/Harm      | 1                               | 1           | 3                   |
+| Imbue          | 4                               | 2           | 3                   |
+| Protect        | 1 (Reaction for Active Defense) | 1           | 2                   |
+| Reveal/Conceal | 2                               | 2           | 3                   |
+| Sense          | 2                               | 2           | 1                   |
+| Strengthen     | 2                               | 1           | 2                   |
+| Sustain        | 1                               | 1           | 1                   |
+| Summon         | 3                               | 2           | 3                   |
+| Transform      | 2                               | 3           | 4                   |
+| Weaken         | 2                               | 1           | 2                   |
 
 
 Time is immutable. It cannot be affected, as it itself is the container that holds Vraul.
 
 Destruction is skewed towards affecting the body of a given creation, even though it can be applied to all 3 aspects. 
 
-### Aspects (Realms)
+### Aspects (Nouns)
 
-##### Nouns
+Aspects are the creations that an impulse can be applied to. 
 
 | Word           | Energy Cost | Character Points Per Level | Required Realm |
 | -------------- | ----------- | -------------------------- | -------------- |
-| Air            | 3           | 1                          | Elemental      |
-| Animal         | 2           | 1                          | Life           |
+| Air            | 3           | 2                          | Elemental      |
+| Animal         | 2           | 2                          | Life           |
 | Body           | 3           | 2                          | Self           |
-| Earth          | 2           | 1                          | Elemental      |
-| Fire           | 4           | 1                          | Elemental      |
-| Image          | 2           | 1                          | Light/Darkness |
-| Knowledge      | 2           | 2                          | Esoteric       |
+| Earth          | 3           | 4                          | Elemental      |
+| Fire           | 2           | 2                          | Elemental      |
+| Image          | 3           | 4                          | Light/Darkness |
+| Knowledge      | 4           | 2                          | Esoteric       |
 | Light/Darkness | 2           | 2                          | Light/Darkness |
-| Magic          | 2           | 3                          | Universe       |
+| Magic          | 4           | 3                          | Universe       |
 | Mind           | 3           | 2                          | Esoteric       |
-| Plant          | 1           | 2                          | Life           |
+| Plant          | 5           | 4                          | Life           |
 | Protection     | 2           | 2                          | Universe       |
-| Spirit         | 2           | 3                          | Esoteric       |
-| Space          | 10          | 3                          | Space          |
-| Water          | 2           | 1                          | Elemental      |
+| Spirit         | 3           | 3                          | Esoteric       |
+| Space          | 10          | 8                          | Space          |
+| Water          | 2           | 2                          | Elemental      |
 
-##### Realms
+### Realms
 
 | Word                                  | Energy Cost | Character Points Per Level | Number of Levels |
 | ------------------------------------- | ----------- | -------------------------- | ---------------- |
@@ -110,27 +109,62 @@ Air-1 would allow you the ability to sense air and its type.
 ## Modifiers
 ### Duration Table
 
-| Duration                        | Modifier to Cost |
-| ------------------------------- | ---------------- |
-| Short (1 Minute or less)        | +20%             |
-| Medium (1 Minute to 10 Minutes) | +40%             |
-| Long (10 Minutes to 59 Minutes) | +60%             |
-| Extra Long                      | +80%             |
+| Duration                                 | Modifier to Mana Cost |
+| ---------------------------------------- | --------------------- |
+| Instant (affects the object immediately) | 0%                    |
+| Short (1 Minute or less)                 | +20%                  |
+| Medium (1 Minute to 10 Minutes)          | +40%                  |
+| Long (10 Minutes to 59 Minutes)          | +60%                  |
+| Extra Long (1 Hour - 1 Day)              | +80%                  |
+| Permanent                                | +600%                 |
 
-### Casting Time / Delay Time
+### Casting Time
 
-| Reduced/Increased Time | Modifier to Cost |
-| ---------------------- | ---------------- |
-| 1 Second Reduced       | +10%             |
-| 1 Minute Reduced       | +100%            |
-| 1 Second Increased     | -10%             |
-| 1 Minute Increased     | -100%            |
+| Reduced/Increased Time     | Modifier to Mana Cost |
+| -------------------------- | --------------------- |
+| 1/2 Cast Time (Floor of 1) | +50%                  |
+| 1/4 Cast Time (Floor Of 1) | +100%                 |
+| 1.5x Cast Time             | -25%                  |
+| 2x Cast Time               | -50%                  |
+| 10x Cast Time (Enchanting) | -25%                  |
+| 20x Cast Time (Enchanting) | -50%                  |
 
-| Delay Amount                                                         | Modifier to Cost |
-| -------------------------------------------------------------------- | ---------------- |
-| Less than a minute                                                   | +10%             |
-| 1 Minute+                                                            | +20%             |
-| Triggered Delay (Triggered by a simple action instead of time based) | +50%             |
+### Delay Time
+
+| Delay Amount                                                         | Modifier to Mana Cost |
+| -------------------------------------------------------------------- | --------------------- |
+| Less than a minute                                                   | +10%                  |
+| 1 Minute - 1 Hour                                                    | +20%                  |
+| 1 Hour - 1 Day                                                       | +80% per each day     |
+| Triggered Delay (Triggered by a simple action instead of time based) | +50%                  |
+### Area Modifier
+
+
+| Changed Amount          | Modifier to Mana Cost |
+| ----------------------- | --------------------- |
+| From Touch to 1 yd area | +50%                  |
+| +1 yd                   | +10%                  |
+| +10 yd                  | +100%                 |
+| -1 yd                   | -10%                  |
+| -10 yd                  | -50%                  |
+
+### Selectiveness
+
+| Type    | Modifier                    |
+| ------- | --------------------------- |
+| Items   | +50% per item               |
+| Subject | +25% per additional subject |
+
+### Fatigue Replacement
+
+This is to replace the affects of using FP for casting.
+
+| Resource   | Resource Cost | Fatigue Point Cost |
+| ---------- | ------------- | ------------------ |
+| Mana       | +20%          | 1                  |
+| Hit Points | 1             | 1                  |
+
+
 
 ### Mind Opener
 "What is fire? It it the ignition? It it the light it gives off? is it all of those and more? Just as we cannot truly define fire, we cannot truly define anything. We can only prescribe categories upon it. Nothing is stopping a fire from lacking light. We can only think it does."
