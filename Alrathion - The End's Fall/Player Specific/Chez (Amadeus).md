@@ -2,13 +2,13 @@
 Uses a modification of the Spell Arrow Spell (M65).
 He can enchant bullets, which he can only shoot from his own gun. The gun is attuned to his unique signature and can be re-attuned by him to other people. 
 
-### Enchantment Steps (Bullets)
+### Enchantment Steps
 
 1. Use the Imbue verb + Magic noun to prepare an imbuement (At Base, this costs 4). This will succeed unless you fail the spell check or for an additional reason (Anti-Magic Field, Fatigue Over-Use, etc.)
 2. Find the cost of the spell itself (Speak with DM about it in advance, I can help with creating them on a whim as well.) \[See example below]
 3. Find the Modifiers of the spell (Range, Duration, Casting Time)
 4. Pay the Spells Cost (Verb + Noun + FP Cost)
-5. Roll against the spell (Thaumatology Skill + Magery Level of appropriate Noun - Verb Realm Level +/- Additional Modifiers)
+5. Roll against the spell (Magery \[Syntactic Magic]  - Verb Realm Level +/- Additional Modifiers)
 6. If the spell succeeds, you successfully imbue the spell into the bullet. 
 
 ### Example
