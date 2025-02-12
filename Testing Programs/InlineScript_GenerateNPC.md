@@ -24,7 +24,6 @@ result = "| Name | Race | Attribute Level | Descriptor Word | Eye Color | Behavi
 
 let baseDocumentNum = 0;
 $1 = Number($1);
-randomChecker =  $2
 
 
 for (let i = 0; i < $1; i++)
@@ -37,16 +36,16 @@ for (let i = 0; i < $1; i++)
     switch ($2.toLowerCase()){
         case "random":
             racePicker = Math.floor(Math.random() * races.length);
-            randomRace = races[racePicker];
-            console.log("Random: ", randomRace);
+            sRace = races[racePicker];
+            console.log("Random: ", sRace);
             break;
         default:
-         randomRace = $2.toLowerCase();
-         console.log(randomRace);
+         sRace = $2.toLowerCase();
+         console.log(sRace);
     };
 
-    let rand0 = Math.floor(Math.random() * data[baseDocumentNum][`${randomRace.toLowerCase()}FirstNames`].length);
-    let rand1 = Math.floor(Math.random() * data[baseDocumentNum][`${randomRace.toLowerCase()}LastNames`].length);
+    let rand0 = Math.floor(Math.random() * data[baseDocumentNum][`${sRace.toLowerCase()}FirstNames`].length);
+    let rand1 = Math.floor(Math.random() * data[baseDocumentNum][`${sRace.toLowerCase()}LastNames`].length);
     let rand2 = Math.floor(Math.random() * data[baseDocumentNum].persAttributes.length);
     let rand3 = Math.floor(Math.random() * data[baseDocumentNum].physFeatures.length);
     let rand4 = Math.floor(Math.random() * data[baseDocumentNum].physFeatures.length);
@@ -65,11 +64,11 @@ for (let i = 0; i < $1; i++)
     //Start Table With Name
     result +=
    	 "| " +
-   	 data[baseDocumentNum][`${randomRace.toLowerCase()}FirstNames`][rand0] + " " +
-   	 data[baseDocumentNum][`${randomRace.toLowerCase()}LastNames`][rand1] + " | ";
+   	 data[baseDocumentNum][`${sRace.toLowerCase()}FirstNames`][rand0] + " " +
+   	 data[baseDocumentNum][`${sRace.toLowerCase()}LastNames`][rand1] + " | ";
 
      // Insert Race Name
-     result += `${randomRace.charAt(0).toUpperCase() + randomRace.slice(1)}`  + " | "
+     result += `${sRace.charAt(0).toUpperCase() + sRace.slice(1)}`  + " | "
 
    	result +=
    	 data[baseDocumentNum].persAttributes[rand2] + " | " +
@@ -84,8 +83,8 @@ for (let i = 0; i < $1; i++)
    	 data[baseDocumentNum].persMidQuests[rand11] + " | " +
    	 data[baseDocumentNum].persVularisQuests[rand12] + " | " +
    	 data[baseDocumentNum].persProfession[rand13] + " | " +
-     data[baseDocumentNum][`${randomRace.toLowerCase()}Traits`][rand14] + " , " +
-     data[baseDocumentNum][`${randomRace.toLowerCase()}Traits`][rand15]
+     data[baseDocumentNum][`${sRace.toLowerCase()}Traits`][rand14] + ", " +
+     data[baseDocumentNum][`${sRace.toLowerCase()}Traits`][rand15]
       
     result += " |\n";
    	 

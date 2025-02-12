@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing Programs/InlineScript_BlacksmithShopGen.md",
+                "file": "Testing Programs/InlineScript_GenerateNPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InlineScript_BlacksmithShopGen"
+              "title": "InlineScript_GenerateNPC"
             }
           },
           {
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -322,22 +322,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "7f25c65446d5e921",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69597f3c60db07a9",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -362,12 +346,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1f640b430a54989",
+  "active": "179ad3da392cac26",
   "lastOpenFiles": [
-    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/Network Components.md",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/ISP Connectivity Options.md",
-    "GURPSGeneration/Shops/Shop Traits.md",
+    "Testing Programs/InlineScript_GenerateNPC.md",
     "GURPSGeneration/NPCS/NPC Traits.md",
+    "Testing Programs/Untitled.md",
+    "Testing Programs/InlineScript_BlacksmithShopGen.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Vocabulary.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Intermediary Devices.md",
+    "Alrathion - The End's Fall/Quick Ideas.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Story Inspirations, Themes, and Tenets.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/Network Components.md",
+    "GURPSGeneration/Shops/Shop Traits.md",
     "Alrathion - The End's Fall/History/Mining/Bronze & Iron Age - 1500 PW.md",
     "Alrathion - The End's Fall/History/History of Mining, Accessibility and Economics.md",
     "Alrathion - The End's Fall/History/History of The Kathali People.md",
@@ -378,21 +369,14 @@
     "Alrathion - The End's Fall/History/Mining/Mithril Age - 0 AW.md",
     "Alrathion - The End's Fall/History/Mining/Magic Age - 1000 PW.md",
     "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/History to Mining, Accessibility and Economics.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Story Inspirations, Themes, and Tenets.md",
-    "Testing Programs/InlineScript_BlacksmithShopGen.md",
     "Templates/TTRPGs/Kathali NPC Template.md",
     "One Piece/Akujiki.md",
     "Templates/TTRPGs/Human NPC Template.md",
-    "Testing Programs/Untitled.md",
     "One Piece",
     "Testing Programs/InlineScript_GenerateFlora.md",
     "GURPSGeneration/Untitled.md",
     "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/The OId Continent (Thaddelonia)/Generated NPCs/Orcs/Untitled.md",
     "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/The OId Continent (Thaddelonia)/Generated NPCs",
-    "Templates/TTRPGs/Orc NPC Template.md",
-    "Testing Programs/InlineScript_GenerateNPC.md",
-    "Alrathion - The End's Fall/History/Kathali/The Great War & The Illinea Empire's Exodus.md",
     "Alrathion - The End's Fall/History/Mining",
     "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Campaigns.pdf",
     "GURPSGeneration/Shops",
