@@ -1,0 +1,53 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "D&D PC Sessions",
+      "template": "Templates/TTRPGs/PC Session Template.md"
+    },
+    {
+      "folder": "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Biology/Flora",
+      "template": "Templates/TTRPGs/Flora Template.md"
+    },
+    {
+      "folder": "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Generated NPC's/Human",
+      "template": "Templates/TTRPGs/Human NPC Template.md"
+    },
+    {
+      "folder": "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/The OId Continent (Thaddelonia)/Generated NPCs/Orcs",
+      "template": "Templates/TTRPGs/Orc NPC Template.md"
+    },
+    {
+      "folder": "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Generated NPC's/Kathali",
+      "template": "Templates/TTRPGs/Kathali NPC Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

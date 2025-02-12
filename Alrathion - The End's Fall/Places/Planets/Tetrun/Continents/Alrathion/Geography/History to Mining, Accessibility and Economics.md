@@ -2,7 +2,7 @@
 # Stone Age - 3000 BCE
 Stone Tools mainly used. Maces and Axes were the main combat method, armor was made of leather.
 Trapping was borne of this age, though not sophisticated.
-Domestication was standardized, with rudimentary [[Stone Plows|stone plows]] being carried on the backs of people until 2850 BCE.
+Domestication was standardized, with rudimentary stone plows being carried on the backs of people until 2850 BCE.
 Stone was mined from quarries, houses were mainly crafted from stone. 
 Copper was rarely used for tools, but mainly heirlooms.
 # Fuel Sources
@@ -11,7 +11,7 @@ Copper was rarely used for tools, but mainly heirlooms.
 Copper processing becomes better, with sieving, melting processes becoming better, and the standardization of metal working.
 Armies were easier mobilized, and died less often, as armor vastly improved.
 Horses are being used for combat, with lancing and horseback archery becoming the most popular combat styles.
-Illinea is created in the year 1837 BCE
+Illinea is created in the year 1837 BCE.
 # Bronze Age/Iron Age - 1500 BCE
 Alloying is created, bronze is invented. This largely created a boom in trade between the different civilizations, in a era similar to the cold war.
 Aimasturgy is discovered by the inhabitants of Illinea. These use this to quickly conquer many neighboring settlements, creating the first known empire.

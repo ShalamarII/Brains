@@ -1,13 +1,18 @@
 
 ### Inspirations
+- Dune
+- Super Gene
+- Cultivation Light Novels
 
 ### Themes
 
 - Religious Belief vs. Moral Duty
 - Interests of the Wealthy vs. The Poor
 - Tradition vs. Discovery
+- Animals with humanity vs. Humanity with animalistic traits.
 
 ### Tenets
+
 ##### Structural and Foundational
 - Housing, necessities, and trade is handled by the people of the city. The conglomeration of talented peoples is what created major cities, along with the technological advances that Aimasturgy brought along. 
 - Lack of major history, due to large periods of war.

@@ -1004,14 +1004,14 @@
 
 >[!Plant Classification] Classification
 >Here are 8 words that classify plants, including the terms you requested:
->1. Herbaceous
->2. Woody
->3. Perennial
->4. Annual
->5. Aggressive
->6. Neutral
->7. Passive
->8. Succulent
+>-  Herbaceous
+>-  Woody
+>-  Perennial
+>-  Annual
+>-  Aggressive
+>-  Neutral
+>-  Passive
+>-  Succulent
 
 ---
 

@@ -1,0 +1,1136 @@
+---
+physFeatures:
+  - Freckles
+  - Dimples
+  - High cheekbones
+  - Almond-shaped eyes
+  - Hooded eyes
+  - Round face
+  - Square jawline
+  - Pointed chin
+  - Broad nose
+  - Button nose
+  - Crooked nose
+  - Arched eyebrows
+  - Bushy eyebrows
+  - Thin eyebrows
+  - Full lips
+  - Thin lips
+  - Overbite
+  - Underbite
+  - Gap teeth
+  - Straight teeth
+  - Curly hair
+  - Wavy hair
+  - Straight hair
+  - Bald head
+  - Widow’s peak
+  - Receding hairline
+  - Thick eyelashes
+  - Sparse eyelashes
+  - Rosy cheeks
+  - Pale complexion
+  - Olive skin tone
+  - Dark complexion
+  - Sunspots
+  - Birthmark
+  - Scars
+  - Stretch marks
+  - Tall stature
+  - Short stature
+  - Broad shoulders
+  - Narrow shoulders
+  - Long fingers
+  - Short fingers
+  - Calloused hands
+  - Soft hands
+  - Large ears
+  - Small ears
+  - Protruding ears
+  - Long neck
+  - Short neck
+  - Bowed legs
+  - Knock-knees
+  - Large feet
+  - Small feet
+  - Defined collarbones
+  - Prominent Adam’s apple
+  - Heterochromia (two different eye colors)
+  - Webbed fingers or toes
+  - Missing a digit
+  - Extra toe or finger
+  - Double-jointed fingers
+  - Thick calves
+  - Thin wrists
+  - Muscular arms
+  - Prominent veins
+  - Flat feet
+  - High-arched feet
+  - Square nails
+  - Oval nails
+  - Long eyelashes
+  - Short eyelashes
+  - Puffy eyes
+  - Deep-set eyes
+  - Monolid eyes
+  - Cat-like eyes
+  - Crooked smile
+  - Cleft chin
+  - Sunken cheeks
+  - Chubby cheeks
+  - Strong brow ridge
+  - Wrinkles on the forehead
+  - Crow’s feet (wrinkles around the eyes)
+  - Smile lines
+  - Frown lines
+  - Sparse hair
+  - Widow’s peak
+  - Unibrow
+  - Pigeon-toed stance
+  - Bow-legged stance
+  - Wide-set eyes
+  - Close-set eyes
+  - Large hands
+  - Small hands
+  - Defined six-pack
+  - Soft midsection
+  - Prominent hip bones
+  - Wide hips
+  - Narrow hips
+  - Hourglass figure
+  - Pear-shaped figure
+  - Broad chest
+  - Barrel chest
+  - Bony knuckles
+  - Visible dimples on knees or elbows
+  - Prominent veins on hands
+  - Hair whorl (unusual hair growth pattern)
+  - Light-colored body hair
+  - Dark-colored body hair
+  - Sparse body hair
+  - Thick body hair
+persTraits:
+  - Kind
+  - Compassionate
+  - Generous
+  - Empathetic
+  - Patient
+  - Loyal
+  - Honest
+  - Trustworthy
+  - Responsible
+  - Dependable
+  - Optimistic
+  - Pessimistic
+  - Introverted
+  - Extroverted
+  - Ambitious
+  - Hardworking
+  - Determined
+  - Persistent
+  - Courageous
+  - Bold
+  - Confident
+  - Shy
+  - Humble
+  - Modest
+  - Arrogant
+  - Selfish
+  - Greedy
+  - Impulsive
+  - Reckless
+  - Carefree
+  - Adventurous
+  - Cautious
+  - Curious
+  - Intelligent
+  - Wise
+  - Creative
+  - Imaginative
+  - Artistic
+  - Logical
+  - Analytical
+  - Practical
+  - Resourceful
+  - Witty
+  - Funny
+  - Charismatic
+  - Charming
+  - Persuasive
+  - Talkative
+  - Quiet
+  - Reserved
+  - Independent
+  - Outgoing
+  - Friendly
+  - Warm
+  - Gentle
+  - Affectionate
+  - Sensitive
+  - Emotional
+  - Moody
+  - Stubborn
+  - Rigid
+  - Open-minded
+  - Closed-minded
+  - Judgmental
+  - Forgiving
+  - Encouraging
+  - Supportive
+  - Considerate
+  - Thoughtful
+  - Respectful
+  - Rude
+  - Polite
+  - Manipulative
+  - Deceitful
+  - Sarcastic
+  - Cynical
+  - Skeptical
+  - Naïve
+  - Gullible
+  - Dramatic
+  - Serious
+  - Laid-back
+  - Easygoing
+  - Energetic
+  - Lazy
+  - Proactive
+  - Passive
+  - Assertive
+  - Aggressive
+  - Domineering
+  - Submissive
+  - Perfectionist
+  - Messy
+  - Disorganized
+  - Organized
+  - Detail-oriented
+  - Absent-minded
+  - Scatterbrained
+  - Punctual
+  - Tardy
+  - Spontaneous
+  - Predictable
+  - Idealistic
+  - Realistic
+persBehaviors:
+  - Interrupting others
+  - Listening attentively
+  - Making eye contact
+  - Avoiding eye contact
+  - Fidgeting
+  - Pacing back and forth
+  - Crossing arms defensively
+  - Smiling often
+  - Frowning frequently
+  - Rolling eyes
+  - Nodding in agreement
+  - Shaking head in disagreement
+  - Sighing loudly
+  - Speaking in a soft voice
+  - Speaking in a loud voice
+  - Whispering to others
+  - Laughing nervously
+  - Biting fingernails
+  - Tapping fingers on a surface
+  - Drumming hands on legs
+  - Checking the time constantly
+  - Glancing at a phone repeatedly
+  - Avoiding direct answers
+  - Giving vague responses
+  - Speaking over others
+  - Gossiping about people
+  - Complimenting frequently
+  - Criticizing often
+  - Apologizing excessively
+  - Refusing to apologize
+  - Bragging about achievements
+  - Downplaying accomplishments
+  - Deflecting blame
+  - Taking responsibility quickly
+  - Offering unsolicited advice
+  - Ignoring advice from others
+  - Showing empathy in conversations
+  - Dismissing others' feelings
+  - Interrupting with personal stories
+  - Staying silent in group discussions
+  - Making sarcastic remarks
+  - Complaining frequently
+  - Expressing gratitude regularly
+  - Being overly competitive
+  - Encouraging teamwork
+  - Teasing playfully
+  - Mocking others
+  - Giving thoughtful gifts
+  - Forgetting important dates
+  - Holding grudges
+  - Forgiving easily
+  - Avoiding confrontation
+  - Facing conflict head-on
+  - Changing the subject in awkward moments
+  - Laughing at inappropriate times
+  - Crying easily
+  - Suppressing emotions
+  - Offering comfort when someone is upset
+  - Avoiding people when they are upset
+  - Procrastinating on tasks
+  - Completing tasks ahead of time
+  - Organizing things obsessively
+  - Leaving messes behind
+  - Over-apologizing for small mistakes
+  - Refusing to admit mistakes
+  - Correcting others frequently
+  - Staying quiet even when wronged
+  - Holding doors open for others
+  - Cutting in line
+  - Ignoring social norms
+  - Following etiquette strictly
+  - Standing too close to people
+  - Keeping a lot of personal space
+  - Asking too many personal questions
+  - Avoiding personal topics
+  - Being passive-aggressive
+  - Being direct and blunt
+  - Over-explaining things
+  - Giving vague or cryptic answers
+  - Hoarding items unnecessarily
+  - Giving away possessions freely
+  - Asking for help frequently
+  - Refusing to ask for help
+  - Offering help without being asked
+  - Expecting others to help without asking
+  - Being overly cautious
+  - Taking unnecessary risks
+  - Daydreaming frequently
+  - Being highly alert at all times
+  - Talking too fast
+  - Talking too slowly
+  - Ignoring rules
+  - Following rules obsessively
+  - Speaking formally in casual settings
+  - Using a lot of slang or informal speech
+  - Repeating the same stories often
+  - Remembering small details about others
+  - Forgetting names easily
+  - Giving unsolicited hugs
+  - Avoiding physical touch
+  - Being easily distracted
+  - Hyper-focusing on small details
+persFlaws:
+  - Confirmation bias (favoring information that supports existing beliefs)
+  - Cognitive dissonance (holding conflicting beliefs and struggling to reconcile them)
+  - Overconfidence bias (believing you’re more capable than you are)
+  - Procrastination (delaying tasks irrationally)
+  - Perfectionism (setting unrealistically high standards)
+  - Impulsiveness (acting without thinking)
+  - Short attention span (struggling to focus for long periods)
+  - Negativity bias (focusing more on negative events than positive ones)
+  - Anchoring bias (relying too heavily on the first piece of information given)
+  - Sunk cost fallacy (continuing with a bad decision because of past investment)
+  - Catastrophizing (assuming the worst-case scenario will happen)
+  - Emotional reasoning (believing something is true based on feelings, not facts)
+  - Black-and-white thinking (seeing things as only good or bad, with no in-between)
+  - Projection (assuming others have the same thoughts or feelings as you)
+  - Self-sabotage (creating obstacles to your own success)
+  - People-pleasing (sacrificing your own needs for others’ approval)
+  - Rumination (overthinking past mistakes or events)
+  - Defensiveness (reacting aggressively to criticism)
+  - Passive-aggressiveness (expressing anger or frustration indirectly)
+  - Fear of failure (avoiding risks due to the possibility of not succeeding)
+  - Fear of rejection (avoiding situations where you might be turned down)
+  - Jealousy (resenting others for their success or happiness)
+  - Envy (desiring what others have)
+  - Martyr complex (believing suffering makes you morally superior)
+  - Grandiosity (believing you are more important or talented than you are)
+  - Narcissism (excessive self-focus and lack of empathy)
+  - Low self-esteem (believing you are not valuable or capable)
+  - Self-doubt (constantly questioning your own abilities)
+  - Tunnel vision (focusing too much on one aspect of a situation)
+  - Selective memory (only remembering details that support your beliefs)
+  - Blame shifting (refusing to take responsibility for mistakes)
+  - Victim mentality (believing the world is against you)
+  - Just-world fallacy (assuming good things happen to good people and vice versa)
+  - Illusion of control (believing you have more influence over events than you do)
+  - Hindsight bias (believing past events were predictable)
+  - Groupthink (going along with the majority to avoid conflict)
+  - Herd mentality (copying others without questioning why)
+  - Resistance to change (avoiding new experiences due to fear)
+  - Learned helplessness (believing you have no control over your circumstances)
+  - Lying to yourself (denying uncomfortable truths)
+  - Escapism (avoiding reality through distractions)
+  - Hedonic adaptation (quickly returning to a baseline happiness level after good events)
+  - Emotional detachment (shutting down feelings to avoid pain)
+  - Self-centeredness (focusing excessively on yourself)
+  - Manipulativeness (using others for personal gain)
+  - Argumentativeness (always seeking conflict)
+  - Cynicism (assuming the worst about people and situations)
+  - Delusions of grandeur (believing you have special powers or status)
+  - Hoarding (holding onto things irrationally)
+  - Fear of commitment (avoiding long-term responsibilities)
+  - Passive behavior (failing to stand up for yourself)
+  - Stubbornness (refusing to change despite evidence)
+  - Gullibility (believing things too easily)
+  - Indecisiveness (struggling to make choices)
+  - Dependency (relying too much on others for validation)
+  - Chronic complaining (always focusing on problems)
+  - Superstitious thinking (believing unrelated events affect outcomes)
+  - Magical thinking (assuming thoughts alone can influence reality)
+  - Overgeneralization (applying one negative experience to everything)
+  - Avoidance (ignoring difficult situations or conversations)
+  - Resentment (holding onto anger for long periods)
+  - Pessimism (expecting bad outcomes)
+  - Status-seeking (obsessing over social rank and approval)
+  - Emotional impulsivity (letting emotions dictate actions)
+  - Self-pity (dwelling on personal hardships excessively)
+  - False humility (acting modest but seeking validation)
+  - Paranoia (believing others are out to harm you without reason)
+  - Scapegoating (blaming one person or group for all problems)
+  - Recklessness (acting dangerously without considering consequences)
+  - Masochism (seeking suffering or self-punishment)
+  - Codependency (sacrificing your own well-being for someone else’s)
+  - Workaholism (using work to avoid personal issues)
+  - FOMO (fear of missing out, leading to anxiety)
+  - Revenge-seeking (obsessing over getting back at others)
+  - Chronic guilt (feeling guilty even when not at fault)
+  - Avoiding self-reflection (refusing to examine your thoughts or actions)
+  - Assuming intent (believing others are acting against you without proof)
+  - Repeating toxic patterns (choosing harmful behaviors despite knowing better)
+  - Over-apologizing (saying sorry too often, even when unnecessary)
+  - Inability to accept praise (deflecting compliments)
+  - Fixation on the past (constantly reliving old events)
+  - Taking things personally (assuming everything is about you)
+  - Unrealistic expectations (expecting perfection from yourself or others)
+  - Assuming mind-reading (believing you know what others think)
+  - Misplaced priorities (focusing on unimportant things)
+  - Instant gratification seeking (choosing short-term pleasure over long-term benefits)
+  - Hoarding emotions (bottling up feelings instead of expressing them)
+  - Blind loyalty (sticking with people or ideas despite evidence against them)
+  - Believing in destiny over effort (assuming fate controls life instead of actions)
+  - Expecting fairness (assuming life should always be fair)
+  - Over-personalizing failure (believing setbacks define your worth)
+  - Feeling superior (looking down on others unjustifiably)
+  - Fear of being ordinary (believing life must be extraordinary to be meaningful)
+  - Being easily offended (overreacting to minor things)
+  - Addiction tendencies (relying on substances or habits for emotional regulation)
+persStrengths:
+  - Self-awareness (understanding your own thoughts and emotions)
+  - Emotional intelligence (recognizing and managing emotions effectively)
+  - Resilience (bouncing back from setbacks)
+  - Adaptability (adjusting to new situations with ease)
+  - Patience (tolerating difficulties without frustration)
+  - Empathy (understanding and sharing others' feelings)
+  - Compassion (caring deeply about others’ well-being)
+  - Courage (facing fears and challenges head-on)
+  - Confidence (believing in your abilities)
+  - Humility (acknowledging strengths and weaknesses without arrogance)
+  - Optimism (expecting positive outcomes)
+  - Realism (seeing things as they are, not as you want them to be)
+  - Focus (concentrating on tasks without distraction)
+  - Discipline (sticking to goals despite difficulties)
+  - Perseverance (continuing despite obstacles)
+  - Open-mindedness (willingness to consider new ideas)
+  - Creativity (thinking outside the box)
+  - Innovation (finding new and better ways to do things)
+  - Logical reasoning (analyzing situations rationally)
+  - Critical thinking (evaluating information objectively)
+  - Problem-solving (finding effective solutions)
+  - Decision-making (making choices with confidence)
+  - Curiosity (eager to learn and explore)
+  - Growth mindset (believing abilities can improve with effort)
+  - Independence (thinking and acting for yourself)
+  - Self-motivation (driven to succeed without external pressure)
+  - Initiative (taking action without being told)
+  - Resourcefulness (finding creative solutions to problems)
+  - Self-control (managing impulses and emotions)
+  - Assertiveness (expressing yourself clearly and confidently)
+  - Perspective-taking (seeing situations from different viewpoints)
+  - Fairness (treating others with justice and equity)
+  - Forgiveness (letting go of resentment)
+  - Gratitude (appreciating what you have)
+  - Mindfulness (staying present in the moment)
+  - Self-reflection (analyzing past experiences for growth)
+  - Integrity (acting with honesty and strong morals)
+  - Reliability (being dependable and trustworthy)
+  - Accountability (owning up to mistakes and responsibilities)
+  - Flexibility (adapting to change easily)
+  - Dedication (commitment to goals and values)
+  - Work ethic (putting in effort to achieve success)
+  - Determination (refusing to give up)
+  - Leadership (inspiring and guiding others)
+  - Teamwork (working well with others)
+  - Communication skills (expressing ideas clearly)
+  - Active listening (fully engaging in conversations)
+  - Negotiation skills (resolving conflicts fairly)
+  - Charisma (influencing others with personality and presence)
+  - Enthusiasm (approaching life with excitement and energy)
+  - Humor (finding joy and lightness in situations)
+  - Altruism (helping others without expecting rewards)
+  - Emotional stability (remaining calm under pressure)
+  - Willpower (resisting temptations and distractions)
+  - Strategic thinking (planning for long-term success)
+  - Mental agility (quickly processing and adapting to information)
+  - Self-sufficiency (being able to rely on yourself)
+  - Tenacity (persisting until a goal is achieved)
+  - Intuition (trusting gut instincts)
+  - Tolerance (accepting differences in people and opinions)
+  - Non-reactivity (not overreacting to negative events)
+  - Clarity (thinking and communicating with precision)
+  - Self-compassion (treating yourself with kindness)
+  - Decisiveness (making choices without excessive hesitation)
+  - Reliability (being someone others can count on)
+  - Ethical judgment (choosing right over wrong)
+  - Situational awareness (understanding the dynamics of an environment)
+  - Learning agility (quickly grasping new concepts)
+  - Perspective (understanding the bigger picture)
+  - Long-term vision (setting goals for the future)
+  - Introspection (deeply examining your own thoughts and actions)
+  - Restraint (choosing words and actions carefully)
+  - Intensity (giving full energy and passion to a task)
+  - Fair-mindedness (giving equal consideration to all sides)
+  - Logical consistency (aligning thoughts and actions with reason)
+  - Decency (showing good moral character)
+  - Diplomacy (handling sensitive situations tactfully)
+  - Conflict resolution (effectively addressing disagreements)
+  - Meticulousness (paying attention to details)
+  - Self-sufficiency (not being overly dependent on others)
+  - Social intelligence (understanding social dynamics and behaviors)
+  - Persuasion (convincing others with reasoning and tact)
+  - Verbal fluency (expressing thoughts articulately)
+  - Non-verbal intelligence (reading body language and facial expressions)
+  - Attentiveness (noticing small details others miss)
+  - Poise (handling pressure with composure)
+  - Alacrity (responding with enthusiasm and speed)
+  - Inventiveness (coming up with new ideas)
+  - Rationality (basing decisions on reason rather than emotions)
+  - Moderation (avoiding extremes in behavior and thought)
+  - Pragmatism (focusing on practical solutions)
+  - Philanthropy (giving back to the community)
+  - Initiative (taking charge without waiting for permission)
+  - Constructive criticism (offering helpful feedback)
+  - Metacognition (thinking about your own thinking)
+  - Self-efficacy (believing in your ability to influence outcomes)
+  - Commitment (sticking to responsibilities and promises)
+  - Enthusiasm for learning (always seeking knowledge)
+  - Kindness (treating others with genuine warmth)
+persAttributes: 
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+persFirstNames:
+  - Alden  
+  - Elara  
+  - Kaelen  
+  - Neris  
+  - Viora  
+  - Dorian  
+  - Seraphine  
+  - Roderic  
+  - Elowen  
+  - Fenwick  
+  - Elysia  
+  - Kael  
+  - Arwen  
+  - Theodric  
+  - Selene  
+  - Galen  
+  - Isolde  
+  - Lucian  
+  - Amara  
+  - Theron  
+  - Lyra  
+  - Grayson  
+  - Eveline  
+  - Draven  
+  - Ysolde  
+  - Eamon  
+  - Freya  
+  - Thaddeus  
+  - Briar  
+  - Celestia  
+  - Maelis  
+  - Vespera  
+  - Asher  
+  - Lysandra  
+  - Orin  
+  - Talia  
+  - Jareth  
+  - Alina  
+  - Corwin  
+  - Nyssa  
+  - Zephyra  
+  - Alistair  
+  - Eryndor  
+  - Thalia  
+  - Baran  
+  - Rhiannon  
+  - Osric  
+  - Maelis  
+  - Liora  
+  - Varric  
+  - Zaria  
+  - Alistair  
+  - Thorne  
+  - Aric  
+  - Miriel  
+  - Raegan  
+  - Finley  
+  - Valeria  
+  - Tywin  
+  - Marius  
+  - Vala  
+  - Elandra  
+  - Darius  
+  - Lillia  
+  - Roland  
+  - Odessa  
+  - Fenrir  
+  - Ingrid  
+  - Rohan  
+  - Calista  
+  - Merek  
+  - Elyndra  
+  - Jeric  
+  - Avalen  
+  - Sylas  
+  - Nymeria  
+  - Tiberius  
+  - Sevrin  
+  - Ophelia  
+  - Garen  
+  - Soren  
+  - Talitha  
+  - Zephyrus  
+  - Miraniel  
+  - Leif  
+  - Vaelen  
+  - Damaris  
+  - Brielle  
+  - Kieran  
+  - Galadriel  
+  - Xander  
+  - Moriah  
+  - Eldric  
+  - Raelynn  
+  - Alaric  
+  - Nessa  
+  - Corwin  
+  - Gwyneira  
+  - Zane  
+  - Lunara  
+persLastNames:
+  - Thorne  
+  - Windham  
+  - Cole  
+  - Waters  
+  - Ashford  
+  - Clarke  
+  - Vale  
+  - Hill  
+  - Moore  
+  - Blackwood  
+  - Taylor  
+  - Stone  
+  - West  
+  - Reed  
+  - Brooks  
+  - Green  
+  - Stone  
+  - Harper  
+  - Rivers  
+  - Cross  
+  - Davis  
+  - Frost  
+  - Wells  
+  - Fox  
+  - Winter  
+  - Rivers  
+  - Hunt  
+  - Black  
+  - Webb  
+  - Knight  
+  - Kingsley  
+  - Hope  
+  - Carter  
+  - Pierce  
+  - Steele  
+  - Archer  
+  - Stone  
+  - Ward  
+  - Grace  
+  - Pierce  
+  - Westbrook  
+  - Hall  
+  - Marsh  
+  - Dawson  
+  - Fisher  
+  - Bell  
+  - Hayes  
+  - Brock  
+  - Day  
+  - Ford  
+  - Hillman  
+  - Holt  
+  - Frost  
+  - Wilde  
+  - Summers  
+  - Moore  
+  - Clarke  
+  - Vaughn  
+  - Blake  
+  - Grant  
+  - Pierce  
+  - Stone  
+  - Huntley  
+  - Rose  
+  - Hart  
+  - Rivers  
+  - Holloway  
+  - West  
+  - Blake  
+  - Shaw  
+  - Wells  
+  - Thorn  
+  - Redman  
+  - Greenfield  
+  - Cooper  
+  - Ford  
+  - Carter  
+  - Hayes  
+  - Turner  
+  - Marsh  
+  - Knight  
+  - Rhodes  
+  - Reid  
+  - Palmer  
+  - Lawson  
+  - Dawson  
+  - Hill  
+  - Grant  
+  - Stonefield  
+  - Birch  
+  - Blake  
+  - Wolfe  
+  - Fisher  
+  - James  
+  - Webb  
+  - Gray  
+  - Burke  
+  - Hunt  
+  - Cross  
+  - Holt  
+persLowQuests:
+  - Retrieve a stolen heirloom from a gang of goblins.
+  - Escort a merchant safely to the next town.
+  - Investigate why the town’s well has gone dry.
+  - Hunt down a wolf pack terrorizing a local farm.
+  - Rescue a kidnapped child from a bandit hideout.
+  - Clear a cave of giant rats infesting a food storehouse.
+  - Track down a missing hunter lost in the nearby forest.
+  - Break a minor curse afflicting a farmer’s crops.
+  - Recover stolen church relics from a thieves' den.
+  - Investigate strange noises coming from an abandoned windmill.
+  - Gather rare herbs for a local healer.
+  - Mediate a land dispute between two feuding families.
+  - Retrieve a runaway noble’s pet from the sewers.
+  - Deal with a group of squatters in an abandoned mansion.
+  - Locate a lost shipment of weapons meant for the town guard.
+  - Disrupt a smuggler's ring operating out of a coastal cave.
+  - Recover a merchant’s stolen ledger before it’s used for fraud.
+  - Deliver a secret message to a rebel leader.
+  - Find out who is poisoning the village’s livestock.
+  - Capture a rogue wizard causing minor magical mishaps.
+  - Guard a priest performing a late-night ritual.
+  - Disarm an old, forgotten magical trap in the temple ruins.
+  - Negotiate peace between two warring goblin tribes.
+  - Investigate the source of mysterious lights in the swamp.
+  - Find the missing key to a vault locked for decades.
+  - Escort a scholar to a hidden library in dangerous terrain.
+  - Defeat a band of kobolds claiming ownership of a bridge.
+  - Exterminate a nest of giant spiders under a barn.
+  - Recover a stolen magical tome before it falls into the wrong hands.
+  - Protect a village from a group of angry forest spirits.
+  - Bring a fugitive noble back to face justice—dead or alive.
+  - Find out why the town’s cows keep disappearing at night.
+  - Escort a caravan carrying precious glassware through rocky roads.
+  - Investigate rumors of undead rising in a forgotten crypt.
+  - Break up an illegal fight ring that’s drawing too much attention.
+  - Find the missing pages of a local historian’s research.
+  - Stop a gang of pickpockets plaguing the city market.
+  - Deal with a prankster fae causing havoc in a village.
+  - Retrieve an enchanted sword lost in an old battlefield.
+  - Help a blacksmith craft a rare weapon by gathering special materials.
+  - Investigate an old, cursed bell tower no one dares to enter.
+  - Put an end to a mischievous imp making a noble’s life miserable.
+  - Recover a fallen knight’s lost family banner.
+  - Capture a notorious highway robber before they strike again.
+  - Find a way to wake up a town elder who won’t awaken.
+  - Discover who has been tampering with the village’s food supply.
+  - Stop a rogue apprentice from misusing their magic.
+  - Escort a bard safely to their next performance.
+  - Discover why a lake’s fish have suddenly become poisonous.
+  - Find a way into a magically sealed tomb.
+  - Gather ingredients for a potion master’s experimental brew.
+  - Retrieve a noble’s signet ring lost in a gambling bet.
+  - Investigate a series of disappearances in the forest.
+  - Rescue a wayward donkey with a valuable cargo.
+  - Recover a relic stolen by a cult of shadow worshippers.
+  - Find out why an abandoned house has become haunted overnight.
+  - Investigate a minor noble accused of treason.
+  - Rescue a wizard’s familiar trapped in a strange place.
+  - Track down a missing knight who vanished on patrol.
+  - Solve the mystery of a shrine that no one remembers building.
+  - Recover a shipment of fireworks stolen before a festival.
+  - Assist in a high-stakes heist to retrieve a stolen artifact.
+  - Rescue a lost child from a maze-like hedge garden.
+  - Capture a mischievous gnome who has been scamming the villagers.
+  - Find a way to safely relocate a troll from under a bridge.
+  - Investigate why a blacksmith’s forge won’t stay lit.
+  - Help a wandering ghost fulfill its final wish.
+  - Disrupt an illegal underground dueling ring.
+  - Catch a shapeshifter who has been impersonating town officials.
+  - Help repair an old, collapsed road before a storm arrives.
+  - Find the missing daughter of a local fisherman.
+  - Chase down a runaway prisoner before they reach the border.
+  - Investigate why a town’s well has started glowing at night.
+  - Stop a minor demon from escaping its summoning circle.
+  - Retrieve a hidden will before a corrupt noble claims an estate.
+  - Solve the riddle of an ancient locked chest found in a ruin.
+  - Uncover a secret passage hidden beneath the mayor’s mansion.
+  - Escort a group of refugees to safety.
+  - Investigate why a flock of ravens is attacking a particular farm.
+  - Retrieve a stolen horse before the thieves escape.
+  - Stop a group of goblins from tampering with a town’s water supply.
+  - Help a cursed knight remove their armor, which they cannot take off.
+  - Rescue a baker’s kidnapped cat, rumored to bring good luck.
+  - Track down a drunken bard who vanished before their big performance.
+  - Find out why a village’s scarecrows have begun walking at night.
+  - Stop a gang of street thugs from harassing a local merchant.
+  - Retrieve an old family recipe from a forgotten chest.
+  - Investigate a merchant selling suspiciously cheap magic items.
+  - Chase down a thief who stole a wizard’s spellbook.
+  - Deliver an urgent letter to a noble before dawn.
+  - Recover a book of love poems for a nervous suitor.
+  - Find out why the town’s pigeons are stealing shiny objects.
+  - Escort an old knight to their homeland before they pass away.
+  - Locate a missing shipment of rare spices.
+  - Investigate an old battlefield said to be cursed.
+  - Retrieve an enchanted flute lost in an underground cave.
+  - Stop a rival adventuring party from stealing your job!
+persMidQuests:
+  - Infiltrate a noble’s estate to retrieve evidence of corruption.
+  - Track down a rogue wizard who has been experimenting with dangerous spells.
+  - Destroy a growing cult before they summon their dark patron.
+  - Investigate a ruined city that suddenly reappeared from another plane.
+  - Recover a stolen crown before a rival kingdom claims it.
+  - Slay a wyvern terrorizing trade routes in the mountains.
+  - Stop a vampire lord’s advance into the neighboring villages.
+  - Escort an exiled prince safely through enemy territory.
+  - Seal a rift to the Shadowfell before it expands.
+  - Negotiate peace between two warring baronies on the brink of war.
+  - Retrieve an ancient artifact locked within an abandoned dwarven mine.
+  - Investigate why a city’s river has turned to blood.
+  - Rescue a missing battalion lost in a cursed forest.
+  - Capture a rogue assassin before they strike again.
+  - Break a powerful curse affecting an entire noble family.
+  - Retrieve a powerful spellbook hidden in a ruined wizard’s tower.
+  - Slay an ancient basilisk whose gaze is turning an entire town to stone.
+  - Stop a group of radical druids from unleashing a magical storm.
+  - Retrieve an amulet stolen by pirates before they reach international waters.
+  - Investigate a long-lost library that appeared overnight.
+  - Clear out a fortress occupied by mercenaries who've taken over a key trade route.
+  - Recover the body of a fallen hero for proper burial.
+  - Hunt down a demon that has possessed a local ruler.
+  - Investigate a haunted lighthouse that has been sinking ships.
+  - Retrieve a legendary sword guarded by a dragon.
+  - Break into a maximum-security prison to rescue an innocent captive.
+  - Escort a caravan carrying a dangerous magical artifact.
+  - Survive a deadly gladiatorial arena long enough to escape.
+  - Stop a necromancer from raising an army of undead knights.
+  - Find and recruit a powerful warrior before an enemy faction does.
+  - Put down a rebellion before it erupts into full-scale war.
+  - Help a fey lord reclaim their domain from a usurper.
+  - Investigate why the sun hasn’t risen over a cursed valley.
+  - Defend a monastery under siege from a horde of fanatics.
+  - Stop a mad alchemist from unleashing a deadly plague.
+  - Hunt down a legendary beast whose pelt grants supernatural abilities.
+  - Break into a mage’s guild vault and steal a powerful relic.
+  - Escort an elder dragon to a sacred burial ground.
+  - Protect a group of artificers attempting to create a golem army.
+  - Negotiate with a powerful archfey for safe passage through their domain.
+  - Retrieve a map leading to a long-lost floating city.
+  - Solve a murder in a city where time resets every night.
+  - Find the lost heir to a powerful kingdom before an impostor takes the throne.
+  - Destroy an ancient construct that has begun rampaging again.
+  - Defend a city from a warlord’s siege.
+  - Help a lich find redemption before their soul is lost forever.
+  - Recover a stolen airship before its smugglers flee to another continent.
+  - Close a portal to an unknown and hostile realm.
+  - Steal a dangerous weapon from a rival adventuring party.
+  - Solve the mystery of an entire town that disappeared overnight.
+  - Survive an assassination attempt and track down the culprit.
+  - Unravel a conspiracy that has infiltrated the kingdom’s high court.
+  - Investigate why a desert town is slowly sinking into the sand.
+  - Stop an army of warforged from reawakening an ancient war.
+  - Bargain with a powerful genie for a wish that must be granted.
+  - Prevent a volcano from erupting and destroying a major city.
+  - Find a way to reverse a mass petrification curse.
+  - Hunt down a rogue deity’s avatar before they regain their full power.
+  - Find a lost temple that appears only once every 100 years.
+  - Investigate a town where no one has aged in 50 years.
+  - Track down and stop a rogue paladin on a crusade of destruction.
+  - Capture an ancient vampire’s thrall before they complete their transformation.
+  - Navigate a deadly maze where the walls shift every night.
+  - Prevent an ancient prophecy from coming true.
+  - Survive a night in a mansion filled with shapechangers.
+  - Steal back a legendary item from a dragon’s hoard.
+  - Reunite the pieces of an ancient shattered staff.
+  - Recover a secret spell hidden within an opera performance.
+  - Defend a royal wedding from an inevitable assassination attempt.
+  - Disrupt a powerful blood mage’s dark ritual.
+  - Retrieve an artifact from the Astral Plane.
+  - Help a rogue celestial escape their vengeful brethren.
+  - Find out why an ancient battlefield suddenly reanimated.
+  - Bargain with a powerful demon in exchange for a captured soul.
+  - Investigate a village where people vanish at sundown.
+  - Uncover the identity of a hidden god-worshipping cult.
+  - Protect a holy relic as it’s transported across dangerous lands.
+  - Prevent an archmage from altering history through time magic.
+  - Discover the source of a city’s sudden string of prophetic dreams.
+  - Retrieve a phoenix egg from the Elemental Plane of Fire.
+  - Find a missing high priest who was last seen in the undercity.
+  - Investigate a tower that suddenly appeared in the desert.
+  - Stop a doomsday device hidden beneath a major city.
+  - Convince an ancient being to end their slumber before an apocalypse begins.
+  - Reunite two warring celestial factions before they tear reality apart.
+  - Prevent an eternal winter caused by a trapped frost elemental.
+  - Save a city from a plague of nightmares that manifest into reality.
+  - Find a lost treasure ship hidden within an underground sea.
+  - Stop a knightly order from summoning their patron god.
+  - Recover a set of magical blueprints before they fall into the wrong hands.
+  - Defend an arcane college from an invading force.
+  - Escape from a prison designed for demigods.
+  - Retrieve the heart of a slain titan before it regenerates.
+  - Unravel a mysterious riddle leading to an ancient vault.
+  - Save a kingdom from being consumed by a growing shadow.
+persVularisQuests:
+  - Find fresh water before the party dies of dehydration.
+  - Hunt a massive alien beast to feed a starving village.
+  - Build a shelter before the acid rainstorm arrives.
+  - Navigate through a shifting jungle that changes every night.
+  - Find the source of strange lights appearing in the sky.
+  - Cross a toxic swamp filled with mutated predators.
+  - Harvest a rare glowing fungus that repels the planet’s parasites.
+  - Map out a path through an endless canyon filled with warring factions.
+  - Escape a carnivorous forest before it awakens.
+  - Climb a living mountain that moves across the land.
+  - Negotiate peace between two warring tribal clans.
+  - Prove your worth to a savage warlord in a deadly duel.
+  - Rescue a tribal chief’s heir from an enemy encampment.
+  - Steal a sacred artifact from a rival tribe.
+  - Join a nomadic clan in their annual ritual hunt.
+  - Gain the trust of an alien race before they attack your settlement.
+  - Defeat a false prophet leading a cult of blood-drinkers.
+  - Overthrow a tyrannical tribal king who demands human sacrifices.
+  - Convince a warband of raiders to ally with your group.
+  - Survive a trial of fire and pain to prove yourself as warriors.
+  - Unlock a buried monolith that hums with energy.
+  - Enter a city of glass towers that suddenly appeared overnight.
+  - Decipher an alien script that warns of an ancient doom.
+  - Explore a crashed spacecraft now overgrown with jungle.
+  - Stop a ruined AI from awakening an ancient war machine.
+  - Find the missing piece of a shattered obelisk before its guardians do.
+  - Navigate a gravity-defying temple where the walls shift unpredictably.
+  - Enter the tomb of a god-king sealed for centuries.
+  - Escape a sentient ruin that rearranges itself to trap intruders.
+  - Discover the fate of an ancient species that once ruled the planet.
+  - Slay a sky leviathan that blots out the sun.
+  - Capture a deadly predator for a warlord’s arena.
+  - Evade a swarm of blood-drinking insects drawn to heat.
+  - Hunt down a shapeshifting beast that has infiltrated a village.
+  - Ride a massive, stampeding creature to reach a distant land.
+  - Kill a creature that cannot die without its missing heart.
+  - Survive a night in a valley of bioluminescent, hypnotic creatures.
+  - Defend a settlement from a migrating horde of colossal burrowing worms.
+  - Harvest venom from a towering, spined horror in the depths of a dark chasm.
+  - Outrun an intelligent predator that never forgets a face.
+  - Escape a city before a superstorm tears it apart.
+  - Prevent a powerful ritual from summoning a planetary tidal wave.
+  - Seal a rift to another dimension that spews nightmare creatures.
+  - Survive an eclipse where the world is overrun by unseen horrors.
+  - Find the source of a time loop trapping a region in an endless day.
+  - Escape an island that disappears into the void every night.
+  - Prevent a rogue moon from colliding with the planet.
+  - Stop an earthquake that moves like a living thing.
+  - Harness the power of a black storm that warps reality.
+  - Investigate an area where gravity has stopped working.
+  - Rebuild a broken starship to escape the planet.
+  - Steal a weapon from an ancient vault before others claim it.
+  - Power up an ancient war mech left behind by a lost civilization.
+  - Unlock the secrets of a crashed alien probe.
+  - Find a working data crystal that reveals the planet’s past.
+  - Disable a rogue AI that has enslaved a village.
+  - Protect a scientist decoding a strange alien signal.
+  - Extract energy from a floating core hidden in the mountains.
+  - Hack into an alien bunker sealed for thousands of years.
+  - Prevent a rival faction from weaponizing lost technology.
+  - Stop a forgotten god from waking beneath the sea.
+  - Banish an interdimensional parasite feeding on people’s dreams.
+  - Close a gate where reality is unraveling.
+  - Defeat an entity that feeds on emotions before it spreads.
+  - Survive an encounter with a being that warps time.
+  - Unravel the secrets of a living mountain that whispers in the dark.
+  - Investigate an entire village that fell into a deep sleep.
+  - Find a way to kill an undying horror that returns every decade.
+  - Retrieve a lost relic from an extradimensional void.
+  - Resist the influence of a cursed mask whispering forbidden knowledge.
+  - Break a curse that makes everyone forget you exist.
+  - Convince an isolated tribe that you are not a god.
+  - Find out why a settlement has started vanishing one person at a time.
+  - Stop a paranoid ruler from sacrificing their people to unseen threats.
+  - Navigate the politics of a city where everyone speaks in riddles.
+  - Solve the murder of a diplomat before war breaks out.
+  - Unite two rival clans before an external force wipes them both out.
+  - Find out why people are being replaced by perfect replicas of themselves.
+  - Survive a city where the law is dictated by an unpredictable oracle.
+  - Restore the memory of an elder who holds the key to survival.
+  - Translate a message sent from the stars.
+  - Survive an encounter with an entity that exists in multiple dimensions.
+  - Find the original inhabitants of the planet—if any still exist.
+  - Navigate a dreamscape that overlaps with reality.
+  - Discover what is buried beneath the largest mountain.
+  - Escape a never-ending labyrinth ruled by a being outside of time.
+  - Decipher the patterns of a living constellation.
+  - Uncover the source of voices in the wind.
+  - Survive a parasite that controls its host’s actions.
+  - Find a way back to the party’s original world—or choose to stay.
+persEyeColors:
+  - Brown  
+  - Blue  
+  - Green  
+  - Hazel  
+  - Amber  
+  - Gray  
+  - Violet  
+  - Heterochromia (two different colors)  
+  - Black  
+  - Red (very rare, usually due to albinism)  
+persProfession:
+  - Blacksmith  
+  - Armorer  
+  - Fletcher  
+  - Bowyer  
+  - Weaponsmith  
+  - Carpenter  
+  - Stonemason  
+  - Tanner  
+  - Leatherworker  
+  - Cobbler  
+  - Tailor  
+  - Weaver  
+  - Dyer  
+  - Baker  
+  - Brewer  
+  - Butcher  
+  - Miller  
+  - Farmer  
+  - Shepherd  
+  - Fisherman  
+  - Hunter  
+  - Trapper  
+  - Falconer  
+  - Herbalist  
+  - Apothecary  
+  - Healer  
+  - Physician  
+  - Barber-Surgeon  
+  - Alchemist  
+  - Scribe  
+  - Scholar  
+  - Monk  
+  - Nun  
+  - Priest  
+  - Bishop  
+  - Inquisitor  
+  - Knight  
+  - Squire  
+  - Mercenary  
+  - Soldier  
+  - Archer  
+  - Guard  
+  - Watchman  
+  - Bailiff  
+  - Sheriff  
+  - Jailer  
+  - Executioner  
+  - Torturer  
+  - Miner  
+  - Smelter  
+  - Merchant  
+  - Trader  
+  - Peddler  
+  - Innkeeper  
+  - Tavern Keeper  
+  - Cook  
+  - Servant  
+  - Stablemaster  
+  - Horse Trainer  
+  - Falcon Trainer  
+  - Messenger  
+  - Courier  
+  - Herald  
+  - Bard  
+  - Minstrel  
+  - Troubadour  
+  - Jester  
+  - Actor  
+  - Playwright  
+  - Painter  
+  - Sculptor  
+  - Illuminator  
+  - Calligrapher  
+  - Cartographer  
+  - Engineer  
+  - Architect  
+  - Shipwright  
+  - Sailor  
+  - Dockworker  
+  - Fisherman  
+  - Glassblower  
+  - Potter  
+  - Cooper (barrel maker)  
+  - Candlemaker  
+  - Chandler (wax and soap maker)  
+  - Ropemaker  
+  - Spinner  
+  - Beekeeper  
+  - Forester  
+  - Woodcutter  
+  - Gravedigger  
+  - Undertaker  
+  - Tax Collector  
+  - Banker  
+  - Moneylender  
+  - Steward  
+  - Chamberlain  
+  - Castellan  
+  - Noble  
+  - King  
+  - Queen  
+  - Prince  
+  - Princess  
+  - Advisor  
+  - Spy  
+  - Thief  
+  - Beggar  
+  - Outlaw  
+  - Bandit  
+  - Fortune Teller  
+  - Witch  
+  - Wizard  
+---
+

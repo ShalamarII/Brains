@@ -23,5 +23,5 @@
   "hideConditionHelp": false,
   "alwaysImport": false,
   "defaultLayoutsIntegrated": true,
-  "atomicWrite": false
+  "atomicWrite": true
 }

@@ -1,8 +1,9 @@
 {
-  "cssTheme": "",
+  "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "GURPS_Formatting"
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
   ],
   "accentColor": "",
   "baseFontSize": 15,

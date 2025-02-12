@@ -10,6 +10,16 @@ This parasite slowly contaminates the user’s Blood, requiring bloodletting to 
 ### Limited Telepathy
 User's of the parasite have limited telepathy within 30 feet (10 Yards) of one another.
 
+### Cognitive Disruption
+They can subtly affect the mental processes of another creature.
+
+### Emotional Amplification
+The parasite can amplify or dampen the emotions of the host.
+
+### Psychic Link
+People with a parasite can link theirs to a lover's, allowing them to feel a significantly deeper bond. When this bond is created, a tattoo is created on the chest, over where the heart lays.
+
+When the Imperial Parasites have their link, a mark of a star map, which represents the amount of previous holders is on their hand.
 # Mineral's Effects
 
 ### Healing

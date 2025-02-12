@@ -8,157 +8,145 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f061cc6544a79f86",
+            "id": "923e87ead4bcb22f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/The Great Council.md",
+                "file": "GURPSGeneration/NPCS/NPC Traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Great Council"
+              "title": "NPC Traits"
             }
           },
           {
-            "id": "a8bff2d0e65792ee",
+            "id": "c1f640b430a54989",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
-                "page": 116,
-                "left": -8,
-                "top": 761,
-                "zoom": 1.9509803921568627
+                "file": "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/ISP Connectivity Options.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Thaumatology"
+              "icon": "lucide-file",
+              "title": "ISP Connectivity Options"
             }
           },
           {
-            "id": "15402df80ef6e11e",
+            "id": "179ad3da392cac26",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
-                "page": 132,
-                "left": -164,
-                "top": 476,
-                "zoom": 1.3
+                "file": "Testing Programs/InlineScript_BlacksmithShopGen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Magic"
+              "icon": "lucide-file",
+              "title": "InlineScript_BlacksmithShopGen"
             }
           },
           {
-            "id": "4156c51f92969e6a",
+            "id": "7645df11cd79e488",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
-                "page": 3,
-                "left": -8,
-                "top": 641,
-                "zoom": 1.9509803921568627
+                "file": "Alrathion - The End's Fall/History/Mining/Bronze & Iron Age - 1500 PW.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Thaumatology"
+              "icon": "lucide-file",
+              "title": "Bronze & Iron Age - 1500 PW"
             }
           },
           {
-            "id": "9831a2570ce0444c",
+            "id": "4cf2a0d55288f596",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 1 Imbuements.pdf",
-                "page": 5,
-                "left": -8,
-                "top": 678,
-                "zoom": 1.950980392156863
+                "file": "Alrathion - The End's Fall/History/Mining/Mithril Age - 0 AW.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GURPS 4th - Power Ups 1 Imbuements"
+              "icon": "lucide-file",
+              "title": "Mithril Age - 0 AW"
             }
           },
           {
-            "id": "a33da9b460be308f",
+            "id": "3f78428451711c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/TTRPGs/Human NPC Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Human NPC Template"
+            }
+          },
+          {
+            "id": "c04fe1798353bdbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alrathion - The End's Fall/History/History of Mining, Accessibility and Economics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History of Mining, Accessibility and Economics"
+            }
+          },
+          {
+            "id": "cd0f93ec85b23bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/History to Mining, Accessibility and Economics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History to Mining, Accessibility and Economics"
+            }
+          },
+          {
+            "id": "4ad8894078c6c686",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
-                "page": 6,
-                "left": -251,
-                "top": 731,
-                "zoom": 1.1
+                "page": 289,
+                "left": -1,
+                "top": 739,
+                "zoom": 1.8524096385542173
               },
               "icon": "lucide-file-text",
               "title": "GURPS 4th - Basic Set - Characters"
             }
           },
           {
-            "id": "edaaef159203d453",
+            "id": "4cc5563604a0ce95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alrathion - The End's Fall/Magic's Core/Magic.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Magic"
-            }
-          },
-          {
-            "id": "7158bfe854f4d600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alrathion - The End's Fall/Player Specific/Chez (Amadeus).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chez (Amadeus)"
-            }
-          },
-          {
-            "id": "b57c8e5f52b6a388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alrathion - The End's Fall/Player Specific/Veronica (Mirana).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Veronica (Mirana)"
-            }
-          },
-          {
-            "id": "eebb7aaae8007b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do (Tiddlywiki).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To Do (Tiddlywiki)"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +165,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -214,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 352.5
   },
   "right": {
     "id": "e50e1315194d6c29",
@@ -264,7 +253,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -276,10 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Our Brain/Our Zettelkasten/A refusal of individuality..md"
+                "file": "NPC Generation/Human/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A refusal of individuality."
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -297,37 +291,27 @@
             }
           },
           {
-            "id": "337e512c4a568003",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b5485ca67ad995a8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "5b64fb688963e34b",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "4cab73f52d19c906",
+            "id": "b2154f4310f9f4cc",
+            "type": "leaf",
+            "state": {
+              "type": "inline-scripts-button-view",
+              "state": {},
+              "icon": "inline-scripts-button-view",
+              "title": "Inline Scripts - Buttons"
+            }
+          },
+          {
+            "id": "90f42eb73eccc13f",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -337,12 +321,27 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
+      },
+      {
+        "id": "7f25c65446d5e921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69597f3c60db07a9",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 566.5,
-    "collapsed": true
+    "width": 573.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,48 +355,54 @@
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edaaef159203d453",
+  "active": "c1f640b430a54989",
   "lastOpenFiles": [
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Magic.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Thaumatology.pdf",
-    "Alrathion - The End's Fall/Magic's Core/Magic.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/Network Components.md",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/ISP Connectivity Options.md",
+    "GURPSGeneration/Shops/Shop Traits.md",
+    "GURPSGeneration/NPCS/NPC Traits.md",
+    "Alrathion - The End's Fall/History/Mining/Bronze & Iron Age - 1500 PW.md",
+    "Alrathion - The End's Fall/History/History of Mining, Accessibility and Economics.md",
+    "Alrathion - The End's Fall/History/History of The Kathali People.md",
+    "Alrathion - The End's Fall/History/Major Events Timeline.md",
+    "Alrathion - The End's Fall/History/Sample1.md",
+    "Alrathion - The End's Fall/History/Mining/Copper Age - 2000 PW.md",
+    "Alrathion - The End's Fall/History/Mining/Stone Age - 3000 PW.md",
+    "Alrathion - The End's Fall/History/Mining/Mithril Age - 0 AW.md",
+    "Alrathion - The End's Fall/History/Mining/Magic Age - 1000 PW.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/History to Mining, Accessibility and Economics.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Story Inspirations, Themes, and Tenets.md",
+    "Testing Programs/InlineScript_BlacksmithShopGen.md",
+    "Templates/TTRPGs/Kathali NPC Template.md",
+    "One Piece/Akujiki.md",
+    "Templates/TTRPGs/Human NPC Template.md",
+    "Testing Programs/Untitled.md",
+    "One Piece",
+    "Testing Programs/InlineScript_GenerateFlora.md",
+    "GURPSGeneration/Untitled.md",
     "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Characters.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Power Ups 1 Imbuements.pdf",
-    "Alrathion - The End's Fall/Player Specific/Veronica (Mirana).md",
-    "To Do (Tiddlywiki).md",
-    "Alrathion - The End's Fall/Player Specific/Chez (Amadeus).md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/The Great Council.md",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Spell Charts.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Powers.pdf",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Fantasy.pdf",
-    "Simple vs. Extended Realms.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/The OId Continent (Thaddelonia)/Generated NPCs/Orcs/Untitled.md",
+    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/The OId Continent (Thaddelonia)/Generated NPCs",
+    "Templates/TTRPGs/Orc NPC Template.md",
+    "Testing Programs/InlineScript_GenerateNPC.md",
+    "Alrathion - The End's Fall/History/Kathali/The Great War & The Illinea Empire's Exodus.md",
+    "Alrathion - The End's Fall/History/Mining",
     "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Basic Set - Campaigns.pdf",
-    "Alrathion - The End's Fall/Player Specific",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/Tanhala Family.md",
-    "Private - Do Not Touch/Our Brain/Diary/Saturday, August 19th, 2023.md",
-    "Private - Do Not Touch/Our Brain/Diary/Monday, September 25th, 2023.md",
-    "Private - Do Not Touch/Our Brain/Diary/Friday, August 18th, 2023.md",
-    "Alrathion - The End's Fall/A World of Magic/Magic Families/Pudt Family.md",
-    "Private - Do Not Touch/Our Brain/Diary/Untitled.md",
-    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS For Dummies.pdf",
-    "Alrathion - The End's Fall/Player Profiency.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Cultures/Religion.md",
+    "GURPSGeneration/Shops",
+    "Alrathion - The End's Fall/DM Tools",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Monsters 1.pdf",
+    "GURPS - Current/GURPS Resources/GURPS Book PDFs/GURPS 4th - Monsters 2 - Icky Goo.pdf",
+    "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics",
+    "Attachments/{6B598DE1-5D9E-4C81-BADE-23EC132F8F2D}.png",
     "Alrathion - The End's Fall/Maps/Alrathion/Alrathion.png",
     "Alrathion - The End's Fall/Maps/Alrathion/AlrathionMap.png",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Muldrath.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Kandri.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Waltasa.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Talar.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Dalthea.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Races/Kathali.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Government/Hierarchy.md",
-    "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Geography/History to Mining, Accessibility and Economics.md",
-    "Stone Plows.md",
-    "Alrathion - The End's Fall/A World of Magic/How Magic Affects the World.md",
-    "Alrathion - The End's Fall/A World of Magic/Magical Terminology.md",
     "Alrathion - The End's Fall/Maps/World Maps/WorldMap.png",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-alpine.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/RedDragonAncient.webp",
@@ -405,7 +410,6 @@
     "Foundry/Data/systems/dnd5e/tokens/dragon/BlueDragonAncient.webp",
     "Foundry/Data/systems/dnd5e/tokens/dragon/YoungCopperDragon.webp",
     "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-pine.webp",
-    "Foundry/Data/modules/monks-enhanced-journal/assets/apsjournal/wood-cottage-pine.webp",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Private - Do Not Touch/Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",

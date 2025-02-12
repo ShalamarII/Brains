@@ -1,0 +1,3 @@
+---
+rarity: Epic
+---
