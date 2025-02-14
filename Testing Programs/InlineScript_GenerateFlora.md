@@ -8,7 +8,7 @@ __
 ```js
 let data = expand(
     "notepick pickFromFolderAndGetFrontmatter " +
-    "Mechanics/PlantGeneration\ " + 1);
+    "GURPSGeneration/Plants\ " + 1);
 if (!data)
 {
     return "Unable to get " + $1 + " item(s).";

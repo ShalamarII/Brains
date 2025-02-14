@@ -16,4 +16,7 @@ In the past 50 years, there has been a faction growing among the Idra. They are 
 
 There are 3 main symbols they have, one being 3 fingers over the thumb (with both thumbs and pinkies touching), the second being the same but the index fingers are touching, and the third being the same with the pinkies down. They are Sweltegarde, Thorss, and Holsfang respectively. Most people will utilize the main symbol, and then use their factionary symbol as a marker of true trust.
 
-The Sveltegarde family is constantly seeking outsiders, and the party can join them for a cost.
+# Plot Hooks
+
+### Joining the Sveltegarde People
+The Sveltegarde family is constantly seeking outsiders, and the party can join them for a cost. If they do, they find out about the raids that the Holsfang side of the clan is doing. By this point, Holsfang is wholly too strong for the party to naturally defeat, but they may try. If they do not join, electing to stay with the Moupwe, they will be attacked later. They will then learn of the raids upon the Moupwe people. If they have not met the Moupwe, they will be tasked with infiltrating them and gaining at least one Tome.
