@@ -16,7 +16,7 @@
 
 ## Session Description
 
-\[Three sentences that describe what'll happen in the episode.]
+The party will arrive on the shore of Thaddelonia. They will then start exploring.
 
 ## Opening Monologue
 
@@ -25,12 +25,12 @@ Every new age is defined by the one before it.
 
 This age finds you with magic, new and unkept; Find your way through a world unlike what you've known. Discover, and bring Illinea's prosperity!
 
-It was the ??th of {MONTH}, {YEAR}, when...
+It was the 14th of {March}, {0053}, when...
 
-### {Chapter Name}
+### Left Behind
 
-#### {Scene Name}
-
+#### Death is a Mercy
+The players main party will be killed, and the rest of them will leave. 
 
 #### {Scene Name}
 

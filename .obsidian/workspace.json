@@ -11,15 +11,74 @@
             "id": "c1f640b430a54989",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alrathion - The End's Fall/Maps/World Maps/WorldwithTectonicPlates.png"
+                "file": "Alrathion - The End's Fall/Solo Play (Creating The World)/The City of Jurath.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "WorldwithTectonicPlates"
+              "icon": "lucide-file",
+              "title": "The City of Jurath"
+            }
+          },
+          {
+            "id": "537708ae9aac7485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing Programs/InlineScript_BlacksmithShopGen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "InlineScript_BlacksmithShopGen"
+            }
+          },
+          {
+            "id": "0d94c2ab8598c8ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GURPSGeneration/Shops/Shop Traits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shop Traits"
+            }
+          },
+          {
+            "id": "40c0ba7348cb0f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alrathion - The End's Fall/The People from Beyond the Stars - Costila.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The People from Beyond the Stars - Costila"
+            }
+          },
+          {
+            "id": "eb29dec182ef23ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do (Tiddlywiki).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do (Tiddlywiki)"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 573.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,10 +277,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1f640b430a54989",
+  "active": "40c0ba7348cb0f81",
   "lastOpenFiles": [
-    "Alrathion - The End's Fall/Maps/World Maps/WorldTectonicPlates.png",
+    "Alrathion - The End's Fall/Sessions/Session 1 - The Arrival.md",
+    "Alrathion - The End's Fall/History/History of Mining, Accessibility and Economics.md",
+    "Alrathion - The End's Fall/Campaign Story/A New Frontier.md",
+    "Alrathion - The End's Fall/Solo Play (Creating The World)/The City of Jurath.md",
+    "Testing Programs/Testing Programs.md",
+    "GURPSGeneration/Shops/Shop Traits.md",
+    "Testing Programs/InlineScript_BlacksmithShopGen.md",
+    "To Do (Tiddlywiki).md",
+    "GURPSGeneration/Shops/Untitled.md",
+    "GURPSGeneration/NPCS/NPC Traits.md",
+    "Blacksmith Generator Psuedocode.md",
     "Alrathion - The End's Fall/Maps/World Maps/WorldwithTectonicPlates.png",
+    "Alrathion - The End's Fall/Maps/World Maps/WorldTectonicPlates.png",
     "Alrathion - The End's Fall/Maps/World Maps/Tetrun/TetrunRegionsElevation.png",
     "Alrathion - The End's Fall/Maps/World Maps/Tetrun/TetrunRegions.png",
     "Alrathion - The End's Fall/Maps/World Maps/Tetrun/TetrunClimate.png",
@@ -238,33 +308,23 @@
     "Alrathion - The End's Fall/Places/The Horizon/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Waltasa.md",
     "Alrathion - The End's Fall/Places/The Horizon/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Talar.md",
     "Alrathion - The End's Fall/Places/The Horizon/Planets/Tetrun/Continents/Alrathion/Geography/Regions/Muldrath.md",
-    "Alrathion - The End's Fall/Solo Play (Creating The World)/Untitled.md",
-    "Alrathion - The End's Fall/Sessions/Session 1 - The Arrival.md",
     "Alrathion - The End's Fall/Solo Play (Creating The World)",
-    "GURPSGeneration/NPCS/NPC Traits.md",
     "Alrathion - The End's Fall/Magic's Core/Aimasturgy/Aimasturgy Itself..md",
-    "Alrathion - The End's Fall/Campaign Story/A New Frontier.md",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/CCNA ICND1 Certification Guide/Requirements for designing a Computer Network.md",
-    "To Do (Tiddlywiki).md",
     "Elliot Clarren.md",
     "README.md",
-    "Blacksmith Generator Psuedocode.md",
     "Simple vs. Extended Realms.md",
     "Stone Plows.md",
     "Templates/General Template.md",
     "Templates/TTRPGs/Game Journal Template.md",
     "Templates/TTRPGs/PC Session Template.md",
     "Alrathion - The End's Fall/Sessions",
-    "Templates/TTRPGs/Session Template.md",
     "TTRPG Session",
-    "Storytelling/Magic System Ideas.md",
-    "Alrathion - The End's Fall/The People from Beyond the Stars - Costila.md",
     "GCS General/User Created/Created Traits/Traits.adq",
     "GCS General/User Created/Created Traits/Powers.adq",
     "GCS General/User Created/Created Traits/Equipment Containers.eqp",
     "GCS General/User Created/Created Skills/Skills.skl",
     "GCS General/GURPS Character Templates/Character Images/WillamExelPortrait.png",
-    "GCS General/GURPS Campaigns/Hexcrawl Campaign 1/Notes/World Spawn Notes.md",
     "Private - Do Not Touch/Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Private - Do Not Touch/Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",

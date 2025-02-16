@@ -17,7 +17,7 @@ blacksmithItems:
     reach: N/A
     RoF: 1
     bulk: -6
-    damage: 1d-3 pi-
+    damage: 1d  - 3 pi  - 
     recoil: N/A
     STreq: 2
   - 2:
@@ -256,7 +256,7 @@ blacksmithItems:
     name: Maul
     cost: 80
     weight: 12 lb
-    reach: 1-2*
+    reach: 1  - 2*
     RoF: 1
     bulk: -2
     damage: sw+4 cr
@@ -278,7 +278,7 @@ blacksmithItems:
     weight: 3 lb
     reach: 1
     RoF: 1
-    Bulk: -1
+    bulk: -1
     damage: sw+1 cr
     recoil: 0
     STreq: 10
@@ -468,7 +468,7 @@ blacksmithItems:
     weight: 5
     reach: 1
     RoF: 1
-    bulk: -3
+    bulk:   -3
     damage: 2d8
     recoil: 0
     STreq: 12
@@ -478,7 +478,7 @@ blacksmithItems:
     weight: 7
     reach: 1
     RoF: 1
-    bulk: -2
+    bulk:   -2
     damage: 2d6
     recoil: 0
     STreq: 12
@@ -488,7 +488,7 @@ blacksmithItems:
     weight: 10
     reach: 1
     RoF: 1
-    bulk: -3
+    bulk:   -3
     damage: 3d6
     recoil: 0
     STreq: 14
@@ -499,10 +499,9 @@ blacksmithItems:
     reach: 1
     RoF: N/A
     bulk: N/A
-    damage: sw-2(0.5) cr
+    damage: sw  -2(0.5) cr
     recoil: N/A
     STreq: 6
-
   - 50:
     name: Bottle, Ceramic
     cost: 3
@@ -513,7 +512,6 @@ blacksmithItems:
     damage: N/A
     recoil: N/A
     STreq: N/A
-
   - 51:
     name: Brass Knuckles
     cost: 10
@@ -524,29 +522,26 @@ blacksmithItems:
     damage: thr cr
     recoil: N/A
     STreq: N/A
-
   - 52:
     name: Flanged Mace
     cost: 100
     weight: 5
     reach: 1
     RoF: 1
-    bulk: -2
+    bulk:   -2
     damage: 7
     recoil: 0
     STreq: 10
-
-  -  53:
+  - 53:
     name: War Hammer
     cost: 120
     weight: 6
     reach: 1
     RoF: 1
-    bulk: -3
+    bulk:   -3
     damage: 8
     recoil: 0
     STreq: 11
-
   - 54:
     name: Longsword
     cost: 150
@@ -557,7 +552,6 @@ blacksmithItems:
     damage: 6
     recoil: 0
     STreq: 9
-
   - 55:
     name: Battleaxe
     cost: 130
@@ -568,7 +562,6 @@ blacksmithItems:
     damage: 9
     recoil: 0
     STreq: 12
-
   - 56:
     name: Halberd
     cost: 180
@@ -578,7 +571,7 @@ blacksmithItems:
     bulk: -4
     damage: 10
     recoil: 0
-  STreq: 8
+    STreq: 8
   - 60:
     name: Longbow
     cost: 150
@@ -614,7 +607,7 @@ blacksmithItems:
     notes: Flexible, concealable
     DR: "1 (Groin, Torso, Vitals)"
   - 64:
-    name: Tent, 20-Man
+    name: Tent, 20 - Man
     cost: 300
     weight: "100 lb"
     reach: N/A
@@ -623,7 +616,6 @@ blacksmithItems:
     damage: N/A
     recoil: N/A
     STreq: N/A
-
   - 65:
     name: Portable Tool Kit, Carpentry
     cost: 300
@@ -728,7 +720,7 @@ blacksmithItems:
     name: Flail
     cost: 100
     weight: 8 lb
-    reach: 1-2
+    reach: 1  - 2
     RoF: 0
     bulk: 0
     damage: sw+4 cr
@@ -774,576 +766,39 @@ blacksmithItems:
     damage: sw+1 cut / thr+2 imp
     recoil: 0
     STreq: 10
-
-
 blacksmithMaterials:
   - 0:
-      name: "Wood"
-      costMult: .5
+    name: "Wood"
+    costMult: .5
   - 1:
-      name: "Stone"
-      costMult: .5
+    name: "Stone"
+    costMult: .5
   - 2:
-      name: "Copper"
-      costMult: .75
+    name: "Copper"
+    costMult: .75
   - 3:
-      name: "Bronze"
-      costMult: 1
+    name: "Bronze"
+    costMult: 1
   - 4:
-      name: "Iron"
-      costMult: 1.25
+    name: "Iron"
+    costMult: 1.25
   - 5:
-      name: "Mithril"
-      costMult: 5
-
+    name: "Mithril"
+    costMult: 5
 generalItems:
   - 0:
-      name: Wineskin
-      cost: 10
-      weight: 0.25 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 1:
-      name: Traveler's Rations
-      cost: 2
-      weight: 0.5 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 2:
-      name: Torch
-      cost: 3
-      weight: 1 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 3:
-      name: Tent, 4-Man
-      cost: 150
-      weight: 30 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 4:
-      name: Tent, 2-Man
-      cost: 80
-      weight: 12 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 5:
-      name: Tent, 1-Man
-      cost: 50
-      weight: 5 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 6:
-      name: Sleeping Fur
-      cost: 50
-      weight: 8 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 7:
-      name: Rope, 3/8", 20 yards
-      cost: 10
-      weight: 3 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-      notes: Supports 300 lbs.
-  - 8:
-      name: Rope, 3/8", 10 yards
-      cost: 5
-      weight: 1.5 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-      notes: Supports 300 lbs.
-  - 9:
-      name: Personal Basics
-      cost: 5
-      weight: 1 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-      notes: "Minimum gear for camping: -2 to any Survival roll without it."
-  - 10:
-      name: Large Net
-      cost: 40
-      weight: 20 lb
-      reach: T
-      RoF: 1
-      bulk: -6
-      damage: see B411
-      recoil: 0
-      STreq: 11
-  - 11:
-      name: Lanyard, Leather
-      cost: 1
-      weight: 0 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 12:
-      name: Group Basics
-      cost: 50
-      weight: 20 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 13:
-      name: Fur Tunic
-      cost: 25
-      weight: 2 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: DR 1 (Torso, Vitals)
-      recoil: N/A
-      STreq: N/A
-  - 14:
-      name: Fishhooks & Line
-      cost: 50
-      weight: 0.01 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 15:
-      name: Bandages
-      cost: 10
-      weight: 2 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 16:
-      name: First Aid Kit
-      cost: 50
-      weight: 2 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 17:
-      name: Cord, 3/16", 20 yards
-      cost: 2
-      weight: 1 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 18:
-      name: Cord, 3/16", 10 yards
-      cost: 1
-      weight: 0.5 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 19:
-      name: Crash Kit/TL0-5
-      cost: 200
-      weight: 10 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 20:
-      name: Purse, Small
-      cost: 10
-      weight: 0.2 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 21:
-      name: Bottle, Ceramic
-      cost: 3
-      weight: 1 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 22:
-      name: Candle, Tallow
-      cost: 5
-      weight: 1 lb
-      notes: Lasts 12 hours
-  - 23:
-      name: Rope, 3/4", 10 yards
-      cost: 25
-      weight: 5 lb
-      notes: Supports 1,100 lbs.
-  - 24:
-      name: Rope, 3/4", 20 yards
-      cost: 50
-      weight: 10 lb
-      notes: Supports 1,100 lbs.
-  - 25:
-      name: Balance and Weights
-      cost: 35
-      weight: 3 lb
-      notes: For weighing goods
-  - 26:
-      name: Backpack, Small
-      cost: 60
-      weight: 3 lb
-      prereqs: Contained weight at most 40 lb
-  - 27:
-      name: Saddlebags
-      cost: 100
-      weight: 3 lb
-      prereqs: Contained weight at most 40 lb
-  - 28:
-      name: Backpack, Frame
-      cost: 100
-      weight: 10 lb
-      prereqs: Contained weight at most 100 lb
-  - 29:
-      name: Cloth Cap
-      cost: 5
-      weight: "0 lb"
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 30:
-      name: Cloth Gloves
-      cost: 15
-      weight: "0 lb"
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 31:
-      name: Cloth Sleeves
-      cost: 20
-      weight: "2 lb"
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 32:
-      name: Tent, 20-Man
-      cost: 300
-      weight: "100 lb"
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 33:
-      name: Portable Tool Kit, Carpentry
-      cost: 300
-      weight: "20 lb"
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 34:
-      name: Surgical Instruments
-      cost: 300
-      weight: "15 lb"
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 35:
-      name: Shovel
-      cost: 12
-      weight: 6 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 36:
-      name: Climbing Gear
-      cost: 20
-      weight: 4 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-  - 37:
-      name: Drum
-      cost: 40
-      weight: 2 lb
-      reach: N/A
-      RoF: N/A
-      bulk: N/A
-      damage: N/A
-      recoil: N/A
-      STreq: N/A
-
-armourerItems:
-- 0:
-    name: Bronze Armbands
-    cost: 180
-    weight: 9 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 1:
-    name: Bronze Breastplate
-    cost: 400
-    weight: 20 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 2:
-    name: Bronze Corselet
-    cost: 1300
-    weight: 40 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 3:
-    name: Bronze Greaves
-    cost: 270
-    weight: 17 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 4:
-    name: Bronze Helmet
-    cost: 160
-    weight: 7.5 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 5:
-    name: Light Shield
-    cost: 25
-    weight: 2 lb
-    reach: 1
-    RoF: N/A
-    DR: 5
-    notes: DR 5, HP 20
-    damage: thr cr
-
-- 6:
-    name: Cloth Armor
-    cost: 30
-    weight: 6 lb
-    notes: Flexible, Concealable
-    DR: 1
-
-- 7:
-    name: Light Buckler with Spike
-    cost: 45
-    weight: "7 lb"
-    reach: 1
-    RoF: N/A
-    bulk: N/A
-    damage: thr+1 cr
-    recoil: N/A
-    STreq: N/A
-
-- 8:
-    name: Studded Leather Skirt
-    cost: 60
-    weight: 4 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 9:
-    name: Light Buckler
-    cost: 25
-    weight: 2 lb
-    reach: 1
-    RoF: 1
-    bulk: -6
-    damage: thr cr
-    recoil: N/A
-    STreq: N/A
-
-- 10:
-    name: Portable Tool Kit, Armoury
-    cost: 600
-    weight: 20 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 11:
-    name: Large Shield
-    cost: 90
-    weight: 25 lb
-    reach: 1
-    RoF: N/A
-    bulk: -2
-    damage: thr cr
-    recoil: N/A
-    STreq: N/A
-
-- 12:
-    name: Small Buckler with Spike
-    cost: 60
-    weight: 13 lb
-    reach: 1
-    RoF: 0
-    bulk: 0
-    damage: thr+1 cr
-    recoil: 0
-    STreq: N/A
-
-- 13:
-    name: Mail Sleeves
-    cost: 70
-    weight: 9 lb
-    reach: N/A
-    RoF: 0
-    bulk: 0
-    damage: N/A
-    recoil: 0
-    STreq: N/A
-
-- 14:
-    name: Legionary Helmet
-    cost: 150
-    weight: 6 lb
-    reach: 0
-    RoF: 0
-    bulk: 0
-    damage: 4 DR (face, skull)
-    recoil: 0
-    STreq: 0
-
-clothierItems:
-- 0:
-    name: Sandals
-    cost: 25
-    weight: 0.5 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 1:
-    name: Fur Tunic
-    cost: 25
-    weight: 2 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: DR 1 (Torso, Vitals)
-    recoil: N/A
-    STreq: N/A
-
-- 2:
-    name: Fur Loincloth
+    name: Wineskin
     cost: 10
-    weight: 0 lb
+    weight: 0.25 lb
     reach: N/A
     RoF: N/A
     bulk: N/A
-    damage: DR 1 (Groin)
+    damage: N/A
     recoil: N/A
     STreq: N/A
-
-- 3:
-    name: Leather Helm
-    cost: 20
+  - 1:
+    name: Traveler's Rations
+    cost: 2
     weight: 0.5 lb
     reach: N/A
     RoF: N/A
@@ -1351,76 +806,59 @@ clothierItems:
     damage: N/A
     recoil: N/A
     STreq: N/A
-
-- 5:
-    name: Heavy Leather Sleeves
+  - 2:
+    name: Torch
+    cost: 3
+    weight: 1 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 3:
+    name: Tent, 4  - Man
+    cost: 150
+    weight: 30 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 4:
+    name: Tent, 2  - Man
+    cost: 80
+    weight: 12 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 5:
+    name: Tent, 1  - Man
     cost: 50
-    weight: 2 lb
+    weight: 5 lb
     reach: N/A
     RoF: N/A
     bulk: N/A
     damage: N/A
     recoil: N/A
     STreq: N/A
-
-- 6:
-    name: Cloth Cap
-    cost: 5
-    weight: "0 lb"
+  - 6:
+    name: Sleeping Fur
+    cost: 50
+    weight: 8 lb
     reach: N/A
     RoF: N/A
     bulk: N/A
     damage: N/A
     recoil: N/A
     STreq: N/A
-
-- 7:
-    name: Cloth Gloves
-    cost: 15
-    weight: "0 lb"
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 8:
-    name: Cloth Sleeves
-    cost: 20
-    weight: "2 lb"
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 9:
-    name: Light Cloak
-    cost: 20
-    weight: "2 lb"
-    reach: C,1
-    RoF: N/A
-    bulk: N/A
-    damage: See B404 / See B411
-    recoil: N/A
-    STreq: 5
-
-- 10:
-    name: Shoes
-    cost: 40
-    weight: 2 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 11:
-    name: Leather Pants
-    cost: 40
+  - 7:
+    name: Rope, 3/8", 20 yards
+    cost: 10
     weight: 3 lb
     reach: N/A
     RoF: N/A
@@ -1428,41 +866,40 @@ clothierItems:
     damage: N/A
     recoil: N/A
     STreq: N/A
-
-- 12:
-    name: Leather Leggings
+    notes: Supports 300 lbs.
+  - 8:
+    name: Rope, 3/8", 10 yards
+    cost: 5
+    weight: 1.5 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+    notes: Supports 300 lbs.
+  - 9:
+    name: Personal Basics
+    cost: 5
+    weight: 1 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+    notes: "Minimum gear for camping: -2 to any Survival roll without it."
+  - 10:
+    name: Large Net
     cost: 40
-    weight: 2 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 13:
-    name: Leather Jacket
-    cost: 50
-    weight: 4 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 14:
-    name: Spurs
-    cost: 20
-    weight: 0 lb
-    reach: N/A
-    RoF: N/A
-    bulk: N/A
-    damage: N/A
-    recoil: N/A
-    STreq: N/A
-
-- 15:
+    weight: 20 lb
+    reach: T
+    RoF: 1
+    bulk: -6
+    damage: see B411
+    recoil: 0
+    STreq: 11
+  - 11:
     name: Lanyard, Leather
     cost: 1
     weight: 0 lb
@@ -1472,6 +909,527 @@ clothierItems:
     damage: N/A
     recoil: N/A
     STreq: N/A
-
+  - 12:
+    name: Group Basics
+    cost: 50
+    weight: 20 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 13:
+    name: Fur Tunic
+    cost: 25
+    weight: 2 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: DR 1 (Torso, Vitals)
+    recoil: N/A
+    STreq: N/A
+  - 14:
+    name: Fishhooks & Line
+    cost: 50
+    weight: 0.01 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 15:
+    name: Bandages
+    cost: 10
+    weight: 2 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 16:
+    name: First Aid Kit
+    cost: 50
+    weight: 2 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 17:
+    name: Cord, 3/16", 20 yards
+    cost: 2
+    weight: 1 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 18:
+    name: Cord, 3/16", 10 yards
+    cost: 1
+    weight: 0.5 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 19:
+    name: Crash Kit/TL0  - 5
+    cost: 200
+    weight: 10 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 20:
+    name: Purse, Small
+    cost: 10
+    weight: 0.2 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 21:
+    name: Bottle, Ceramic
+    cost: 3
+    weight: 1 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 22:
+    name: Candle, Tallow
+    cost: 5
+    weight: 1 lb
+    notes: Lasts 12 hours
+  - 23:
+    name: Rope, 3/4", 10 yards
+    cost: 25
+    weight: 5 lb
+    notes: Supports 1,100 lbs.
+  - 24:
+    name: Rope, 3/4", 20 yards
+    cost: 50
+    weight: 10 lb
+    notes: Supports 1,100 lbs.
+  - 25:
+    name: Balance and Weights
+    cost: 35
+    weight: 3 lb
+    notes: For weighing goods
+  - 26:
+    name: Backpack, Small
+    cost: 60
+    weight: 3 lb
+    prereqs: Contained weight at most 40 lb
+  - 27:
+    name: Saddlebags
+    cost: 100
+    weight: 3 lb
+    prereqs: Contained weight at most 40 lb
+  - 28:
+    name: Backpack, Frame
+    cost: 100
+    weight: 10 lb
+    prereqs: Contained weight at most 100 lb
+  - 29:
+    name: Cloth Cap
+    cost: 5
+    weight: "0 lb"
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 30:
+    name: Cloth Gloves
+    cost: 15
+    weight: "0 lb"
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 31:
+    name: Cloth Sleeves
+    cost: 20
+    weight: "2 lb"
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 32:
+    name: Tent, 20  - Man
+    cost: 300
+    weight: "100 lb"
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 33:
+    name: Portable Tool Kit, Carpentry
+    cost: 300
+    weight: "20 lb"
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 34:
+    name: Surgical Instruments
+    cost: 300
+    weight: "15 lb"
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 35:
+    name: Shovel
+    cost: 12
+    weight: 6 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 36:
+    name: Climbing Gear
+    cost: 20
+    weight: 4 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 37:
+    name: Drum
+    cost: 40
+    weight: 2 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+armourerItems:
+  - 0:
+    name: Bronze Armbands
+    cost: 180
+    weight: 9 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 1:
+    name: Bronze Breastplate
+    cost: 400
+    weight: 20 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 2:
+    name: Bronze Corselet
+    cost: 1300
+    weight: 40 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 3:
+    name: Bronze Greaves
+    cost: 270
+    weight: 17 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 4:
+    name: Bronze Helmet
+    cost: 160
+    weight: 7.5 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 5:
+    name: Light Shield
+    cost: 25
+    weight: 2 lb
+    reach: 1
+    RoF: N/A
+    DR: 5
+    notes: DR 5, HP 20
+    damage: thr cr
+  - 6:
+    name: Cloth Armor
+    cost: 30
+    weight: 6 lb
+    notes: Flexible, Concealable
+    DR: 1
+  - 7:
+    name: Light Buckler with Spike
+    cost: 45
+    weight: "7 lb"
+    reach: 1
+    RoF: N/A
+    bulk: N/A
+    damage: thr+1 cr
+    recoil: N/A
+    STreq: N/A
+  - 8:
+    name: Studded Leather Skirt
+    cost: 60
+    weight: 4 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 9:
+    name: Light Buckler
+    cost: 25
+    weight: 2 lb
+    reach: 1
+    RoF: 1
+    bulk: -6
+    damage: thr cr
+    recoil: N/A
+    STreq: N/A
+  - 10:
+    name: Portable Tool Kit, Armoury
+    cost: 600
+    weight: 20 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 11:
+    name: Large Shield
+    cost: 90
+    weight: 25 lb
+    reach: 1
+    RoF: N/A
+    bulk: -2
+    damage: thr cr
+    recoil: N/A
+    STreq: N/A
+  - 12:
+    name: Small Buckler with Spike
+    cost: 60
+    weight: 13 lb
+    reach: 1
+    RoF: 0
+    bulk: 0
+    damage: thr+1 cr
+    recoil: 0
+    STreq: N/A
+  - 13:
+    name: Mail Sleeves
+    cost: 70
+    weight: 9 lb
+    reach: N/A
+    RoF: 0
+    bulk: 0
+    damage: N/A
+    recoil: 0
+    STreq: N/A
+  - 14:
+    name: Legionary Helmet
+    cost: 150
+    weight: 6 lb
+    reach: 0
+    RoF: 0
+    bulk: 0
+    damage: 4 DR (face, skull)
+    recoil: 0
+    STreq: 0
+clothierItems:
+  - 0:
+    name: Sandals
+    cost: 25
+    weight: 0.5 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 1:
+    name: Fur Tunic
+    cost: 25
+    weight: 2 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: DR 1 (Torso, Vitals)
+    recoil: N/A
+    STreq: N/A
+  - 2:
+    name: Fur Loincloth
+    cost: 10
+    weight: 0 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: DR 1 (Groin)
+    recoil: N/A
+    STreq: N/A
+  - 3:
+    name: Leather Helm
+    cost: 20
+    weight: 0.5 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 5:
+    name: Heavy Leather Sleeves
+    cost: 50
+    weight: 2 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 6:
+    name: Cloth Cap
+    cost: 5
+    weight: "0 lb"
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 7:
+    name: Cloth Gloves
+    cost: 15
+    weight: "0 lb"
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 8:
+    name: Cloth Sleeves
+    cost: 20
+    weight: "2 lb"
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 9:
+    name: Light Cloak
+    cost: 20
+    weight: "2 lb"
+    reach: C,1
+    RoF: N/A
+    bulk: N/A
+    damage: See B404 / See B411
+    recoil: N/A
+    STreq: 5
+  - 10:
+    name: Shoes
+    cost: 40
+    weight: 2 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 11:
+    name: Leather Pants
+    cost: 40
+    weight: 3 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 12:
+    name: Leather Leggings
+    cost: 40
+    weight: 2 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 13:
+    name: Leather Jacket
+    cost: 50
+    weight: 4 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 14:
+    name: Spurs
+    cost: 20
+    weight: 0 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
+  - 15:
+    name: Lanyard, Leather
+    cost: 1
+    weight: 0 lb
+    reach: N/A
+    RoF: N/A
+    bulk: N/A
+    damage: N/A
+    recoil: N/A
+    STreq: N/A
 ---
 

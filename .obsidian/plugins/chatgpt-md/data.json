@@ -1,0 +1,12 @@
+{
+  "apiKey": "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",
+  "defaultChatFrontmatter": "---\nsystem_commands: ['I am a helpful assistant.']\ntemperature: 0.3\ntop_p: 1\nmax_tokens: 300\npresence_penalty: 0.5\nfrequency_penalty: 0.5\nstream: true\nstop: null\nn: 1\nmodel: deepseek-r1\nremove_reasoning: think\n---",
+  "stream": true,
+  "chatTemplateFolder": "ChatGPT_MD/templates",
+  "chatFolder": "ChatGPT_MD/chats",
+  "generateAtCursor": false,
+  "autoInferTitle": false,
+  "dateFormat": "YYYYMMDDhhmmss",
+  "headingLevel": 0,
+  "inferTitleLanguage": "English"
+}

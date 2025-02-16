@@ -2,7 +2,7 @@ __
 
 
 ```
-^getShop ([_a-zA-Z][_a-zA-Z0-9]*) ?([_a-zA-Z][_a-zA-Z0-9]*) ([1-9][0-9]*)$
+^getShop ([_a-zA-Z][_a-zA-Z0-9]*) ([1-9][0-9]*)$
 ```
 __
 ```js
@@ -17,7 +17,7 @@ if (!data)
 data = Object.keys(data).map(v => Object.assign({ noteName: v }, data[v] ));
 
 //Table of Usable Races
-shops = ["blacksmith", "fletcher", "clothier"];
+shops = ["blacksmith", "armourer", "clothier", "general"];
 
 // Create a table from the front matter
 result = "| Name | Cost | Reach / Range | Rate of Fire | Bulk (Penalty to M&A) | Damage | Recoil | ST |\n| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |\n";
@@ -25,31 +25,30 @@ result = "| Name | Cost | Reach / Range | Rate of Fire | Bulk (Penalty to M&A) |
 let baseDocumentNum = 0;
 randomChecker =  $1
 
-if (!$3) {
-    $3 = 10
+if (!$2) {
+    $2 = 10
 }
 
-console.log("This is $3: ", $3);
+console.log("This is $2: ", $2);
 //Item Iteration
-for (let i = 0; i < $3; i++)
+for (let i = 0; i < $2; i++)
 {
     console.log(data[i]);
     console.log("This is i: ", i);
     console.log("This is $1: ", typeof $1, $1);
     console.log("This is $2: ", typeof $2, $2);
-    console.log("This is $3: ", typeof $3, $3);
 
     // item = The actual item itself
     // prefix = base modifiers like material
     // property = modifiers like fine, cracked, etc.
 
     let itemNum = data[baseDocumentNum][`${$1.toLowerCase()}Items`].length;
-    let materialNum = data[baseDocumentNum][`${$1.toLowerCase()}Materials`].length;
+    //let materialNum = data[baseDocumentNum][`${$1.toLowerCase()}Materials`].length;
     
-    console.log("This is itemNum: ", materialNum)
+    //console.log("This is itemNum: ", materialNum)
 
     let randItem = Math.floor(Math.random() * itemNum);
-    let randMaterial = Math.floor(Math.random() * materialNum);
+    //let randMaterial = Math.floor(Math.random() * materialNum);
     console.log("this is randItem: ", randItem);
 
     /*
@@ -66,14 +65,12 @@ for (let i = 0; i < $3; i++)
     */
     // Create a Array shorthand
     itemObj = data[baseDocumentNum][`${$1.toLowerCase()}Items`];
-    materialObj = data[baseDocumentNum][`${$1.toLowerCase()}Materials`];
+    //materialObj = data[baseDocumentNum][`${$1.toLowerCase()}Materials`];
 
-    console.log("This is the Chosen Item: ", materialObj[1][1].name);
-    console.log("This is the property: ", itemObj[0].name);
 
     // Shorthand for the "Array in a list"
     itemF = itemObj[randItem]
-    materialF = materialObj[randMaterial][randMaterial]
+    //materialF = materialObj[randMaterial][randMaterial]
     
     //Formulate table
     result +=
@@ -93,4 +90,4 @@ for (let i = 0; i < $3; i++)
 return result + "\n";
 ```
 __
-getShop {ShopType: blacksmith, fletcher, clothier} {Rarity: common, uncommon, rare, epic, legendary} {itemCount: >0} - Generates a random shop from the list of items.
+getShop {ShopType: blacksmith, armourer, clothier, general} {itemCount: >0} - Generates a random shop from the list of items.
