@@ -1,11 +1,11 @@
 #homepage 
+
 ## Aimasturgy - (I-Ma-Stir-Gee)
 
 What I want from this system:
 
 - Strict Hierarchy based on strength in institutions (Meritocracy) (Youth can be higher ranked, and it is based off achievements) (You must challenge people in organizations officially, making brawls a spectacle and more rare.)
 - Exile from family is not receiving your families covenant, therefore making life much harder when traveling, doing things that could use magic’s QoL (Have to delve into this more), etc.
-- The Forsaken are beings who use magic but do not augment their blood (Forbidden but not always evil. Magic is considered a treasure and to use ones body is to discover something uniquely human)
 - Augmenting one’s blood to be used for magic formulae is the basis of the system, blood holds the substance Vraul (as in brawl)
 - Discovery of a new method of magic is the greatest honor for a novitae (User of magic \[Sanctioned])
 - Magic is alchemically based, but Vraul has many usages.
