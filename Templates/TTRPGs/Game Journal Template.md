@@ -7,7 +7,9 @@
 ### Total Movement Points (MP):
 ### Total $: 
 
+
 ---
+
 ### New Location 1:
 ### Terrain:
 ### Point of Interest (Y/N) (Type):
@@ -25,9 +27,7 @@
 ### Notes:
 
 
-
 ---
-
 
 ### Night Encounter (Y/N) (Creature) (Reason):
 ### Character Points Gained (End of Day):

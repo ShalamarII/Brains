@@ -1,4 +1,4 @@
 
-### Magic as communication
-
-### Magic as emotions
+- Magic as Communication
+- Magic as Emotions
+- Magic as Creation

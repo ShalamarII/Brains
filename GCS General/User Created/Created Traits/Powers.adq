@@ -1,0 +1,224 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "t7bJLx80J-ucRY-q7",
+			"name": "Hollow Model 1",
+			"notes": "Allows you to shoot magical bullets (Bullets with a spell enchanted upon them)",
+			"tags": [
+				"Advantage",
+				"Magical",
+				"Mental"
+			],
+			"modifiers": [
+				{
+					"id": "mqXChW8YFX_eVPLFD",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "mlMAMv0A4zOUT52xH"
+					},
+					"name": "No Signature",
+					"reference": "B106,P103",
+					"cost": 20
+				},
+				{
+					"id": "mWVS__DcSfia35lRe",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "m3A48zHquWfNeelzk"
+					},
+					"name": "Triggered Delay",
+					"reference": "B105",
+					"notes": "When the spell hits an object (Designated if Spirit or not)",
+					"cost": 50
+				},
+				{
+					"id": "m-KbOOJJPaFG5IqLG",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "mbO8GjGu_NuPTLz6e"
+					},
+					"name": "Area Effect",
+					"reference": "B102,P100",
+					"notes": "2^level radius",
+					"cost": 50,
+					"levels": 1
+				},
+				{
+					"id": "mgDYiUc06Zx0deFXg",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 4 Enhancements Enhancement Modifiers.adm",
+						"id": "mpgXdAagogt4zVPtE"
+					},
+					"name": "Switchable",
+					"reference": "PU4:17",
+					"cost": 10
+				},
+				{
+					"id": "mQY4qJ-PjcTMlsJXm",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "mCygOZY2iH1tva7XM"
+					},
+					"name": "Selectivity",
+					"reference": "B108,P105",
+					"cost": 10
+				},
+				{
+					"id": "mP83GwV-wsJEGsM4X",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "m21igBdWYgdcpw-2W"
+					},
+					"name": "Requires Magic Words",
+					"reference": "PU8:5",
+					"cost": -10
+				},
+				{
+					"id": "msNQKNxavbB9UR0rg",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "mcXt_Iwi0jANXo9f3"
+					},
+					"name": "Requires Skill Roll (Gun)",
+					"reference": "PU8:17",
+					"cost": -5
+				},
+				{
+					"id": "m9TxK8lSHOXPppp2H",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "mZ6n0ZDsrzwxwFOSe"
+					},
+					"name": "Requires Gestures",
+					"reference": "PU8:5",
+					"cost": -10
+				},
+				{
+					"id": "m7770NhR9o69jZ2y3",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Powers\\Powers Modifiers.adm",
+						"id": "mTvkmxweTpZMphMq8"
+					},
+					"name": "Magical",
+					"reference": "P27",
+					"notes": "Requires ambient Mana, and vulnerable to anti-powers.",
+					"cost": -10
+				},
+				{
+					"id": "mRIa8iE0YXP1y_FeR",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "mXLmAYS2DNM53cSM5"
+					},
+					"name": "Visible",
+					"reference": "PU8:19",
+					"cost": -10
+				},
+				{
+					"id": "mGUuuPA4PQJsBEVsQ",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 8 Limitations Limitation Modifiers.adm",
+						"id": "mxRNBA06vtsaQacuQ"
+					},
+					"name": "Blockable",
+					"reference": "PU8:12",
+					"cost": -5
+				},
+				{
+					"id": "mzS3lZ1QziYltUYac",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Limitation Modifiers.adm",
+						"id": "mi6XeX7ODQazjyugi"
+					},
+					"name": "Can be Stolen",
+					"reference": "B117",
+					"notes": "Forcibly Removed",
+					"cost": -10
+				},
+				{
+					"id": "m45ngkQHbnTg96a0H",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Limitation Modifiers.adm",
+						"id": "mfis0PWj017_IUatO"
+					},
+					"name": "Unique",
+					"cost": -25
+				},
+				{
+					"id": "mGR1ln1uSnroOVlGG",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Enhancement Modifiers.adm",
+						"id": "mcXN1MCeZnZB4Jz2e"
+					},
+					"name": "Follow-Up",
+					"reference": "B105,P102",
+					"notes": "Cost is variable and must be entered manually"
+				},
+				{
+					"id": "m9ii1gzkSJ1T6iZ-V",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Power Ups\\Power Ups 4 Enhancements Enhancement Modifiers.adm",
+						"id": "mEPw3arucLNUneQGC"
+					},
+					"name": "Reliable",
+					"reference": "PU4:16",
+					"cost": 5,
+					"levels": 3
+				}
+			],
+			"base_points": 10,
+			"weapons": [
+				{
+					"id": "WID6YM1KA2cxFtSjt",
+					"damage": {
+						"type": "pi",
+						"base": "1d"
+					},
+					"usage": "Bullet - Shot",
+					"accuracy": "3",
+					"range": "50/100",
+					"rate_of_fire": "1",
+					"recoil": "1",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Innate Attack",
+							"specialization": "@Attack Type@"
+						},
+						{
+							"type": "skill",
+							"name": "Innate Attack",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					],
+					"calc": {
+						"damage": "1d pi"
+					}
+				}
+			],
+			"calc": {
+				"points": 17
+			}
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "Ts2LFc1D0ZAaSx3ek",
+			"name": "Advantages",
+			"calc": {
+				"points": 0
+			}
+		},
+		{
+			"id": "TaxHfNKKGKbAaA6Fl",
+			"name": "Disadvantages",
+			"calc": {
+				"points": 0
+			}
+		},
+		{
+			"id": "TewyohBTdD-kWpXwg",
+			"name": "Quirks",
+			"calc": {
+				"points": 0
+			}
+		},
+		{
+			"id": "TZhNOtUFhyG9xA7NI",
+			"name": "Perks",
+			"calc": {
+				"points": 0
+			}
+		},
+		{
+			"id": "TmvypqT2jFkWdHIZF",
+			"name": "Languages",
+			"calc": {
+				"points": 0
+			}
+		}
+	]
+}

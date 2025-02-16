@@ -33,6 +33,10 @@
     {
       "folder": "Alrathion - The End's Fall/Places/Planets/Tetrun/Continents/Alrathion/Generated NPC's/Kathali",
       "template": "Templates/TTRPGs/Kathali NPC Template.md"
+    },
+    {
+      "folder": "Alrathion - The End's Fall/Sessions",
+      "template": "Templates/TTRPGs/Session Template.md"
     }
   ],
   "enable_file_templates": false,

@@ -502,6 +502,7 @@ blacksmithItems:
     damage: sw-2(0.5) cr
     recoil: N/A
     STreq: 6
+
   - 50:
     name: Bottle, Ceramic
     cost: 3
@@ -512,6 +513,7 @@ blacksmithItems:
     damage: N/A
     recoil: N/A
     STreq: N/A
+
   - 51:
     name: Brass Knuckles
     cost: 10
@@ -522,6 +524,7 @@ blacksmithItems:
     damage: thr cr
     recoil: N/A
     STreq: N/A
+
   - 52:
     name: Flanged Mace
     cost: 100
@@ -532,7 +535,8 @@ blacksmithItems:
     damage: 7
     recoil: 0
     STreq: 10
-  - 53:
+
+  -  53:
     name: War Hammer
     cost: 120
     weight: 6
@@ -542,6 +546,7 @@ blacksmithItems:
     damage: 8
     recoil: 0
     STreq: 11
+
   - 54:
     name: Longsword
     cost: 150
@@ -552,6 +557,7 @@ blacksmithItems:
     damage: 6
     recoil: 0
     STreq: 9
+
   - 55:
     name: Battleaxe
     cost: 130
@@ -562,6 +568,7 @@ blacksmithItems:
     damage: 9
     recoil: 0
     STreq: 12
+
   - 56:
     name: Halberd
     cost: 180
@@ -571,37 +578,7 @@ blacksmithItems:
     bulk: -4
     damage: 10
     recoil: 0
-    STreq: 13
-  - 57:
-    name: Spear
-    cost: 80
-    weight: 5
-    reach: 2
-    RoF: 1
-    bulk: -3
-    damage: 6
-    recoil: 0
-    STreq: 9
-  - 58:
-    name: Crossbow
-    cost: 200
-    weight: 8
-    reach: 10
-    RoF: 1
-    bulk: -4
-    damage: 12
-    recoil: 1
-    STreq: 10
-  - 59:
-    name: Shortbow
-    cost: 100
-    weight: 2
-    reach: 10
-    RoF: 2
-    bulk: -3
-    damage: 9
-    recoil: 0
-    STreq: 8
+  STreq: 8
   - 60:
     name: Longbow
     cost: 150

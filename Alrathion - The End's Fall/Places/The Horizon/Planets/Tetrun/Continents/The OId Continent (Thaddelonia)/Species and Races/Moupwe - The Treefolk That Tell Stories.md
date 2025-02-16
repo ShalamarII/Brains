@@ -13,7 +13,7 @@ The Moupwe help upkeep the Menari's Heart-Trees in exchange for the protection t
 
 ^89fe16
 
-The Great Book contains the tribes history themselves. They are a part of the Heart-Trees, a staple of the Moupwe people. The Heart-Trees are originally created by the Moupwe in conjunction with La'Hamar. Each Heart-Tree has a portion of the Great Book, and they are created when the knowledge is passed between Heart-Trees ( See [[The Awakening]])
+The Great Book contains the tribes history themselves. They are a part of the Heart-Trees, a staple of the Moupwe people. The Heart-Trees are originally created by the Moupwe in conjunction with La'Hamar. Each Heart-Tree has a portion of the Great Book, and they are created when the knowledge is passed between Heart-Trees (See [[The Awakening]])
 
 # Plot Hooks
 

@@ -1,0 +1,36 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "sZumKG0azVum3dU9D",
+			"name": "Spell Imbuement Talent",
+			"specialization": "Hollow Model Firearms (Bullets)",
+			"difficulty": "iq/h",
+			"points": 1
+		},
+		{
+			"id": "s53pluBrDBVFipqx8",
+			"name": "Magery",
+			"specialization": "Syntactic Magic",
+			"difficulty": "iq/h",
+			"prereqs": {
+				"type": "prereq_list",
+				"all": true,
+				"prereqs": [
+					{
+						"type": "trait_prereq",
+						"has": true,
+						"name": {
+							"compare": "is",
+							"qualifier": "Magery"
+						},
+						"level": {
+							"compare": "at_least"
+						}
+					}
+				]
+			},
+			"points": 1
+		}
+	]
+}

@@ -41,3 +41,12 @@ This song is talking about La'Hamar becoming one with nature, and they experienc
 
 ### Prismvine Weaving
 The Menari people weave [[Prismvine]] into their clothing, allowing nature's music to brighten their surroundings. Wreaths, bracelets, and scarves of often seen. They receive [[Prismvine|Prismvine]] from their symbiotic partners, the [[Moupwe]]. Because of this prismvine, you can often tell where a Menari settlement is. Though this is bad for them, as people may try to attack, closeness to nature is above all.
+
+# Plot Hooks
+
+### Menari Protection
+Requirements:
+- PCs have not met the Moupwe people
+- PCs have good standing with the Menari (Completing 1-3 side quests)
+
+The Menari Leader asks for the party to travel to the Moupwe people, promising gold if they complete the task. Along this journey, they'll learn more about the people of the Menari. A member of the clan will get harmed (whether by nefarious or natural means) and the leader of the caravan will carry out the healing (Including the song). The Kathali in the party will recognize this as the hymn of their people with words instead of humming.

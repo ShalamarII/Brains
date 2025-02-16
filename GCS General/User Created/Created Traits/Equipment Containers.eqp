@@ -1,0 +1,38 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "E4PiImWbfTZTJgTDc",
+			"description": "Hand Weapons",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "ERjOouxW7eerzX0ek",
+			"description": "Ranged Weapons",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		},
+		{
+			"id": "E29PJOD1R9IS73CV2",
+			"description": "Armor \u0026 Possesions",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 0,
+				"extended_weight": "0 lb"
+			}
+		}
+	]
+}
