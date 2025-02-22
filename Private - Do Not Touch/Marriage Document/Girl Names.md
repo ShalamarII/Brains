@@ -1,2 +1,0 @@
-- Kashmina / Kaczmina (Cash-Mina for English) (Catch-Mina for Polish)
-- Amelia (Aum-El-E-Ya)

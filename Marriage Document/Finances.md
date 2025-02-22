@@ -9,9 +9,9 @@ source:
   - Marriage Document
 ---
 ## General Finance Topics
-### [[Finance Organization Proposal]]
+### [[Marriage Document/Finance Organization Proposal]]
 
-### [[3 Year Financial Plan]]
+### [[Marriage Document/3 Year Financial Plan]]
 
 ### [[Investing]]
 

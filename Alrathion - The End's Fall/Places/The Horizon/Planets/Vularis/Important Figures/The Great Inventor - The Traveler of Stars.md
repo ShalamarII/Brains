@@ -1,1 +1,0 @@
-The Great Inventor was the progenitor of the Moupwe people and the creator of [[The Star Chart]]. She is the one who sealed the planet of Tetrun, so that it not be corrupted by [[The People from Beyond the Stars - Costila|the people from beyond the stars]]. 

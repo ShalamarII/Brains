@@ -1,2 +1,0 @@
-- Hose combined with Gun as the main tool (Nozzles as attachments)
-- Pens where the ink is Spell-Blood

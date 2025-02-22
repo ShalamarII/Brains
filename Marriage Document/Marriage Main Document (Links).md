@@ -9,8 +9,8 @@ source:
   - Marriage Document
 ---
 
-### [Finances](Finances) - [[Finance Organization Proposal]]
-### [Beliefs](Beliefs)
+### [Finances](Marriage%20Document/Finances.md) - [[Marriage Document/Finance Organization Proposal]]
+### [Beliefs](Marriage%20Document/Beliefs.md)
 ### [Problem Resolution](obsidian://open?vault=Brains&file=Marriage%20Document%2FHow%20we%20resolve%20problems)
 ### [How we treat one another](obsidian://open?vault=Brains&file=Marriage%20Document%2FHow%20we%20treat%20each%20other)
 ### [Our Children](obsidian://open?vault=Brains&file=Marriage%20Document%2FOur%20Children)
