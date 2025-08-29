@@ -1,0 +1,24 @@
+- Start my own business (Successful or otherwise)
+- Graduate College (Psychology, Mathematics/Physics)
+- Create a public event
+- Travel (Japan, Poland)
+- Become an Artist
+- Learn Polish
+- Write a book
+- Build a world
+- Create a family
+- Build an App
+- Buy a House
+- Learn to cook (50 Recipes)
+- Learn to drive
+- Build Storage Solutions
+- Collect Comics and Books
+- Begin a Library (Public/Semi-Public)
+- Build a Keyboard
+- Organize a Protest
+- Create a YouTube Channel (Or something like it)
+- Write poetry
+- Give a speech
+- Become stronger
+- Cycle more
+- Inspire someone

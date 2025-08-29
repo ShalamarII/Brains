@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Our Brain/Essays/The Nature of Learning.md",
+                "file": "What I want to do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Nature of Learning"
-            }
-          },
-          {
-            "id": "120c7d1c826621f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/IPV4 Addresses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IPV4 Addresses"
+              "title": "What I want to do"
             }
           }
         ]
@@ -108,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing Programs/Testing Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Testing Programs"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Our Brain/Our Zettelkasten/A refusal of individuality..md",
+                "file": "What I want to do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A refusal of individuality."
+              "title": "Outgoing links from What I want to do"
             }
           },
           {
@@ -190,7 +175,7 @@
             }
           },
           {
-            "id": "90f42eb73eccc13f",
+            "id": "b765cc76a93e329a",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -208,6 +193,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -224,54 +210,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aca4e310256ef8eb",
+  "active": "5b64fb688963e34b",
   "lastOpenFiles": [
+    "Writings/Alec and Georgia/Alec and Georgia.md",
+    "What I want to do.md",
+    "Writings/Alec and Georgia",
+    "Writings/Structure/Plot of Untitled Story 2.md",
+    "Writings/Structure/Plot of Untitled Story 3.md",
+    "Writings/I Dream.md",
+    "Writings/Self-Sabotage.md",
+    "Writings/Untitled Story 1.md",
+    "Marriage Document/Bucket List.md",
+    "Marriage Document/Beliefs.md",
+    "Marriage Document/3 Year Financial Plan.md",
+    "Our Brain/Essays/Untitled.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Devices and Initial Configuration/1.1 Reliable Networks.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Devices and Initial Configuration/Course Introduction.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Devices and Initial Configuration",
+    "Writings/Structure",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/Chapter 14/14.3 Create a LAN.md",
+    "Writings",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/Chapter 14/14.1 The Need for Routing.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/The Evolving Job Market - SFA.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/Chapter 14",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Untitled.md",
     "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/IPV4 Addresses.md",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/Network Segmentation.md",
-    "Our Brain/Essays/The Nature of Learning.md",
-    "CareerSpring Presentation.md",
+    "Example Sheet.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Recursive Thinking.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Logic and Proof.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Discrete Structures.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Combinatorics and Discrete Probability.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Applications and Modeling.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Algorithms and Their Analysis.md",
+    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/ISP Connectivity Options.md",
     "Our Brain/Essays",
     "Attachments/{B5B2D307-74B3-4142-8423-AE21887B3549}.png",
     "Attachments/{ABBA2E5F-5CC4-4137-89B4-FF46C8EF93F5}.png",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Parenting/Parenting a Child with ADHD.md",
-    "Our Brain/D&D/Alchemist - By Shalamar.md",
     "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Parenting",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Introduction to Networks/Packet Tracer Notes/4.6.5 Connect a Wired and Wireless Lan.md",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Introduction to Networks/5.3 Network Communication Models.md",
     "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Introduction to Networks/Packet Tracer Notes",
     "Attachments/{F199A803-CE16-408F-A00E-A84F93D67918}.png",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Introduction to Networks/5.2.1 Devices in a Bubble.md",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/IETF (Internet Engineering Task Force).md",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/Communication Protocols.md",
-    "Monster Hunter Text Decompiling.md",
     "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Introduction to Networks",
     "Attachments/{08B9FED2-2B9F-4F55-949F-14601011B6F9}.png",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/CCNA ICND1 Certification Guide/Requirements for designing a Computer Network.md",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Vocabulary.md",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/D&D/FoundryVTT Cheat Sheet.md",
-    "To Do (Tiddlywiki).md",
-    "README.md",
-    "Important Page Numbers.md",
-    "Testing Programs/Testing Programs.md",
-    "Alrathion - The End's Fall/Music Choices/Music Purposes.md",
-    "Alrathion - The End's Fall/Solo Play (Creating The World)/Drawing 2025-02-21 11.47.14.excalidraw.md",
     "TTRPGS",
     "Attachments/Maps/Jurath.png",
-    "Attachments/Maps",
     "icons/1x1/spencerdub/digital-trace.svg",
-    "icons/1x1/spencerdub",
     "icons/1x1/sparker/bear-face.svg",
-    "icons/1x1/sparker",
     "icons/1x1/pierre-leducq/small-fishing-sailboat.svg",
     "icons/1x1/pierre-leducq/anti-aircraft-gun.svg",
     "icons/1x1/pierre-leducq/shooner-sailboat.svg",
-    "icons/1x1/pierre-leducq",
-    "icons/1x1/pepijn-poolman",
-    "Alrathion - The End's Fall/Solo Play (Creating The World)/The City of Jurath.md",
-    "Alrathion - The End's Fall/Places/The Horizon/Planets/Tetrun/Continents/The OId Continent (Thaddelonia)/Species and Races/Moupwe - The Treefolk That Tell Stories.md",
-    "Alrathion - The End's Fall/Places/The Horizon/Planets/Tetrun/Continents/The OId Continent (Thaddelonia)/Species and Races/Menari - The People of Nature.md",
-    "Alrathion - The End's Fall/History/Kathali/The Exodus and the Kathali's Transformation.md",
-    "Alrathion - The End's Fall/History/Kathali/Legacy of the Menari and the Kathali People.md",
     "Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
