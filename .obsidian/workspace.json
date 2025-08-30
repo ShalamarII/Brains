@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marriage Document/3 Year Financial Plan (Redux).md",
+                "file": "Marriage Document/3 Year Financial Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Year Financial Plan (Redux)"
+              "title": "3 Year Financial Plan"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marriage Document/3 Year Financial Plan (Redux).md",
+                "file": "Marriage Document/3 Year Financial Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3 Year Financial Plan (Redux)"
+              "title": "Outgoing links from 3 Year Financial Plan"
             }
           },
           {
@@ -212,8 +212,8 @@
   },
   "active": "aca4e310256ef8eb",
   "lastOpenFiles": [
-    "Marriage Document/3 Year Financial Plan.md",
     "Marriage Document/3 Year Financial Plan (Redux).md",
+    "Marriage Document/3 Year Financial Plan.md",
     "What I want to do.md",
     "Writings/Alec and Georgia/Alec and Georgia.md",
     "Writings/Alec and Georgia",
