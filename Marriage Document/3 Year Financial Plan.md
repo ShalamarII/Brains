@@ -20,4 +20,3 @@ June 11, 2024 - 2027
 - Be saving money to move in together (10k move-in fund)
 - Prioritize building emergency fund before saving towards a place to move in together
 - Finding a sponsored job (Visa) or getting a visa
-- 
