@@ -15,7 +15,6 @@ June 11, 2024 - 2027
 	- As of June 2024, $5,000 CAD is saved towards paying off student loan out of pocket
 - Rest of savings go towards 10k emergency fund
 - Continue to build Canadian credit
-- Build US credit (& use Canadian credit towards US credit using Nova Credit Amex + RBC?)
 
 #### Together
 - Be saving money to move in together (10k move-in fund)
