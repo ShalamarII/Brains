@@ -2,13 +2,11 @@ June 11, 2024 - 2027
 
 ### Goals:
 #### Rico
- - Finish School (Or Vocational Training) 
-	- If returning to college, pay for schooling using money earned summer of 2024
-	- If going to vocational school, be paid while learning
+ - Finish CCST Certification
  - Have 10k Emergency Fund
- - Have a car (And Driver's License)
+ - Have a Driver's License (Motorized Bike?)
  - Build American Credit (using credit card)
- - Begin collegiate training again.
+ - Begin college for psychology.
 
 #### Veronica
 - Finish bachelor's degree (2026)
