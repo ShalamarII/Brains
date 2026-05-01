@@ -1,0 +1,3 @@
+As breath escapes me, falling through my hands, I cannot remember a thing. Although I am reduced to a child, I reach out for sunlight. My eyes kneel down in front of the sun's great splendor. My lips crack and my bones ache but I still march. I choose to hope. 
+
+The boy I was finds himself holding a gun. But as he presses it against his temple, he awakes. He was dreaming all along. I was dreaming and it still killed me.

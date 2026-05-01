@@ -2,6 +2,6 @@
 
 ### [[Taxes]]
 
-### [[Politics]]
+### [[Our Brain/Our Zettelkasten/Adulthood - A Mind Map/Politics]]
 
 ### [[Legal Documents]]
