@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "bcf1bb77b3cc9f6d",
+            "id": "0e9627c9a749d341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writings/I Dream.md",
+                "file": "Working On.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I Dream"
+              "title": "Working On"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writings/A Wet Cognition..md",
+                "file": "Kalamazoo Bicycle Club.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Wet Cognition."
+              "title": "Kalamazoo Bicycle Club"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,34 +249,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7b19f8237026b4a",
+  "active": "0e9627c9a749d341",
   "lastOpenFiles": [
+    "Kalamazoo Bicycle Club.md",
+    "Working On.md",
+    "Writings/The Virtue of Good.md",
+    "Writings/The Soul.md",
+    "Writings/Alec and Georgia/Alec and Georgia.md",
+    "Writings/Songlets/Every Living Breathing Moment.md",
+    "Writings/Structure/Plot of Untitled Story 2.md",
+    "Writings/Structure/Plot of Untitled Story 3.md",
+    "Writings/A Treatise of Humanity.md",
+    "Writings/A Wet Cognition..md",
+    "Writings/Remarkable - I Dream.md",
+    "Writings/I Dream.md",
+    "Writings/Brightly.md",
+    "Writings/The Nature of Learning.md",
+    "Writings/Sunlight.md",
+    "Writings/Shris Story.md",
+    "Writings/Boy (Reprise).md",
+    "Agent Rate Calculator.md",
+    "Port Assignments - Home Server.md",
     "Our Brain/Our Zettelkasten/Practical Notes/Useful Programs.md",
     "Our Brain/Our Zettelkasten/Practical Notes/Passwords.md",
     "Foundry/Data/modules/monks-combat-details/CHANGELOG.md",
     "Foundry/Data/modules/monks-active-tiles/CHANGELOG.md",
     "What I want to do.md",
-    "Writings/A Treatise of Humanity.md",
-    "Writings/Untitled Story 1.md",
-    "Writings/I Dream.md",
-    "Writings/A Wet Cognition..md",
     "Our Brain/Diary/The Day I Decided I was to be a Man - March 3rd, 2026.md",
     "OCLC Meeting Notes - March 6th, 2026.md",
-    "Our Brain/Essays/Untitled.md",
-    "Writings/The Nature of Learning.md",
-    "Writings/Shris Story.md",
-    "Writings/Structure/Plot of Untitled Story 2.md",
-    "Writings/Boy (Reprise).md",
-    "Writings/Remarkable - I Dream.md",
-    "Writings/Shame.md",
-    "Writings/Sunlight.md",
-    "Writings/The Soul.md",
-    "Writings/Structure/Plot of Untitled Story 3.md",
-    "Writings/Songlets/Every Living Breathing Moment.md",
-    "Writings/Alec and Georgia/Alec and Georgia.md",
-    "Writings/Fear.md",
-    "Marriage Document/What we are working on.md",
-    "Marriage Document/Rules of Life - Us.md",
     "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/JITL CCNA Quizzes",
     "Writings/Songlets",
     "Writings/Alec and Georgia",

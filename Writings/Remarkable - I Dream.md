@@ -12,7 +12,7 @@ To be unremarkable is to be that boy again, wondering where his mother had gone.
 
 I must let my mind fly, to soar amongst those before me. I must speak with grandeur, a projection of the beauty I must create. Because even if I am broken, I may help another. I can let them know if it's too hard to carry, I can help.
 
-I remember that boy. The hope he had in his eyes. Dreams of what he would be, of what he could do. That boy believed he could conquer the stars if he wanted to. He wanted so desperately to prove that he could be happy, that *they* could be. He took each beating and he lied that it didn't hurt. That he could make it good again. He tried so hard with what he had. But eventually, hope became outsourced. That spark hid itself in the eyes of others. He'd ask, "What can I do so that they can save? So that they may be strong, or at least heal when they are weak?" Because he thought that if he healed enough people, maybe he could heal too.
+I remember that boy. The hope he had in his eyes. Dreams of what he would be, of what he could do. That boy believed he could conquer the stars if he wanted to. He wanted so desperately to prove that he could be happy, that *they* could be. He took every beating and he lied that it didn't hurt. That he could make it good again. He tried so hard with what he had. But eventually, hope became outsourced. That spark hid itself in the eyes of others. He'd ask, "What can I do so that they can save? So that they may be strong, or at least heal when they are weak?" Because he thought that if he healed enough people, maybe he could heal too.
 
 ---
 

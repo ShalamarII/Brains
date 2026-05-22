@@ -1,0 +1,1 @@
+There is no virtue in being right, no good in helping. To support is as natural as the sun rising. Support should not be given as a measure of worth, but as humanity. Love should not be locked behind a paywall. Hope should not be locked behind worth.
