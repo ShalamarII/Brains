@@ -37,3 +37,5 @@ Level of involvement with the site (Defining the levels):
 
 Finish the Working On , Incoming, This Document
 
+https://corephp.teamwork.com/app/tasks/27172293?c=10746686
+- Will we be billing this as hourly?

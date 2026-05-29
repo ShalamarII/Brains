@@ -1,0 +1,3 @@
+- [ ] Mithril Golem (Mithril Farming)
+- [ ] Snail Pet (Sand/Hardstone Farming)
+- [ ] 
