@@ -17,8 +17,8 @@ What it (SOW) covers:
   - Form Submission
   - CRM lead routing
   - Link Integrity
-  - Load Speed
-  - Mobile Responsiveness
+      - Load Speed
+      - Mobile Responsiveness
 - DNS Transition
   
 Out of Scope:
@@ -63,7 +63,7 @@ Tasks for Date Launch
 
 #### Figma - Sales -> PM Team Notes
 
-Why am I creating the invoice? imom it should be Sales -> Project -> Sales (Michael). I should be associating ***time*** with the invoice.
+Why am I creating the invoice? imo it should be Sales -> Project -> Sales (Michael). I should be associating ***time*** with the invoice.
 
 Deal also needs to be moved by sales team
 
