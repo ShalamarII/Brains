@@ -15,7 +15,7 @@ What it (SOW) covers:
 - Hosting (After Launch)
 - Testing
   - Form Submission
-  - CRM lead routing
+  - CRM Lead Routing
   - Link Integrity
       - Load Speed
       - Mobile Responsiveness
@@ -30,6 +30,8 @@ Out of Scope:
 - CRM platform upgrades beyond the included monthly subscription tier 
 - Third-party integrations beyond those listed above
 
+
+Potential coreAssist
 
 Level of involvement with the site (Defining the levels):
 

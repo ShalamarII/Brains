@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Working On.md",
+                "file": "fp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Working On"
+              "title": "fp"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fingerprint phrase - BitWarden.md",
+                "file": "Reliance Bank MN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fingerprint phrase - BitWarden"
+              "title": "Reliance Bank MN"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "password",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,13 +277,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7b19f8237026b4a",
+  "active": "c257fab402981629",
   "lastOpenFiles": [
-    "fingerprint phrase - BitWarden.md",
+    "fp.md",
+    "Untitled 1.md",
+    "Reliance Bank MN.md",
     "Working On.md",
+    "Untitled.md",
     "GSG Notes.md",
     "OCLC Notes.md",
-    "Untitled.md",
     "Lauren Taylor Homes.md",
     "Kalamazoo Bicycle Club.md",
     "Skyblock Stuff to Get.md",
@@ -303,8 +305,6 @@
     "Writings/Shris Story.md",
     "Writings/Boy (Reprise).md",
     "Agent Rate Calculator.md",
-    "Port Assignments - Home Server.md",
-    "Our Brain/Our Zettelkasten/Practical Notes/Useful Programs.md",
     "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/JITL CCNA Quizzes",
     "Writings/Songlets",
     "Writings/Alec and Georgia",
