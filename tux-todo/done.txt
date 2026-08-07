@@ -1,0 +1,24 @@
+x 2026-07-28 2026-07-28 Take laundry baskets to the living room +packing @home
+x 2026-07-28 2026-07-28 Help Dad setup online banking +family @home
+x 2026-07-28 2026-07-28 Unpack bags from hotel +packing @home
+x 2026-07-28 2026-07-28 Put clean clothes from the floor into the closet +packing @home
+x 2026-07-28 2026-07-28 Get shoes (taking with) and put them in a big garbage bag in pairs +packing @home
+x 2026-07-29 2026-07-28 Organize the dining room table +packingprep @home
+x 2026-07-29 2026-07-28 Start 2 loads of Laundry +packingprep @home
+x 2026-07-29 2026-07-29 Make my IDP (International Driver's Permit) +japantrip @home\due:2026-07-29
+x 2026-07-29 2026-07-29 Pick up Yen +japantrip due:2026-07-29
+x 2026-07-30 2026-07-30 Make space in room +packingprep @home
+x 2026-08-03 2026-07-28 Wash the Dishes +packingprep @home
+x 2026-08-03 2026-07-30 Get suitcases +packingprep @home
+x 2026-08-03 2026-07-30 Begin packing according to PL +packingprep @home
+x 2026-08-03 2026-07-30 Send an email to FDConsulting about Yoast Pro SEO
+x 2026-08-03 2026-08-03 Follow-Up with Chris Martin (FSB) +corephp @email due:2026-08-04
+x 2026-08-03 2026-08-03 Send a follow-up to FD Consulting about whether they're doing an active Social Media campaign. +corephp @email due:2026-08-03
+x 2026-08-04 2026-08-04 Create a new task tracker for Dev Syncs
+x 2026-08-04 2026-08-04 Schedule a meeting with Rehana about GRSY +corephp @calendar
+x 2026-08-04 2026-08-04 Review Apex +corephp due:2026-08-04
+
+
+x 2026-08-07 2026-08-06 GRSY - How should we add the events? Statically or Dynamically? +corephp-grsy @email due:2026-08-06
+x 2026-08-07 2026-08-06 GRSY - Do you want the same link structure as before +corephp-grsy @email due:2026-08-06
+x 2026-08-07 2026-08-06 FLFS - Respond about myPrayerServices +corephp-FLFS @teamwork-desk due:2026-08-06

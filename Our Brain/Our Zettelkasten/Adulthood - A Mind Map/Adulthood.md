@@ -1,6 +1,6 @@
 # Main Aspects of Adulthood
 
-### [[Marriage Document/Finances]]
+### [[Finances]]
 ### [[Employment]]
 ### [[Relationships]]
 ### [[Personal Wellness]]

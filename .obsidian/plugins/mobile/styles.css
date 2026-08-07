@@ -1,0 +1,616 @@
+/*
+Mobile UX Plugin Styles
+Includes FAB and selection toolbar styles with mobile-friendly design
+*/
+
+/* @settings
+
+name: Mobile UX
+id: mobile
+settings:
+    - 
+        id: mobile-fab-position
+        title: Floating Action Button Position
+        description: Variations on a theme
+        type: class-select
+        allowEmpty: false
+        default: mobile-fab-bottom-right
+        options:
+            - mobile-fab-bottom-right
+            - mobile-fab-bottom-left
+            - mobile-fab-bottom-middle
+            - mobile-fab-top-right
+            - mobile-fab-top-left
+            - mobile-fab-top-middle
+    - 
+        id: mobile-fab-dragline-hidden
+        title: Hide FAB Dragline
+        description: Hides the FAB dragline when enabled
+        type: class-toggle
+    - 
+        id: mobile-fab-distance-from-edge
+        title: FAB Distance from Edge
+        description: The distance of the FAB from the edge in pixels.
+        type: variable-number-slider
+        format: px
+        default: 20
+        min: 20
+        max: 200
+        step: 5
+*/
+
+body {
+  --fab-bottom: var(--mobile-fab-distance-from-edge, 20px);
+  --fab-top: calc(
+    var(--view-header-top-offset) + var(--mobile-fab-distance-from-edge, 20px)
+  );
+}
+
+body:has(.mobile-navbar.mod-raised) {
+  --fab-bottom: calc(
+    var(--navbar-height) + 34px + var(--mobile-fab-distance-from-edge, 20px)
+  );
+  --fab-top: calc(
+    var(--view-header-top-offset) + var(--view-header-height) +
+      var(--mobile-fab-distance-from-edge, 20px)
+  );
+}
+
+body:has(.mobile-navbar.mod-raised).is-hidden-nav,
+.is-hidden-nav {
+  --fab-bottom: var(--mobile-fab-distance-from-edge, 20px);
+  --fab-top: calc(
+    var(--view-header-top-offset) + var(--mobile-fab-distance-from-edge, 20px)
+  );
+}
+
+/* Floating Action Button (FAB) */
+.mobile-fab {
+  position: absolute;
+  bottom: var(--fab-bottom, 20px);
+  right: 20px;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.mobile-fab-bottom-right .mobile-fab {
+  top: auto;
+  bottom: var(--fab-bottom, 20px);
+  right: 20px;
+  left: auto;
+}
+
+.mobile-fab-bottom-left .mobile-fab {
+  top: auto;
+  bottom: var(--fab-bottom, 20px);
+  left: 20px;
+  right: auto;
+}
+
+.mobile-fab-bottom-middle .mobile-fab {
+  top: auto;
+  bottom: var(--fab-bottom, 20px);
+  left: 50%;
+  transform: translateX(-50%);
+  right: auto;
+}
+
+.mobile-fab-top-right .mobile-fab {
+  top: var(--fab-top, 20px);
+  bottom: auto;
+  right: 20px;
+  left: auto;
+}
+
+.mobile-fab-top-left .mobile-fab {
+  top: var(--fab-top, 20px);
+  bottom: auto;
+  left: 20px;
+  right: auto;
+}
+
+.mobile-fab-top-middle .mobile-fab {
+  top: var(--fab-top, 20px);
+  bottom: auto;
+  left: 50%;
+  transform: translateX(-50%);
+  right: auto;
+}
+
+.mobile-fab:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+.mobile-fab:active {
+  transform: scale(0.95);
+}
+
+.mobile-fab svg {
+  width: 24px;
+  height: 24px;
+}
+
+.hideFABWhenKeyboardOpen.mod-toolbar-open .mobile-fab {
+  display: none;
+}
+
+/* Selection Toolbar */
+.mobile-plugin-toolbar {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 8px;
+  padding: 8px;
+  /* background-color: var(--background-primary); */
+  border-top: 1px solid var(--background-modifier-border);
+  padding-right: 76px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  /* Hide scrollbar for cleaner look while still allowing scroll */
+  scrollbar-width: none;
+  /* Firefox */
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  -webkit-overflow-scrolling: touch;
+  /* Smooth scrolling on iOS */
+  transition:
+    height 0.3s ease,
+    flex-wrap 0.3s ease,
+    right 0.3s ease,
+    max-width 0.3s ease;
+}
+
+.mobile-fab-bottom-left .mobile-plugin-toolbar {
+  padding-right: 8px;
+  padding-left: 76px;
+}
+
+.mobile-fab-top-right .mobile-plugin-toolbar,
+.mobile-fab-top-left .mobile-plugin-toolbar,
+.mobile-fab-top-middle .mobile-plugin-toolbar,
+.mobile-fab-bottom-middle .mobile-plugin-toolbar {
+  padding-right: 8px;
+}
+
+/**
+ * Targets the mobile plugin toolbar specifically on phone devices when
+ * the mobile navbar is in a "raised" state (e.g., active or floating).
+ * 
+ * Selector breakdown:
+ * - body:has(.mobile-navbar .mod-raised): Checks if the body contains a navbar with the 'mod-raised' class.
+ * - .is-phone: Ensures styles apply only to phone layouts (not tablets).
+ * - .mobile-plugin-toolbar: The target element to be styled.
+ */
+body:has(.mobile-navbar.mod-raised).is-phone .mobile-plugin-toolbar {
+  padding-bottom: calc(var(--navbar-height) + 34px + 8px);
+}
+
+body:has(.mobile-navbar.mod-raised).is-hidden-nav.is-phone
+  .mobile-plugin-toolbar,
+.is-hidden-nav.is-phone .mobile-plugin-toolbar {
+  padding-bottom: 8px;
+}
+
+.hidden-mobile-toolbar .mobile-toolbar,
+.hidden-mobile-toolbar .mobile-toolbar-spacer {
+  display: none;
+}
+
+/* Expand toolbar when FAB is hidden */
+.workspace-leaf-content:not(:has(.mobile-fab)) .mobile-plugin-toolbar {
+  padding-right: 12px;
+}
+
+/* Expanded toolbar state - allows wrapping to show more rows */
+body:not(.is-hidden-nav.is-phone) .mobile-plugin-toolbar.is-expanded,
+body.mod-toolbar-open .mobile-plugin-toolbar.is-expanded {
+  flex-wrap: wrap;
+  flex: none;
+  overflow-y: auto;
+}
+
+body.is-hidden-nav.is-phone:not(.mod-toolbar-open)
+  .mobile-plugin-toolbar.is-expanded {
+  border-top-color: var(--interactive-accent);
+}
+
+body.is-hidden-nav.is-phone.hide-toolbar-for-fullscreen:not(.mod-toolbar-open)
+  .mobile-plugin-toolbar {
+  display: none;
+}
+
+body.keep-nav-hidden {
+  --view-header-height: 0px;
+}
+
+.mobile-plugin-toolbar::-webkit-scrollbar {
+  display: none;
+  /* Chrome, Safari, Opera */
+}
+
+.mobile-fab-dragline {
+  position: fixed;
+  height: 4px;
+  background-color: var(--interactive-accent);
+  top: 0;
+  left: 0;
+  transform-origin: 0 50%;
+  z-index: 101;
+  pointer-events: none;
+  transition: opacity 0.5s ease;
+}
+
+.mobile-fab-dragline-hidden .mobile-fab-dragline {
+  opacity: 0;
+  height: 0;
+}
+
+/* State classes for dragline animation */
+.mobile-fab-dragline.is-fading {
+  opacity: 0;
+  height: 0;
+}
+
+/* Gesture feedback animation for FAB */
+.mobile-fab.gesture-success {
+  background: var(--interactive-accent);
+}
+
+.mobile-fab.gesture-animating {
+  transition: background 2s;
+}
+
+.mobile-plugin-settings-header > .setting-item-control {
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 0.5em;
+  justify-content: flex-start;
+}
+
+.mobile-plugin-settings-header > .setting-item-control > button {
+  flex-grow: 1;
+}
+
+.mobile-plugin-settings-header > .setting-item-control > button.mod-cta {
+  border-radius: var(--button-radius) var(--button-radius) 0 0;
+}
+
+/* Mobile Search View */
+.mobile-search-view {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+}
+
+.workspace-leaf-content .mobile-search-view {
+  padding: 0;
+}
+
+.mobile-search-input-container {
+  position: sticky;
+  top: 0;
+  padding: 12px;
+  background-color: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+  z-index: 10;
+}
+
+.mobile-search-input-container.hide {
+  display: none;
+}
+
+.mobile-search-results-container {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.mobile-search-result-card {
+  position: relative;
+  padding: 12px;
+  margin-bottom: 8px;
+  background-color: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.mobile-search-result-card:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+.mobile-search-result-card:active {
+  background-color: var(--background-modifier-active-hover);
+}
+
+.mobile-search-result-filename {
+  font-weight: 600;
+  font-size: var(--font-ui-medium);
+  color: var(--text-normal);
+  margin-bottom: 4px;
+}
+
+.mobile-search-result-path {
+  font-size: var(--font-ui-small);
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+.mobile-search-result-preview {
+  font-size: var(--font-ui-small);
+  color: var(--text-muted);
+  line-height: 1.4;
+  max-height: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mobile-search-no-results,
+.mobile-search-more-results {
+  text-align: center;
+  padding: 20px;
+  color: var(--text-muted);
+  font-size: var(--font-ui-medium);
+}
+
+/* Preview wrapper for positioning date */
+.mobile-search-result-preview-wrapper {
+  position: relative;
+}
+
+/* Date at bottom corner of preview */
+.mobile-search-result-date {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: var(--font-ui-smaller);
+  color: var(--text-faint);
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--background-secondary) 20%
+  );
+  padding-left: 16px;
+}
+
+/* Selection Mode Styles */
+.mobile-search-selection-bar {
+  display: none;
+  position: sticky;
+  top: 0;
+  padding: 12px;
+  background-color: var(--background-secondary);
+  border-bottom: 1px solid var(--background-modifier-border);
+  z-index: 10;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.mobile-search-selection-bar > button.hide {
+  display: none;
+}
+
+.mobile-search-selection-bar.show {
+  display: flex;
+}
+
+/* Style for ExtraButtonComponent (more actions menu) */
+.mobile-search-selection-bar > .clickable-icon:last-of-type {
+  margin-left: auto;
+}
+
+.mobile-search-selection-count {
+  font-size: var(--font-ui-medium);
+  color: var(--text-muted);
+  padding: 0 8px;
+}
+
+.mobile-search-result-card.is-active {
+  border: 1px solid var(--interactive-accent);
+}
+
+/* Selected card styling */
+.mobile-search-result-card.is-selected,
+.mobile-search-result-card.selected {
+  border: 2px solid var(--interactive-accent);
+  background-color: var(--background-modifier-hover);
+}
+
+.mobile-search-result-card.is-selected::before,
+.mobile-search-result-card.selected::before {
+  content: '✓';
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 24px;
+  height: 24px;
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-ui-medium);
+  font-weight: bold;
+}
+
+/* Side pullout rail */
+.side-pullout {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 12px;
+  width: min(104px, 28vw);
+  padding: 12px 10px;
+  background: color-mix(in srgb, var(--background-primary) 92%, transparent);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 0 28px rgba(0, 0, 0, 0.24);
+  touch-action: none;
+  overscroll-behavior: contain;
+  transition:
+    transform 0.12s linear,
+    opacity 0.12s linear;
+}
+
+.side-pullout-from-left {
+  left: 0;
+  right: auto;
+  border-right: 1px solid var(--background-modifier-border);
+  transform: translateX(-100%);
+}
+
+.side-pullout-from-right {
+  left: auto;
+  right: 0;
+  border-left: 1px solid var(--background-modifier-border);
+  transform: translateX(100%);
+}
+
+.side-pullout-open {
+  transform: translateX(0);
+}
+
+.side-pullout-closing {
+  opacity: 0;
+}
+
+.side-pullout-header {
+  margin: 0;
+  font-size: var(--font-ui-small);
+  font-weight: var(--font-semibold);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.side-pullout-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.side-pullout-action {
+  width: 44px;
+  height: 44px;
+  border: 0;
+  border-radius: 14px;
+  background: var(--interactive-normal);
+  color: var(--text-normal);
+  display: grid;
+  place-items: center;
+  padding: 0;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.side-pullout-action:hover {
+  background: var(--background-modifier-hover);
+}
+
+.side-pullout-rail-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+  overflow-y: auto;
+  padding-right: 2px;
+}
+
+.side-pullout-item {
+  width: 100%;
+  min-height: 50px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 16px;
+  background: var(--interactive-normal);
+  color: var(--text-normal);
+  display: grid;
+  place-items: center;
+  padding: 0;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  transition:
+    transform 0.18s ease,
+    background-color 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
+}
+
+.side-pullout-item:hover {
+  transform: translateY(-1px);
+  background: var(--background-modifier-hover);
+}
+
+.side-pullout-item.is-active {
+  background: var(--interactive-accent);
+  border-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  box-shadow:
+    0 0 0 1px var(--interactive-accent),
+    0 8px 20px rgba(0, 0, 0, 0.18);
+}
+
+.side-pullout-item svg,
+.side-pullout-action svg {
+  width: 22px;
+  height: 22px;
+}
+
+.side-pullout-rail-list::-webkit-scrollbar {
+  width: 4px;
+}
+
+.side-pullout-rail-list::-webkit-scrollbar-thumb {
+  background: var(--background-modifier-border);
+  border-radius: 999px;
+}
+
+.side-pullout-rail-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Settings Drag and Drop */
+.draggable-container .draggable-item {
+  cursor: grab;
+}
+
+.draggable-container .draggable-item.is-dragging {
+  opacity: 0.5;
+  cursor: grabbing;
+}
+
+.draggable-container .draggable-item.drag-over-top:not(.is-dragging) {
+  border-top: 2px solid var(--interactive-accent);
+}
+
+.draggable-container .draggable-item.drag-over-bottom:not(.is-dragging) {
+  border-bottom: 2px solid var(--interactive-accent);
+}
+
+.mobile-plugin-toolbar-editor {
+  margin: var(--size-4-6) 0;
+}

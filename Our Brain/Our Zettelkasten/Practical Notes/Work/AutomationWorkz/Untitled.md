@@ -1,0 +1,1 @@
+![[Untitled 2026-08-07 18.39.34.excalidraw]]

@@ -7,10 +7,10 @@
 
 ## Concepts of Discrete Mathematics
 
-## [Chapter One](Our%20Brain/Our%20Zettelkasten/Literature%20and%20Topic%20Notes/Readwise/Books/Discrete%20Mathematics%20with%20Applications/Discrete%20Mathematics%20with%20Applications%20-%20Chapter%20One.canvas)
+## [Chapter One](Our%20Brain/My%20Zettelkasten/Literature%20and%20Topic%20Notes/Readwise/Books/Discrete%20Mathematics%20with%20Applications/Discrete%20Mathematics%20with%20Applications%20-%20Chapter%20One.canvas)
 ### Chapter 1.1 
 - ##### [[Our Brain/My Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Variables]]
 - ##### [[Our Brain/My Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Mathematical Statements]]
 
 ### Chapter 1.2
-- [[Our Brain/My Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Sets]]
+- 

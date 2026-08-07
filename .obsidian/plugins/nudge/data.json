@@ -1,0 +1,22 @@
+{
+  "path": "/tux-todo/todo.txt",
+  "defaultList": "Inbox",
+  "newItemHotkey": "",
+  "searchHotkey": "",
+  "openOnStartup": true,
+  "showCompletedToday": true,
+  "dockBadge": false,
+  "dockBadgeIncludeToday": true,
+  "listStyles": [
+    {
+      "name": "Today",
+      "color": "#4a90e2",
+      "icon": "calendar-clock"
+    },
+    {
+      "name": "Inbox",
+      "color": "#43a047",
+      "icon": "inbox"
+    }
+  ]
+}

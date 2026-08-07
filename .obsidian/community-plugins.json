@@ -1,18 +1,14 @@
 [
   "obsidian-git",
   "templater-obsidian",
-  "font-size",
   "dataview",
-  "obsidian-dice-roller",
   "pdf-plus",
-  "tiddlywiki-import-export",
   "obsidian-style-settings",
-  "fantasy-content-generator",
   "obsidian-excalidraw-plugin",
-  "table-editor-obsidian",
-  "aprils-automatic-timelines",
-  "js-engine",
-  "chatgpt-md",
   "obsidian-icon-folder",
-  "inline-spoilers"
+  "datacore",
+  "notebook-navigator",
+  "mobile",
+  "nudge",
+  "canvas-draw"
 ]

@@ -12,7 +12,7 @@ source:
 ---
 A set is a collection of given elements (This can be anything, it's useful to think of them intuitively.)
 
-[[Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Set-Roster Notation]] is the notation used when speaking of a given set.
+[[Our Brain/My Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Set-Roster Notation]] is the notation used when speaking of a given set.
 
  Some sets are so commonly referred to that they are given special symbolic names.
  
@@ -30,6 +30,4 @@ The set of integers is a collection of points on the real number line. Therefore
 
 The name *discrete mathematics* comes from the distinction of *continuous* and *discrete* mathematical objects.
 
-Another way to specify a set is called the [[Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Set-Builder Notation]]. It describes the set of all numbers which meet a condition. 
-
-[[Subsets]] are another method of using sets.
+Another way to specify a set is called the [[Our Brain/My Zettelkasten/Literature and Topic Notes/Topics/Mathematics/Speaking Mathematically/Set-Builder Notation]]. 

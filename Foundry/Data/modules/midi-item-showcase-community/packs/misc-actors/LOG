@@ -1,5 +1,0 @@
-2024/12/04-05:23:09.462682 7f4524ffc640 Delete type=3 #1
-2024/12/04-05:23:09.467801 7f4521bff640 Level-0 table #5: started
-2024/12/04-05:23:09.468793 7f4521bff640 Level-0 table #5: 5652 bytes OK
-2024/12/04-05:23:09.469412 7f4521bff640 Delete type=0 #3
-2024/12/04-05:23:09.469504 7f4521bff640 Manual compaction at level-0 from '!actors!S7PWKzw97SwKHB7L' @ 72057594037927935 : 1 .. '!actors.items.effects!S7PWKzw97SwKHB7L.h9n0RhXMvkqadzrc.jFKhp34XZd32ryYT' @ 0 : 0; will stop at (end)

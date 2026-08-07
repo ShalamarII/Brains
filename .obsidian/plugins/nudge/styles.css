@@ -1,0 +1,643 @@
+/* Nudge plugin styles */
+
+.todo-root {
+	display: flex;
+	height: 100%;
+	overflow: hidden;
+}
+
+/* Sidebar rail */
+.todo-rail {
+	flex: 0 0 200px;
+	border-right: 1px solid var(--background-modifier-border);
+	padding: 8px;
+	overflow-y: auto;
+}
+
+.todo-rail-item {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 6px 8px;
+	border-radius: 6px;
+	cursor: pointer;
+	user-select: none;
+}
+
+.todo-rail-item:hover {
+	background: var(--background-modifier-hover);
+}
+
+.todo-rail-item.is-active {
+	background: var(--background-modifier-active-hover);
+	font-weight: 600;
+}
+
+.todo-rail-item.is-drop {
+	outline: 2px solid var(--interactive-accent);
+}
+
+.todo-rail-icon {
+	display: inline-flex;
+	color: var(--text-muted);
+}
+
+.todo-rail-label {
+	flex: 1;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.todo-rail-count {
+	color: var(--text-muted);
+	font-size: 0.8em;
+}
+
+/* Panel */
+.todo-panel {
+	flex: 1;
+	padding: 12px 16px;
+	overflow-y: auto;
+}
+
+.todo-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 8px;
+}
+
+.todo-header-left {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	min-width: 0;
+}
+
+.todo-header-icon {
+	display: inline-flex;
+	color: var(--text-muted);
+}
+
+.todo-header-icon svg {
+	width: 20px;
+	height: 20px;
+}
+
+.todo-header h3 {
+	margin: 0;
+}
+
+.todo-header-right {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+}
+
+.todo-add-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 4px;
+	cursor: pointer;
+}
+
+/* Search: a circled magnifying glass that widens into an inline input. */
+.todo-search {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	flex: 0 0 auto;
+	box-sizing: border-box;
+	width: 26px;
+	height: 26px;
+	padding: 0 6px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 13px;
+	overflow: hidden;
+	color: var(--text-muted);
+	transition: width 180ms ease-out, padding 180ms ease-out;
+}
+
+.todo-search.is-collapsed {
+	cursor: pointer;
+	justify-content: center;
+	padding: 0;
+}
+
+.todo-search.is-collapsed:hover {
+	background: var(--background-modifier-hover);
+	color: var(--text-normal);
+}
+
+.todo-search.is-open {
+	width: 220px;
+}
+
+.todo-search-icon {
+	display: inline-flex;
+	flex: 0 0 auto;
+}
+
+.todo-search-icon svg {
+	width: 14px;
+	height: 14px;
+}
+
+/* Bare input, like .todo-text-input: the pill supplies all the chrome. */
+.todo-search-input,
+.todo-search-input:focus,
+.todo-search-input:hover {
+	flex: 1;
+	min-width: 0;
+	background: transparent !important;
+	border: none !important;
+	border-radius: 0 !important;
+	box-shadow: none !important;
+	outline: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	height: auto;
+	font: inherit;
+	font-size: 0.85em;
+	color: var(--text-normal);
+}
+
+.todo-search-input::placeholder {
+	color: var(--text-faint);
+}
+
+.todo-search-clear {
+	display: inline-flex;
+	flex: 0 0 auto;
+	cursor: pointer;
+	color: var(--text-faint);
+}
+
+.todo-search-clear:hover {
+	color: var(--text-normal);
+}
+
+.todo-search-clear svg {
+	width: 13px;
+	height: 13px;
+}
+
+/* Fuzzy-match highlight: matched characters in the text, and the link button
+   when the match landed in the URL — same accent so both read as "matched". */
+.todo-search-match {
+	background: var(--text-highlight-bg);
+	border-radius: 2px;
+}
+
+.todo-search-match-link {
+	background: var(--text-highlight-bg);
+	border-radius: 4px;
+}
+
+.todo-eye {
+	display: inline-flex;
+	align-items: center;
+	cursor: pointer;
+	color: var(--text-faint);
+	opacity: 0.6;
+	/* Set apart from the list-level actions (pencil/copy/trash) to its left. */
+	margin-left: 8px;
+}
+
+.todo-eye:hover {
+	color: var(--text-muted);
+	opacity: 1;
+}
+
+.todo-eye svg {
+	width: 15px;
+	height: 15px;
+}
+
+.todo-edit-list {
+	display: inline-flex;
+	align-items: center;
+	cursor: pointer;
+	color: var(--text-faint);
+	opacity: 0.6;
+}
+
+.todo-edit-list:hover {
+	color: var(--text-muted);
+	opacity: 1;
+}
+
+.todo-edit-list svg {
+	width: 15px;
+	height: 15px;
+}
+
+.todo-trash {
+	display: inline-flex;
+	align-items: center;
+	cursor: pointer;
+	color: var(--text-faint);
+	opacity: 0.6;
+}
+
+.todo-trash:hover {
+	color: var(--text-error);
+	opacity: 1;
+}
+
+.todo-trash svg {
+	width: 15px;
+	height: 15px;
+}
+
+.todo-copy-list {
+	display: inline-flex;
+	align-items: center;
+	cursor: pointer;
+	color: var(--text-faint);
+	opacity: 0.6;
+}
+
+.todo-copy-list:hover {
+	color: var(--text-muted);
+	opacity: 1;
+}
+
+.todo-copy-list svg {
+	width: 15px;
+	height: 15px;
+}
+
+/* Completed-today group: a little breathing room so it doesn't read as
+   part of the active list below it. */
+.todo-completed-today {
+	margin-bottom: 8px;
+}
+
+/* Past-completed group: separated and dimmed to mark it as old. */
+.todo-past {
+	margin-top: 16px;
+	border-top: 1px solid var(--background-modifier-border);
+	opacity: 0.55;
+}
+
+.todo-empty {
+	color: var(--text-muted);
+	padding: 16px 0;
+}
+
+/* Items */
+.todo-list {
+	display: flex;
+	flex-direction: column;
+}
+
+.todo-item {
+	display: flex;
+	align-items: flex-start;
+	gap: 8px;
+	padding: 8px 6px;
+	border-bottom: 1px solid var(--background-modifier-border);
+	border-top: 2px solid transparent;
+}
+
+.todo-item:hover {
+	background: var(--background-modifier-hover);
+}
+
+.todo-item.is-dragging {
+	opacity: 0.4;
+}
+
+.todo-item.drop-before {
+	border-top: 2px solid var(--interactive-accent);
+}
+
+.todo-item.drop-after {
+	border-bottom: 2px solid var(--interactive-accent);
+}
+
+.todo-check {
+	margin-top: 2px;
+	cursor: pointer;
+}
+
+.todo-item-main {
+	flex: 1;
+	min-width: 0;
+}
+
+.todo-item.is-completed .todo-text {
+	text-decoration: line-through;
+	color: var(--text-muted);
+}
+
+/* One-shot feedback for the row just marked complete (not shown when
+   un-completing, and not replayed on later unrelated re-renders — the
+   todo-just-completed class is only ever applied for a single render). */
+.todo-just-completed .todo-check {
+	animation: todo-check-pop 180ms ease-out;
+}
+
+.todo-just-completed .todo-text {
+	animation: todo-text-complete-fade 180ms ease-out both;
+}
+
+@keyframes todo-check-pop {
+	0% {
+		transform: scale(1);
+	}
+	40% {
+		transform: scale(1.3);
+	}
+	100% {
+		transform: scale(1);
+	}
+}
+
+@keyframes todo-text-complete-fade {
+	from {
+		color: var(--text-normal);
+	}
+	to {
+		color: var(--text-muted);
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.todo-just-completed .todo-check,
+	.todo-just-completed .todo-text {
+		animation: none;
+	}
+}
+
+/* Clicking an item's text starts inline editing. */
+.todo-text {
+	cursor: text;
+}
+
+/* Inline text input (new-item add-row and existing-item edit). Overrides
+   Obsidian's default input chrome (border, background, focus ring) so the
+   field is visually indistinguishable from a plain todo-text line —
+   !important is needed to beat the built-in input[type="text"] rules. */
+.todo-text-input,
+.todo-text-input:focus,
+.todo-text-input:hover {
+	width: 100%;
+	background: transparent !important;
+	border: none !important;
+	border-radius: 0 !important;
+	box-shadow: none !important;
+	outline: none !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	height: auto;
+	font: inherit;
+	line-height: inherit;
+	color: var(--text-normal);
+}
+
+.todo-text-input::placeholder {
+	color: var(--text-faint);
+}
+
+/* Permanent add-row at the bottom of the active group. */
+.todo-add-row {
+	cursor: text;
+}
+
+.todo-add-row .todo-check {
+	pointer-events: none;
+}
+
+.todo-add-placeholder {
+	color: var(--text-faint);
+}
+
+.todo-rail-newlist {
+	color: var(--text-muted);
+	margin-top: 4px;
+}
+
+/* Separator above the @tag rows at the bottom of the rail. */
+.todo-rail-sep {
+	height: 1px;
+	margin: 8px 4px;
+	background: var(--background-modifier-border);
+}
+
+/* Inline @tag token inside task text. */
+.todo-inline-tag {
+	color: var(--interactive-accent);
+	cursor: pointer;
+}
+
+.todo-inline-tag:hover {
+	text-decoration: underline;
+}
+
+/* @-tag suggestion dropdown, anchored to whichever text input is active. */
+.todo-tag-suggest {
+	position: absolute;
+	z-index: 50;
+	margin-top: 2px;
+	background: var(--background-primary);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 6px;
+	box-shadow: var(--shadow-s);
+	overflow: hidden;
+}
+
+.todo-tag-suggest-item {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	padding: 5px 10px;
+	cursor: pointer;
+	color: var(--text-normal);
+	white-space: nowrap;
+}
+
+.todo-tag-suggest-item.is-selected,
+.todo-tag-suggest-item:hover {
+	background: var(--background-modifier-hover);
+}
+
+.todo-tag-suggest-icon {
+	display: inline-flex;
+	color: var(--text-muted);
+}
+
+.todo-tag-suggest-icon svg {
+	width: 12px;
+	height: 12px;
+}
+
+.todo-meta {
+	display: flex;
+	gap: 10px;
+	align-items: center;
+	margin-top: 2px;
+	font-size: 0.8em;
+	color: var(--text-muted);
+}
+
+.todo-list-tag {
+	display: inline-flex;
+	align-items: center;
+	gap: 3px;
+	padding: 0 6px;
+	border-radius: 8px;
+	border: 1px solid transparent;
+	background: var(--background-modifier-border);
+	color: var(--text-muted);
+	cursor: pointer;
+}
+
+.todo-list-tag:hover {
+	color: var(--text-normal);
+}
+
+.todo-filter-pill {
+	margin-left: 4px;
+}
+
+.todo-list-tag-icon {
+	display: inline-flex;
+}
+
+.todo-list-tag-icon svg {
+	width: 12px;
+	height: 12px;
+}
+
+.todo-due-wrap {
+	position: relative;
+	display: inline-flex;
+}
+
+.todo-due {
+	cursor: pointer;
+}
+
+.todo-due:hover {
+	text-decoration: underline;
+}
+
+/* Hidden native date input, anchored so its popup appears near the date. */
+.todo-due-input {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 0;
+	height: 0;
+	padding: 0;
+	border: 0;
+	opacity: 0;
+	pointer-events: none;
+}
+
+.todo-due.is-overdue {
+	color: var(--text-error);
+	font-weight: 600;
+}
+
+.todo-rec {
+	display: inline-flex;
+}
+
+.todo-pri {
+	flex: 0 0 auto;
+	font-size: 0.7em;
+	font-weight: 700;
+	padding: 1px 5px;
+	border-radius: 4px;
+	margin-top: 2px;
+	color: var(--text-on-accent);
+}
+
+.todo-pri-A {
+	background: var(--color-red);
+}
+.todo-pri-B {
+	background: var(--color-orange);
+}
+.todo-pri-C {
+	background: var(--color-blue);
+}
+
+.todo-pri.is-clickable {
+	cursor: pointer;
+}
+
+.todo-pri.is-clickable:hover {
+	opacity: 0.8;
+}
+
+.todo-pri.todo-filter-pill {
+	display: inline-flex;
+	align-items: center;
+	gap: 3px;
+	cursor: pointer;
+}
+
+.todo-actions {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+}
+
+.todo-action {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 4px;
+	cursor: pointer;
+	color: var(--text-muted);
+}
+
+.todo-action:hover {
+	color: var(--text-normal);
+}
+
+/* Wider link button + separation from the edit/delete group. */
+.todo-link {
+	padding-left: 8px;
+	padding-right: 8px;
+	margin-right: 4px;
+}
+
+.todo-action svg {
+	width: 16px;
+	height: 16px;
+	display: block;
+}
+
+/* Hover-only actions (edit / delete) */
+.todo-hover {
+	visibility: hidden;
+}
+
+.todo-item:hover .todo-hover {
+	visibility: visible;
+}
+
+/* Modal */
+.todo-rec-controls {
+	margin: 4px 0;
+}
+
+.todo-weekday {
+	display: inline-flex;
+	align-items: center;
+	gap: 3px;
+	margin-right: 8px;
+	font-size: 0.85em;
+}
+
+.todo-modal-error {
+	color: var(--text-error);
+	margin-top: 8px;
+}

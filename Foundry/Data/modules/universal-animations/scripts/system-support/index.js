@@ -1,1 +1,0 @@
-export * as dnd5e from "./UAdnd5e.js"

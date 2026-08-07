@@ -1,0 +1,11 @@
+{
+	"id": "mobile",
+	"name": "Mobile UX",
+	"version": "1.9.2",
+	"minAppVersion": "1.11.4",
+	"description": "UX enhancements with floating action button, context-aware toolbars, and gestures.",
+	"author": "Justice Vellacott",
+	"authorUrl": "https://github.com/TheJusticeMan",
+	"fundingUrl": "https://github.com/sponsors/TheJusticeMan",
+	"isDesktopOnly": false
+}

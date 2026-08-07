@@ -8,91 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75de78d067878ad1",
+            "id": "f6d302efd790768c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCLC Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OCLC Notes"
-            }
-          },
-          {
-            "id": "128354107bfb66d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CareerSpring Presentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CareerSpring Presentation"
-            }
-          },
-          {
-            "id": "f7b19f8237026b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fp"
-            }
-          },
-          {
-            "id": "c257fab402981629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reliance Bank MN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reliance Bank MN"
-            }
-          },
-          {
-            "id": "de7d0eb25eb698d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fp"
-            }
-          },
-          {
-            "id": "5032412ef8deac5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fp"
+              "type": "nudge-view",
+              "state": {},
+              "icon": "list-todo",
+              "title": "Nudge"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -144,12 +71,32 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "0df47a25a1423b5d",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          },
+          {
+            "id": "fdc94b31d510e548",
+            "type": "leaf",
+            "state": {
+              "type": "mobile-search-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mobile-search-view"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 463.5
   },
   "right": {
     "id": "e50e1315194d6c29",
@@ -236,26 +183,6 @@
             }
           },
           {
-            "id": "b765cc76a93e329a",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "2e74f0672b3e079a",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
             "id": "ba42eb2f5383a1e1",
             "type": "leaf",
             "state": {
@@ -264,9 +191,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b1d3b5d6cab68c7f",
+            "type": "leaf",
+            "state": {
+              "type": "tabs-leaf",
+              "state": {},
+              "icon": "tabs",
+              "title": "Tabs"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -286,21 +223,48 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "fantasy-content-generator:Fantasy Generators": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "notebook-navigator:Notebook Navigator": false,
+      "mobile:Create new note": false,
+      "mobile:Open search": false,
+      "mobile:Open tabs": false,
+      "nudge:Open Nudge": false,
+      "nudge:New task": false
     }
   },
-  "active": "128354107bfb66d6",
+  "active": "ba42eb2f5383a1e1",
   "lastOpenFiles": [
-    "fp.md",
-    "GSG Notes.md",
-    "Untitled.md",
-    "Personal Curriculum",
+    "What I want to do.md",
+    "Attachments/Untitled 2026-08-07 18.39.34.excalidraw.md",
+    "Our Brain/Our Zettelkasten/Practical Notes/Work/AutomationWorkz/Untitled.md",
     "St. Clair Packaging.md",
-    "Reliance Bank MN.md",
-    "Untitled 1.md",
+    "To Do (Tiddlywiki).md",
+    "Untitled.md",
     "Working On.md",
+    "Permissions - OCLC.md",
+    "Untitled",
+    "tux-todotodo.txt",
+    "tux-todtodo.txt",
+    "tux-totodo.txt",
+    "tux-tuxedotodo.txt",
+    "tux-tuxedtodo.txt",
+    "tux-tuxetodo.txt",
+    "tux-tuxtodo.txt",
+    "tux-tutodo.txt",
+    "tux-ttodo.txt",
+    "tux-todo/README.md",
+    "Our Brain/Our Zettelkasten/Practical Notes/Passwords.md",
+    "Our Brain/Our Zettelkasten/Practical Notes/Projects/Building Wealth..md",
+    "Our Brain/Our Zettelkasten/Practical Notes/Projects/Statistic App.md",
+    "Our Brain/My Zettelkasten/Practical Notes/Projects/Statistic App.md",
+    "fp.md",
+    "icons/1x1/delapouite/3d-glasses.svg",
+    "Reliance Bank MN.md",
+    "Agent Rate Calculator.md",
+    "CareerSpring Presentation.md",
+    "DriveTHRU PRG.md",
+    "Attachments/{695A9B7A-35CE-4777-ABB2-99548F2F7CAD}.png",
+    "GSG Notes.md",
     "OCLC Notes.md",
     "Lauren Taylor Homes.md",
     "Kalamazoo Bicycle Club.md",
@@ -308,36 +272,14 @@
     "Writings/The Virtue of Good.md",
     "Writings/The Soul.md",
     "Writings/Alec and Georgia/Alec and Georgia.md",
-    "Writings/Songlets/Every Living Breathing Moment.md",
-    "Writings/Structure/Plot of Untitled Story 2.md",
-    "Writings/Structure/Plot of Untitled Story 3.md",
-    "Writings/A Treatise of Humanity.md",
-    "Writings/A Wet Cognition..md",
-    "Writings/Remarkable - I Dream.md",
-    "Writings/I Dream.md",
-    "Writings/Brightly.md",
-    "Writings/The Nature of Learning.md",
-    "Writings/Sunlight.md",
-    "Writings/Shris Story.md",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/JITL CCNA Quizzes",
-    "Writings/Songlets",
-    "Writings/Alec and Georgia",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Devices and Initial Configuration",
-    "Writings/Structure",
-    "Writings",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Cybersecurity/Networking Basics/Chapter 14",
-    "Our Brain/Essays",
     "Attachments/{B5B2D307-74B3-4142-8423-AE21887B3549}.png",
     "Attachments/{ABBA2E5F-5CC4-4137-89B4-FF46C8EF93F5}.png",
-    "Our Brain/Our Zettelkasten/Literature and Topic Notes/Topics/Parenting",
     "Attachments/{F199A803-CE16-408F-A00E-A84F93D67918}.png",
     "Attachments/{08B9FED2-2B9F-4F55-949F-14601011B6F9}.png",
     "Attachments/Maps/Jurath.png",
     "icons/1x1/spencerdub/digital-trace.svg",
     "icons/1x1/sparker/bear-face.svg",
     "icons/1x1/pierre-leducq/small-fishing-sailboat.svg",
-    "icons/1x1/pierre-leducq/anti-aircraft-gun.svg",
-    "icons/1x1/pierre-leducq/shooner-sailboat.svg",
     "Our Brain/Our Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
     "Our Brain/My Zettelkasten/Literature and Topic Notes/Readwise/Books/Discrete Mathematics with Applications/Discrete Mathematics with Applications - Chapter One.canvas",
