@@ -30,9 +30,19 @@
               "icon": "lucide-file",
               "title": "Miles for Memories - 08102026"
             }
+          },
+          {
+            "id": "95911e87fe55f6a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,7 +257,7 @@
       "nudge:New task": false
     }
   },
-  "active": "49dcb7a78c812f89",
+  "active": "95911e87fe55f6a8",
   "lastOpenFiles": [
     "Miles for Memories - 08102026.md",
     "What I want to do.md",
