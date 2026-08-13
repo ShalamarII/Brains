@@ -22,3 +22,11 @@ x 2026-08-04 2026-08-04 Review Apex +corephp due:2026-08-04
 x 2026-08-07 2026-08-06 GRSY - How should we add the events? Statically or Dynamically? +corephp-grsy @email due:2026-08-06
 x 2026-08-07 2026-08-06 GRSY - Do you want the same link structure as before +corephp-grsy @email due:2026-08-06
 x 2026-08-07 2026-08-06 FLFS - Respond about myPrayerServices +corephp-FLFS @teamwork-desk due:2026-08-06
+x 2026-08-11 2026-07-28 Call Michael about progress with CCGOP +corephp @office
+x 2026-08-12 2026-08-06 Make sure TeqBuddies is billed out properly
+x 2026-08-13 2026-08-07 FNBT - Remind Alea/Trent about a review meeting +corephp-FNBT @email due:2026-08-10
+x 2026-08-13 2026-08-04 Get a response to Ellah from BCI +corephp-BCI due:2026-08-04
+x 2026-08-13 2026-08-06 GRSY - Add tasks for pages that can be built today +corephp-grsy @teamwork due:2026-08-06
+x 2026-08-13 2026-08-12 Lake Area Mortgage - Peter Fabian Form Issues due:2026-08-12
+x 2026-08-13 2026-08-12 Check in with BIG about the Dashboard.
+x 2026-08-13 2026-08-11 Chat Rehana team about Dead Asset Removal moving forward +corephp-LDJ @email due:2026-08-11

@@ -1,10 +1,7 @@
 (A) 2026-08-04 Create tasks for new FullFusion Project +corephp @teamwork due:2026-08-04
 (A) 2026-08-04 Build out project for FNBT +corephp @teamwork due:2026-08-04
-(A) 2026-07-28 Call Michael about progress with CCGOP +corephp @office
 2026-07-29 Update Health Insurance +japantrip @servicecanada due:2026-07-29
 (B) 2026-07-30 Review tasks from coreAssist Clients +corephp @office
 (B) 2026-08-03 Create tasks from PCSBD Meeting on 07282026 +corephp @teamwork due:2026-08-03
-2026-08-04 Get a response to Ellah from BCI +corephp-BCI due:2026-08-04
-2026-08-06 GRSY - Add tasks for pages that can be built today +corephp-grsy @teamwork due:2026-08-06
-(A) 2026-08-06 Make sure TeqBuddies is billed out properly
 (R) 2026-08-07 FNBT - Remind Alea/Trent about a review meeting +corephp-FNBT @email due:2026-08-10
+(A) 2026-08-12 HMAS - Getting an estimate from our team about the site. +corephp-HMAS @teamwork due:2026-08-12
