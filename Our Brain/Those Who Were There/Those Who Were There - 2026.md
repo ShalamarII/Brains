@@ -19,3 +19,8 @@
 | Stealing the Keys to the Time Machine | Waitress                     | Clover               |
 | Stress Relief                         | late night drive home        | Gustavo              |
 | cigarette smoke                       | Olivia Rodrigo               | Rayne                |
+| All Good                              | Samm Henshaw                 | Shane                |
+| Ace                                   | Shubh                        | Rye                  |
+| Bokete                                | Bad Bunny                    | Sui                  |
+| Grey Flap                             | Pist.On                      | Collin               |
+| 4Me 4Me                               | Malcolm Todd                 | Akina                |
