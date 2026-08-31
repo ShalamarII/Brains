@@ -2,6 +2,9 @@
 (A) 2026-08-04 Build out project for FNBT +corephp @teamwork due:2026-08-04
 2026-07-29 Update Health Insurance +japantrip @servicecanada due:2026-07-29
 (B) 2026-07-30 Review tasks from coreAssist Clients +corephp @office
-(B) 2026-08-03 Create tasks from PCSBD Meeting on 07282026 +corephp @teamwork due:2026-08-03
-(R) 2026-08-07 FNBT - Remind Alea/Trent about a review meeting +corephp-FNBT @email due:2026-08-10
+x 2026-08-31 2026-08-03 Create tasks from PCSBD Meeting on 07282026 @teamwork +corephp due:2026-08-03 pri:B
+x 2026-08-31 2026-08-07 FNBT - Remind Alea/Trent about a review meeting @email +corephp-FNBT due:2026-08-10 pri:R
 (A) 2026-08-12 HMAS - Getting an estimate from our team about the site. +corephp-HMAS @teamwork due:2026-08-12
+
+2026-08-31 Great Restaurants of Long Island - Small Edits +Inbox due:2026-08-31 link:https://mail.google.com/mail/u/0/#inbox/FMfcgzQhWLFnRMSVjCjKWbgvJMTGFcJJ
+2026-08-31 Have claude do a writeup of information for Peter Fabian +Inbox due:2026-08-31
