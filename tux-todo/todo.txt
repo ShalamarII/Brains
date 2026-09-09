@@ -5,3 +5,5 @@
 (B) 2026-08-03 Create tasks from PCSBD Meeting on 07282026 +corephp @teamwork due:2026-08-03
 (R) 2026-08-07 FNBT - Remind Alea/Trent about a review meeting +corephp-FNBT @email due:2026-08-10
 (A) 2026-08-12 HMAS - Getting an estimate from our team about the site. +corephp-HMAS @teamwork due:2026-08-12
+
+(A) 2026-09-08 Eizzy Bar Pro (Clear Vue Cyclones) +Inbox due:2026-09-08
