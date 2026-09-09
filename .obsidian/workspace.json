@@ -84,8 +84,41 @@
               "icon": "lucide-file",
               "title": "Those Who Were There - 2026"
             }
+          },
+          {
+            "id": "0e48ed0a6400751a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/Employee Direct Deposit Authorization (7).pdf",
+                "page": 1,
+                "left": -25,
+                "top": 830,
+                "zoom": 0.6087962962962963
+              },
+              "icon": "lucide-file-text",
+              "title": "Employee Direct Deposit Authorization (7)"
+            }
+          },
+          {
+            "id": "91c0a4d1ef7f3ac6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Our Brain/Work/Attachments/corePHP/2026 MIW4.pdf",
+                "page": 1,
+                "left": -23,
+                "top": 795,
+                "zoom": 0.6446078431372549
+              },
+              "icon": "lucide-file-text",
+              "title": "2026 MIW4"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -300,8 +333,16 @@
       "nudge:New task": false
     }
   },
-  "active": "374a3e370fe11c82",
+  "active": "91c0a4d1ef7f3ac6",
   "lastOpenFiles": [
+    "Our Brain/Work/Attachments/corePHP/Employee Direct Deposit Authorization (7).pdf",
+    "Our Brain/Work/Attachments/corePHP/2026 W4.pdf",
+    "Our Brain/Work/Attachments/corePHP/2026 I-9.pdf",
+    "Our Brain/Work/Attachments/corePHP/2026 MIW4.pdf",
+    "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/2026 MIW4 (Signed).pdf",
+    "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/2026 W4 (Signed).pdf",
+    "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/2026 I-9 (Signed).pdf",
+    "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/Employee Direct Deposit Authorization (7).pdf",
     "Our Brain/Those Who Were There/Those Who Were There - 2026.md",
     "conflict-files-obsidian-git.md",
     "OCLC - Events Development & Throughput.md",
@@ -316,13 +357,6 @@
     "Untitled",
     "tux-todotodo.txt",
     "tux-todtodo.txt",
-    "tux-totodo.txt",
-    "tux-tuxedotodo.txt",
-    "tux-tuxedtodo.txt",
-    "tux-tuxetodo.txt",
-    "tux-tuxtodo.txt",
-    "tux-tutodo.txt",
-    "tux-ttodo.txt",
     "tux-todo/README.md",
     "Our Brain/Our Zettelkasten/Practical Notes/Passwords.md",
     "Our Brain/Our Zettelkasten/Practical Notes/Projects/Building Wealth..md",
@@ -339,7 +373,6 @@
     "OCLC Notes.md",
     "Lauren Taylor Homes.md",
     "Kalamazoo Bicycle Club.md",
-    "Skyblock Stuff to Get.md",
     "Attachments/{B5B2D307-74B3-4142-8423-AE21887B3549}.png",
     "Attachments/{ABBA2E5F-5CC4-4137-89B4-FF46C8EF93F5}.png",
     "Attachments/{F199A803-CE16-408F-A00E-A84F93D67918}.png",
