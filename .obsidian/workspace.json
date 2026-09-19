@@ -109,16 +109,13 @@
               "state": {
                 "file": "Our Brain/Work/Attachments/corePHP/2026 MIW4.pdf",
                 "page": 1,
-                "left": -23,
-                "top": 795,
-                "zoom": 0.6446078431372549
+                "zoom": -0.049019607843137254
               },
               "icon": "lucide-file-text",
               "title": "2026 MIW4"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
