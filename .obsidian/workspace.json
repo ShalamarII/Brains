@@ -8,111 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6d302efd790768c",
-            "type": "leaf",
-            "state": {
-              "type": "nudge-view",
-              "state": {},
-              "icon": "list-todo",
-              "title": "Nudge"
-            }
-          },
-          {
-            "id": "49dcb7a78c812f89",
+            "id": "3f561f26889f4f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miles for Memories - 08102026.md",
+                "file": "Our Brain/KTaNE/Turn The Keys.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Miles for Memories - 08102026"
-            }
-          },
-          {
-            "id": "95911e87fe55f6a8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
-            }
-          },
-          {
-            "id": "31d85fd59108773b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCLC - Events Development & Throughput.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OCLC - Events Development & Throughput"
-            }
-          },
-          {
-            "id": "77c68fd4e5323ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Our Brain/Those Who Were There/Those Who Were There - 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Those Who Were There - 2026"
-            }
-          },
-          {
-            "id": "374a3e370fe11c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Our Brain/Those Who Were There/Those Who Were There - 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Those Who Were There - 2026"
-            }
-          },
-          {
-            "id": "0e48ed0a6400751a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/Employee Direct Deposit Authorization (7).pdf",
-                "page": 1,
-                "left": -25,
-                "top": 830,
-                "zoom": 0.6087962962962963
-              },
-              "icon": "lucide-file-text",
-              "title": "Employee Direct Deposit Authorization (7)"
-            }
-          },
-          {
-            "id": "91c0a4d1ef7f3ac6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Our Brain/Work/Attachments/corePHP/2026 MIW4.pdf",
-                "page": 1,
-                "zoom": -0.049019607843137254
-              },
-              "icon": "lucide-file-text",
-              "title": "2026 MIW4"
+              "title": "Turn The Keys"
             }
           }
         ]
@@ -188,6 +94,26 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "mobile-search-view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "246f21ef4611f5e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f054ca89d9daf6f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timers"
             }
           }
         ]
@@ -330,16 +256,20 @@
       "nudge:New task": false
     }
   },
-  "active": "91c0a4d1ef7f3ac6",
+  "active": "3f561f26889f4f0d",
   "lastOpenFiles": [
-    "Our Brain/Work/Attachments/corePHP/Employee Direct Deposit Authorization (7).pdf",
-    "Our Brain/Work/Attachments/corePHP/2026 W4.pdf",
-    "Our Brain/Work/Attachments/corePHP/2026 I-9.pdf",
-    "Our Brain/Work/Attachments/corePHP/2026 MIW4.pdf",
-    "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/2026 MIW4 (Signed).pdf",
-    "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/2026 W4 (Signed).pdf",
-    "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/2026 I-9 (Signed).pdf",
-    "Our Brain/Work/Attachments/corePHP/2026 Employee Documents (Signed)/Employee Direct Deposit Authorization (7).pdf",
+    "Timers.md",
+    "Our Brain/KTaNE/Turn The Keys.md",
+    "Our Brain/KTaNE",
+    "boot_dev/src/main.ts",
+    "boot_dev/15_2/tsconfig.json",
+    "boot_dev/15_2/lesson.js.map",
+    "boot_dev/15_2/lesson.ts",
+    "boot_dev/15_2/lesson.js",
+    "boot_dev/15_2/lesson.d.ts.map",
+    "boot_dev/15_2/lesson.d.ts",
+    "boot_dev/src",
+    "boot_dev/package.json",
     "Our Brain/Those Who Were There/Those Who Were There - 2026.md",
     "conflict-files-obsidian-git.md",
     "OCLC - Events Development & Throughput.md",
@@ -351,9 +281,6 @@
     "To Do (Tiddlywiki).md",
     "Working On.md",
     "Permissions - OCLC.md",
-    "Untitled",
-    "tux-todotodo.txt",
-    "tux-todtodo.txt",
     "tux-todo/README.md",
     "Our Brain/Our Zettelkasten/Practical Notes/Passwords.md",
     "Our Brain/Our Zettelkasten/Practical Notes/Projects/Building Wealth..md",
@@ -369,7 +296,6 @@
     "GSG Notes.md",
     "OCLC Notes.md",
     "Lauren Taylor Homes.md",
-    "Kalamazoo Bicycle Club.md",
     "Attachments/{B5B2D307-74B3-4142-8423-AE21887B3549}.png",
     "Attachments/{ABBA2E5F-5CC4-4137-89B4-FF46C8EF93F5}.png",
     "Attachments/{F199A803-CE16-408F-A00E-A84F93D67918}.png",
