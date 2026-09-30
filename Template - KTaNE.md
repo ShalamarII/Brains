@@ -1,5 +1,5 @@
 Batteries: 
-Ports:
+Ports: 
     - DVI-D
     - Parallel 
     - PS-2
@@ -9,3 +9,5 @@ Ports:
 Indicators:
 
 
+Vowel in Serial: 
+Last Digit of Serial: 

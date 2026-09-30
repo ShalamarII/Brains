@@ -20,12 +20,3 @@
 ##### AFTER THE FOLLOWING
 - Turned all the Higher Prio Right KEYS
 - Solved all Morse Code, Wires, The Button, Color Flash
-
-### ... .... . ._.. ._..
-
-### ... .... . ._.. ._..
-
-_... ___ __ _... ..._
-
-_... ._. .. _._ .... ._.
-
