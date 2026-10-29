@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f561f26889f4f0d",
+            "id": "6ea4119e0e556619",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Our Brain/KTaNE/Turn The Keys.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Turn The Keys"
-            }
-          },
-          {
-            "id": "5d0a69287743547f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template - KTaNE.md",
+                "file": "Writings/Makoto Shinkai - The Man I Trust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template - KTaNE"
+              "title": "Makoto Shinkai - The Man I Trust"
             }
           },
           {
-            "id": "ee1cf0ba8dfd3d2b",
+            "id": "19f0c19916beeacc",
             "type": "leaf",
             "state": {
               "type": "nudge-view",
@@ -46,27 +32,17 @@
             }
           },
           {
-            "id": "5f04ec600498f930",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {},
-              "icon": "gear",
-              "title": "Style Settings"
-            }
-          },
-          {
-            "id": "4e4f3b5634eb06e8",
+            "id": "6541ddd3864481b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networking Projects.md",
+                "file": "Our Brain/Those Who Were There/Those Who Were There - 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Networking Projects"
+              "title": "Those Who Were There - 2026"
             }
           }
         ],
@@ -143,26 +119,6 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "mobile-search-view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "246f21ef4611f5e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f054ca89d9daf6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timers"
             }
           }
         ]
@@ -305,10 +261,22 @@
       "nudge:New task": false
     }
   },
-  "active": "f054ca89d9daf6f1",
+  "active": "6541ddd3864481b6",
   "lastOpenFiles": [
-    "Template - KTaNE.md",
+    "Writings/Makoto Shinkai - The Man I Trust.md",
+    "Writings/A Wet Cognition..md",
+    "Writings/Boy (Reprise).md",
+    "Writings/I Dream.md",
+    "Writings/Remarkable - I Dream.md",
+    "Writings/Shame.md",
+    "Writings/The Virtue of Good.md",
+    "Writings/The Soul.md",
+    "Writings/The Nature of Learning.md",
+    "Writings/Sunlight.md",
+    "Writings/Shris Story.md",
+    "Writings/Brightly.md",
     "Our Brain/KTaNE/Turn The Keys.md",
+    "Template - KTaNE.md",
     "Timers.md",
     "Computer Networking Projects.md",
     "Our Brain/KTaNE",
@@ -331,20 +299,8 @@
     "St. Clair Packaging.md",
     "To Do (Tiddlywiki).md",
     "Working On.md",
-    "Permissions - OCLC.md",
-    "tux-todo/README.md",
-    "Our Brain/Our Zettelkasten/Practical Notes/Passwords.md",
-    "Our Brain/Our Zettelkasten/Practical Notes/Projects/Building Wealth..md",
-    "Our Brain/Our Zettelkasten/Practical Notes/Projects/Statistic App.md",
-    "Our Brain/My Zettelkasten/Practical Notes/Projects/Statistic App.md",
-    "fp.md",
     "icons/1x1/delapouite/3d-glasses.svg",
-    "Reliance Bank MN.md",
-    "Agent Rate Calculator.md",
-    "CareerSpring Presentation.md",
-    "DriveTHRU PRG.md",
     "Attachments/{695A9B7A-35CE-4777-ABB2-99548F2F7CAD}.png",
-    "GSG Notes.md",
     "Attachments/{B5B2D307-74B3-4142-8423-AE21887B3549}.png",
     "Attachments/{ABBA2E5F-5CC4-4137-89B4-FF46C8EF93F5}.png",
     "Attachments/{F199A803-CE16-408F-A00E-A84F93D67918}.png",
