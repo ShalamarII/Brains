@@ -7,5 +7,6 @@
   ],
   "accentColor": "",
   "baseFontSize": 15,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "showRibbon": true
 }
